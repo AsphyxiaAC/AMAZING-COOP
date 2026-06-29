@@ -1,0 +1,17 @@
+/*
+	Following named colors are supported:
+	 - {white}	(use instead of \x01 )
+	 - {cyan}	(use instead of \x03 )
+	 - {orange}	(use instead of \x04 )
+	 - {green}	(use instead of \x05 )
+*/
+
+"Phrases"
+{
+	"Witch_Victim_Info"
+	{
+		"en"		"{green}[AMAZING-COOP] {white}Witch Turned {cyan}%N {white}Into A {orange}Ghost :)"
+		"es"		"{green}[AMAZING-COOP] {white}La Witch Convirtio a {cyan}%N {white}En Un {orange}Fantasma :)"
+		"ru"		"{green}[AMAZING-COOP] {white}Ведьма превратила {cyan}%N {cyan}в {white}призрака :)"
+	}
+}

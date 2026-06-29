@@ -1,0 +1,92 @@
+"Phrases"
+{
+    "AlreadyInTeam" 
+    {
+        "en"        "[JoinMenu] %N is already on that team."
+        "es"        "[JoinMenu] %N ya está en ese equipo."
+    }
+
+    "TeamFull"
+    {
+        "en"        "[JoinMenu] The destination team is full."
+        "es"        "[JoinMenu] El equipo destino está lleno."
+    }
+
+    "NoSurvivorBot"
+    {
+        "en"        "[JoinMenu] No available Survivor bot for takeover."
+        "es"        "[JoinMenu] No hay bot Survivor disponible para takeover."
+    }
+
+    "MovedToSurvivors"
+    {
+        "en"        "[JoinMenu] %N was moved to Survivors."
+        "es"        "[JoinMenu] %N fue movido a Survivors."
+    }
+
+    "MovedToTeam"
+    {
+        "en"        "[JoinMenu] %N was moved to %s."
+        "es"        "[JoinMenu] %N fue movido a %s."
+    }
+
+    "PlayerUnavailable"
+    {
+        "en"        "[JoinMenu] One of the players is no longer available."
+        "es"        "[JoinMenu] Uno de los jugadores ya no está disponible."
+    }
+
+    "SameTeam"
+    {
+        "en"        "[JoinMenu] Both players are already on the same team."
+        "es"        "[JoinMenu] Ambos jugadores ya están en el mismo equipo."
+    }
+
+    "PlayersSwapped"
+    {
+        "en"        "[JoinMenu] %N was swapped with %N."
+        "es"        "[JoinMenu] %N fue intercambiado con %N."
+    }
+
+    "AlreadyInTeamSimple"
+    {
+        "en"        "[JoinMenu] You are already in a team."
+        "es"        "[JoinMenu] Ya estás en un equipo."
+    }
+
+    "NoSlotsAvailable"
+    {
+        "en"        "[JoinMenu] No available slots."
+        "es"        "[JoinMenu] No hay espacios disponibles."
+    }
+
+    "TeamsBalanced"
+    {
+        "en"        "[JoinMenu] Teams are balanced."
+        "es"        "[JoinMenu] Equipos equilibrados."
+    }
+
+    "TeamsRebalanced"
+    {
+        "en"        "[JoinMenu] Teams rebalanced."
+        "es"        "[JoinMenu] Equipos reequilibrados."
+    }
+
+    "UsageSwap"
+    {
+        "en"        "Usage: sm_swap <userid1> <userid2>"
+        "es"        "Uso: sm_swap <userid1> <userid2>"
+    }
+
+    "AdminCommandsList1"
+    {
+        "en"        "[JoinMenu] Available commands:"
+        "es"        "[JoinMenu] Comandos disponibles:"
+    }
+
+    "AdminCommandsList2"
+    {
+        "en"        "  sm_swap <userid1> <userid2> / sm_unscramble"
+        "es"        "  sm_swap <userid1> <userid2> / sm_unscramble"
+    }
+}

@@ -1,0 +1,803 @@
+/*
+	Following named colors are supported:
+	 - {default}	(use instead of \x01)
+	 - {cyan}	(use instead of \x03)
+	 - {blue}	(use instead of \x04)
+	 - {olive}	(use instead of \x05)
+*/
+
+"Phrases"
+{
+	"In-game only"
+	{
+		"en"		"{olive}☑ {default}Menu is in-game only."
+		"es"		"{olive}☑ {default}El menú solo funciona dentro del {blue}juego"
+		"pt"		"{olive}☑ {default}O menu funciona apenas dentro do jogo."
+	}
+	"Admin only"
+	{
+		"en"		"{olive}☑ {default}Este comando es solo para {blue}VIP"
+		"es"		"{olive}☑ {default}Este comando es solo para {blue}VIP"
+		"pt"		"{olive}☑ {default}A alteração de modelo é apenas para administradores."
+	}
+	"Alive only"
+	{
+		"en"		"{olive}☑ {default}Pick a Model to be Applied NextSpawn"
+		"es"		"{olive}☑ {default}Elige un modelo para aplicarlo al reaparecer"
+		"pt"		"{olive}☑ {default}Escolha um modelo para aplicar quando reviver"
+	}
+	"Lux's Model Changer"
+	{
+		"en"		"|✰ Menu De Skin ✰|"
+		"es"		"|✰ Menu De Skin ✰|"
+		"pt"		"|✰ Menu De Skin ✰|"
+	}
+	"Normal Models"
+	{
+		"en"		"Normal Models"
+		"es"		"Modelos Normales"
+		"pt"		"Modelo Padrão"
+	}
+	"Random Common"
+	{
+		"en"		"Random Common"
+		"es"		"Comúnes aleatorios"
+		"pt"		"Infectado Comum (aleatório)"
+	}
+	"Witch"
+	{
+		"en"		"Witch"
+		"es"		"Bruja"
+		"pt"		"Witch"
+	}
+	"Witch Bride"
+	{
+		"en"		"Witch Bride"
+		"es"		"Bruja (Novia)"
+		"pt"		"Witch (noiva)"
+	}
+	"Boomer"
+	{
+		"en"		"Boomer"
+		"es"		"Boomer"
+		"pt"		"Boomer"
+	}
+	"Boomette"
+	{
+		"en"		"Boomette"
+		"es"		"Boomette"
+		"pt"		"Boomette"
+	}
+	"Hunter"
+	{
+		"en"		"Hunter"
+		"es"		"Hunter"
+		"pt"		"Hunter"
+	}
+	"Hunter L4D1"
+	{
+		"en"		"Hunter L4D1"
+		"es"		"Hunter L4D1"
+		"pt"		"Hunter L4D1"
+	}
+	"Smoker"
+	{
+		"en"		"Smoker"
+		"es"		"Smoker"
+		"pt"		"Smoker"
+	}
+	"Riot Cop"
+	{
+		"en"		"Riot Cop"
+		"es"		"Antidisturbios"
+		"pt"		"Policial"
+	}
+	"MudMan"
+	{
+		"en"		"MudMan"
+		"es"		"Embarrados"
+		"pt"		"Homem Lamacento"
+	}
+	"Chopper Pilot"
+	{
+		"en"		"Chopper Pilot"
+		"es"		"Piloto"
+		"pt"		"Piloto de Helicóptero"
+	}
+	"CEDA"
+	{
+		"en"		"CEDA"
+		"es"		"Agente de la CEDA"
+		"pt"		"Agente da CEDA"
+	}
+	"Clown"
+	{
+		"en"		"Clown"
+		"es"		"Payaso"
+		"pt"		"Palhaço"
+	}
+	"Jimmy Gibs"
+	{
+		"en"		"Jimmy Gibs"
+		"es"		"Jimmy Gibs"
+		"pt"		"Jimmy Gibs"
+	}
+	"Fallen Survivor"
+	{
+		"en"		"Fallen Survivor"
+		"es"		"Superviviente caído"
+		"pt"		"Sobrevivente Caído"
+	}
+	"Nick"
+	{
+		"en"		"Nick"
+		"es"		"Nick"
+		"pt"		"Nick"
+	}
+	"Rochelle"
+	{
+		"en"		"Rochelle"
+		"es"		"Rochelle"
+		"pt"		"Rochelle"
+	}
+	"Coach"
+	{
+		"en"		"Coach"
+		"es"		"Coach"
+		"pt"		"Coach"
+	}
+	"Ellis"
+	{
+		"en"		"Ellis"
+		"es"		"Ellis"
+		"pt"		"Ellis"
+	}
+	"Bill"
+	{
+		"en"		"Bill"
+		"es"		"Bill"
+		"pt"		"Bill"
+	}
+	"Zoey"
+	{
+		"en"		"Zoey"
+		"es"		"Zoey"
+		"pt"		"Zoey"
+	}
+	"Francis"
+	{
+		"en"		"Francis"
+		"es"		"Francis"
+		"pt"		"Francis"
+	}
+	"Louis"
+	{
+		"en"		"Louis"
+		"es"		"Louis"
+		"pt"		"Louis"
+	}
+	"Banana"
+	{
+		"en"		"Banana"
+		"es"		"Banana"
+		"pt"		"Banana"
+	}
+	"Shaggy"
+	{
+		"en"		"Shaggy"
+		"es"		"Shaggy"
+		"pt"		"Shaggy"
+	}
+	"Woody"
+	{
+		"en"		"Woody"
+		"es"		"Woody"
+		"pt"		"Woody"
+	}
+	"Charger"
+	{
+		"en"		"Charger"
+		"es"		"Charger"
+		"pt"		"Charger"
+	}
+	"Loli"
+	{
+		"en"		"Enterprise"
+		"es"		"Enterprise"
+		"pt"		"Enterprise"
+	}
+	"Kermit"
+	{
+		"en"		"Kermit"
+		"es"		"Kermit"
+		"pt"		"Kermit"
+	}
+	"Tank"
+	{
+		"en"		"Tank"
+		"es"		"Tank"
+		"pt"		"Tank"
+	}
+	"Crash"
+	{
+		"en"		"Crash"
+		"es"		"Crash"
+		"pt"		"Crash"
+	}
+	"Crash2"
+	{
+		"en"		"Crash Car"
+		"es"		"Crash Car"
+		"pt"		"Crash Car"
+	}
+	"Doofenshmirtz"
+	{
+		"en"		"Doofenshmirtz"
+		"es"		"Doofenshmirtz"
+		"pt"		"Doofenshmirtz"
+	}
+	"CJ"
+	{
+		"en"		"CJ"
+		"es"		"CJ"
+		"pt"		"CJ"
+	}
+	"TrollFace"
+	{
+		"en"		"Troll Face"
+		"es"		"Troll Face"
+		"pt"		"Troll Face"
+	}
+	"Roblox"
+	{
+		"en"		"Roblox"
+		"es"		"Roblox"
+		"pt"		"Roblox"
+	}
+	"Michael"
+	{
+		"en"		"Michael Jackson"
+		"es"		"Michael Jackson"
+		"pt"		"Michael Jackson"
+	}
+	"Anonymous"
+	{
+		"en"		"Anonymous"
+		"es"		"Anonymous"
+		"pt"		"Anonymous"
+	}
+	"Bill_Venezolano"
+	{
+		"en"		"Bill Venezolano"
+		"es"		"Bill Venezolano"
+		"pt"		"Bill Venezolano"
+	}
+	"Calamardo"
+	{
+		"en"		"Calamardo"
+		"es"		"Calamardo"
+		"pt"		"Calamardo"
+	}
+	"Clown2"
+	{
+		"en"		"Clown"
+		"es"		"Clown"
+		"pt"		"Clown"
+	}
+	"Pepsiman"
+	{
+		"en"		"Pepsiman"
+		"es"		"Pepsiman"
+		"pt"		"Pepsiman"
+	}
+	"Plague_Doctor"
+	{
+		"en"		"Plague Doctor"
+		"es"		"Medico Da Peste"
+		"pt"		"Medico De La Peste"
+	}
+	"Pvz"
+	{
+		"en"		"Crazy Dave"
+		"es"		"Crazy Dave"
+		"pt"		"Crazy Dave"
+	}
+	"Rat"
+	{
+		"en"		"Rat"
+		"es"		"Rata"
+		"pt"		"Rata"
+	}
+	"Shark"
+	{
+		"en"		"Shark"
+		"es"		"Tubarao"
+		"pt"		"Tiburon"
+	}
+	"Snitzel"
+	{
+		"en"		"Schnitzel"
+		"es"		"Schnitzel"
+		"pt"		"Schnitzel"
+	}
+	"Yisus"
+	{
+		"en"		"Yisus"
+		"es"		"Jesus"
+		"pt"		"Jesus"
+	}
+	"Saw"
+	{
+		"en"		"Saw"
+		"es"		"Saw"
+		"pt"		"Saw"
+	}
+	"Gatonana"
+	{
+		"en"		"Banana Cat"
+		"es"		"Gato Banana"
+		"pt"		"Gato Banana"
+	}
+	"Fin"
+	{
+		"en"		"Fin The Human"
+		"es"		"Fin El Humano"
+		"pt"		"Fin"
+	}
+	"Nessie"
+	{
+		"en"		"Nessie"
+		"es"		"Nessie"
+		"pt"		"Nessie"
+	}
+	"Charger"
+	{
+		"en"		"Charger"
+		"es"		"Charger"
+		"pt"		"Charger"
+	}
+	"Jockey"
+	{
+		"en"		"Jockey"
+		"es"		"Jockey"
+		"pt"		"Jockey"
+	}
+	"Spitter"
+	{
+		"en"		"Spitter"
+		"es"		"Spitter"
+		"pt"		"Spitter"
+	}
+	"Campeon"
+	{
+		"en"		"Posion Of Rats"
+		"es"		"Campeon"
+		"pt"		"Campeon"
+	}
+	"Thanos"
+	{
+		"en"		"Thanos"
+		"es"		"Thanos"
+		"pt"		"Thanos"
+	}
+	"Bowser"
+	{
+		"en"		"Bowser"
+		"es"		"Bowser"
+		"pt"		"Bowser"
+	}
+	"Tommy"
+	{
+		"en"		"Tommy Vercety"
+		"es"		"Tommy Vercety"
+		"pt"		"Tommy Vercety"
+	}
+	"Disabled_Models_Smoker"
+	{
+		"en"		"{olive}☑ {default}Server Has Disabled Models for {blue}Smoker"
+		"es"		"{olive}☑ {default}El servidor ha deshabilitado los modelos de {blue}Smoker"
+		"pt"		"{olive}☑ {default}O servidor desabilitou a alteração de modelo para {blue}Smoker"
+	}
+	"Disabled_Models_Boomer"
+	{
+		"en"		"{olive}☑ {default}Server Has Disabled Models for {blue}Boomer"
+		"es"		"{olive}☑ {default}El servidor ha deshabilitado los modelos de {blue}Boomer"
+		"pt"		"{olive}☑ {default}O servidor desabilitou a alteração de modelo para {blue}Boomer"
+	}
+	"Disabled_Models_Hunter"
+	{
+		"en"		"{olive}☑ {default}Server Has Disabled Models for {blue}Hunter"
+		"es"		"{olive}☑ {default}El servidor ha deshabilitado los modelos de {blue}Hunter"
+		"pt"		"{olive}☑ {default}O servidor desabilitou a alteração de modelo para {blue}Hunter"
+	}
+	"Disabled_Models_Survivors"
+	{
+		"en"		"{olive}☑ {default}Server Has Disabled Models for {blue}Survivors"
+		"es"		"{olive}☑ {default}El servidor ha deshabilitado los modelos de {blue}Supervivientes"
+		"pt"		"{olive}☑ {default}O servidor desabilitou a alteração de modelo para {blue}Sobreviventes"
+	}
+	"Default_Models"
+	{
+		"en"		"{olive}☑ {default}Models will be default"
+		"es"		"{olive}☑ {default}Los modelos serán por defecto"
+		"pt"		"{olive}☑ {default}Alterado para o modelo padrão"
+	}
+	"Unsupported_Spitter"
+	{
+		"en"		"{olive}☑ {default}Models Don't Work for {blue}Spitter"
+		"es"		"{olive}☑ {default}Los modelos no funcionan para {blue}Spitter"
+		"pt"		"{olive}☑ {default}A alteração de modelo não funciona para {blue}Spitter"
+	}
+	"Unsupported_Jockey"
+	{
+		"en"		"{olive}☑ {default}Models Don't Work for {blue}Jockey"
+		"es"		"{olive}☑ {default}Los modelos no funcionan para {blue}Jockey"
+		"pt"		"{olive}☑ {default}A alteração de modelo não funciona para {blue}Jockey"
+	}
+	"Unsupported_Charger"
+	{
+		"en"		"{olive}☑ {default}Models Don't Work for {blue}Charger"
+		"es"		"{olive}☑ {default}Los modelos no funcionan para {blue}Charger"
+		"pt"		"{olive}☑ {default}A alteração de modelo não funciona para {blue}Charger"
+	}
+	"Model_Common"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Common Infected"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Infectado común"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Infectado Comum"
+	}
+	"Model_Witch"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Witch"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Bruja"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Witch"
+	}
+	"Model_Witch_Bride"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Witch Bride"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Bruja(Novia)"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Witch (noiva)"
+	}
+	"Model_Boomer"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Boomer"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Boomer"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Boomer"
+	}
+	"Model_Boomette"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Boomette"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Boomette"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Boomete"
+	}
+	"Model_Hunter"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Hunter"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Hunter"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Hunter"
+	}
+	"Model_Hunter_L4D1"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Hunter L4D1"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Hunter L4D1"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Hunter L4D1"
+	}
+	"Model_Smoker"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Smoker"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Smoker"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Smoker"
+	}
+	"Model_RiotCop"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}RiotCop"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Antidisturbios"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Policial"
+	}
+	"Model_MudMen"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}MudMen"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Embarrado"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Homem Lamacento"
+	}
+	"Model_Chopper_Pilot"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Chopper Pilot"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Piloto"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Piloto de Helicóptero"
+	}
+	"Model_CEDA"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}CEDA"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Agente de la CEDA"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}CEDA"
+	}
+	"Model_Clown"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Clown"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Payaso"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Palhaço"
+	}
+	"Model_Jimmy_Gibs"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Jimmy Gibs"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Jimmy Gibs"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Jimmy Gibs"
+	}
+	"Model_Fallen_Survivor"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Fallen Survivor"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Superviviente caído"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Sobrevivente Caído"
+	}
+	"Model_Nick"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Nick"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Nick"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Nick"
+	}
+	"Model_Rochelle"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Rochelle"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Rochelle"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Rochelle"
+	}
+	"Model_Coach"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Coach"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Coach"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Coach"
+	}
+	"Model_Ellis"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Ellis"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Ellis"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Ellis"
+	}
+	"Model_Bill"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Bill"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Bill"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Bill"
+	}
+	"Model_Zoey"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Zoey"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Zoey"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Zoey"
+	}
+	"Model_Francis"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Francis"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Francis"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Francis"
+	}
+	"Model_Louis"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Louis"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Louis"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Louis"
+	}
+	"Model_Banana"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Banana"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Banana"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Banana"
+	}
+	"Model_Shaggy"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Shaggy"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Shaggy"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Shaggy"
+	}
+	"Model_Woody"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Woody"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Woody"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Woody"
+	}
+	"Model_Charger"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Charger"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Charger"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Charger"
+	}
+	"Model_Loli"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Enterprise"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Enterprise"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Enterprise"
+	}
+	"Model_Kermit"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Kermit"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Kermit"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Kermit"
+	}
+	"Model_Tank"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Tank"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Tank"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Tank"
+	}
+	"Model_Crash"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Crash"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Crash"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Crash"
+	}
+	"Model_Crash2"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Crash Car"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Crash Car"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Crash Car"
+	}
+	"Model_Doofenshmirtz"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Doofenshmirtz"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Doofenshmirtz"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Doofenshmirtz"
+	}
+	"Model_CJ"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}CJ"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}CJ"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}CJ"
+	}
+	"Model_TrollFace"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Troll Face"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Troll Face"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Troll Face"
+	}
+	"Model_Roblox"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Roblox"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Roblox"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Roblox"
+	}
+	"Model_Michael"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Michael Jackson"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Michael Jackson"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Michael Jackson"
+	}
+	"Model_Anonymous"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Anonymous"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Anonymous"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Anonymous"
+	}
+	"Model_Bill_Venezolano"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Bill Venezolano"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Bill Venezolano"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Bill Venezolano"
+	}
+	"Model_Calamardo"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Calamardo"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Calamardo"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Calamardo"
+	}
+	"Model_Clown2"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Clown"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Clown"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Clown"
+	}
+	"Model_Pepsiman"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Pepsiman"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Pepsiman"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Pepsiman"
+	}
+	"Model_Plague_Doctor"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Plague Doctor"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Medico Da Peste"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Medico De La Peste"
+	}
+	"Model_Pvz"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Crazy Dave"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Crazy Dave"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Crazy Dave"
+	}
+	"Model_Rat"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Rat"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Rata"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Rata"
+	}
+	"Model_Shark"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Shark"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Tiburon"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Tubarao"
+	}
+	"Model_Snitzel"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Schnitzel"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Schnitzel"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Schnitzel"
+	}
+	"Model_Yisus"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Yisus"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Jesus"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Jesus"
+	}
+	"Model_Saw"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Saw"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Saw"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Saw"
+	}
+	"Model_Gatonana"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Banana Cat"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Gato Banana"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Gato Banana"
+	}
+	"Model_Fin"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Fin"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Fin"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Fin"
+	}
+	"Model_Nessie"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Nessie"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Nessie"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Nessie"
+	}
+	"Model_Charger"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Charger"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Charger"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Charger"
+	}
+	"Model_Jockey"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Jockey"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Jockey"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Jockey"
+	}
+	"Model_Spitter"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Spitter"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Spitter"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Spitter"
+	}
+	"Model_Campeon"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Campeon"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Campeon"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Campeon"
+	}
+	"Model_Thanos"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Thanos"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Thanos"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Thanos"
+	}
+	"Model_Bowser"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Bowser"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Bowser"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Bowser"
+	}
+	"Model_Tommy"
+	{
+		"en"		"{olive}☑ {default}Model is {blue}Tommy"
+		"es"		"{olive}☑ {default}Tu Modelo Es {blue}Tommy"
+		"pt"		"{olive}☑ {default}Alterado modelo para {blue}Tommy"
+	}
+	"Change_Model_Help_Chat"
+	{
+		"en"		"{olive}☑ {default}To Change Model use chat Command {blue}!skin"
+		"es"		"{olive}☑ {default}Para cambiar el modelo use el Comando en el chat {blue}!skin"
+		"pt"		"{olive}☑ {default}Para mudar o modelo do personagem use o comando {blue}!skin no chat"
+	}
+}

@@ -1,0 +1,72 @@
+"Games"
+{
+    "left4dead2"
+    {
+        "Offsets"
+        {
+            "oAbility"
+            {
+                "windows"    "928"
+                "linux"      "948"
+            }
+        }
+
+        "Signatures"
+        {
+            /**
+             * CTerrorPlayer::RoundRespawn()
+             * → revive al jugador en estado interno "vivo"
+             **/
+            "CTerrorPlayer::RoundRespawn"
+            {
+                "library" "server"
+                "linux" "@_ZN13CTerrorPlayer12RoundRespawnEv"
+                "windows" "\x55\x8B\xEC\x83\xEC\x34\xA1\x2A\x2A\x2A\x2A\x33\xC5\x89\x45\xFC\x53\x8B\xD9\x56\x57\x8B\x03\x8B\x50\x28"
+            }
+
+            /**
+             * CTerrorPlayer::OnEnterGhostState(float)
+             * → activa modo regeneración real
+             **/
+            "CTerrorPlayer::OnEnterGhostState"
+            {
+                "library" "server"
+                "linux" "@_ZN13CTerrorPlayer17OnEnterGhostStateEf"
+                "windows" "\x2A\x2A\x2A\x2A\x2A\x2A\x53\x56\x8B\x2A\x8B\x86\x2A\x2A\x2A\x2A\x8B\x2A\x2A\x8D\x8E\x2A\x2A\x2A\x2A\x57"
+            }
+
+            /**
+             * CTerrorPlayer::OnVomitedUpon(CTerrorPlayer*, bool)
+             * → efecto boomer
+             **/
+            "CTerrorPlayer::OnVomitedUpon"
+            {
+                "library"   "server"
+                "linux"     "@_ZN13CTerrorPlayer13OnVomitedUponEPS_b"
+                "windows"   "\x2A\x2A\x2A\x2A\x2A\x2A\x53\x56\x57\x8B\x2A\xE8\x2A\x2A\x2A\x2A\x84\x2A\x74\x2A\x8B\x2A\x8B"
+            }
+
+            /**
+             * CTerrorPlayer::SetClass(ZombieClassType)
+             * → cambia el tipo de infectado (Hunter, Jockey, etc.)
+             **/
+            "CTerrorPlayer::SetClass"
+            {
+                "library" "server"
+                "linux" "@_ZN13CTerrorPlayer8SetClassE15ZombieClassType"
+                "windows" "\x55\x8b\xec\x56\x8b\xf1\xe8****\x83\xf8*\x0f\x85****\xa1****\x40\xa3"
+            }
+
+            /**
+             * CBaseAbility::CreateForPlayer(CTerrorPlayer*)
+             * → crea la habilidad del infectado
+             **/
+            "CBaseAbility::CreateForPlayer"
+            {
+                "library" "server"
+                "linux" "@_ZN12CBaseAbility15CreateForPlayerEP13CTerrorPlayer"
+                "windows" "\x55\x8b\xec\x83\xec*\x56\x8b\x75*\x85\xf6\x0f\x84****\x8b\xce\xe8"
+            }
+        }
+    }
+}

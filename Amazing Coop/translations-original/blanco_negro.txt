@@ -1,0 +1,74 @@
+"Phrases"
+{
+	"Death_1"
+	{
+		"en"			"%N (%s) Is About To Die!"
+		"es"			"%N (%s) Esta A Punto De Morir!"
+	}
+	
+	"Death_2"
+	{
+		"en"			"%N Is About To Die!"
+		"es"			"%N Esta A Punto De Morir!"
+	}
+	
+	"Death_3"
+	{
+		"en"			"%N Is About To Die!"
+		"es"			"%N Esta A Punto De Morir!"
+	}
+	
+	"Death_4"
+	{
+		"en"			"%N (%s) Is About To Die!"
+		"es"			"%N Esta A Punto De Morir!"
+	}
+	
+	"Death_5"
+	{
+		"en"			"%N (%s) Is About To Die!"
+		"es"			"%N Esta A Punto De Morir!"
+	}
+	
+	"Death_6"
+	{
+		"en"			"%N Is About To Die!"
+		"es"			"%N Esta A Punto De Morir!"
+	}
+	
+	"Death_7"
+	{
+		"en"			"%N Killed %N!\n%d %s %s!"
+		"es"			"%N Delicado %N!\n%d %s %s!"
+	}
+	
+	"Death_8"
+	{
+		"en"			"%N Killed %N!"
+		"es"			"%N Delicado %N!"
+	}
+	
+	"Death_9"
+	{
+		"en"			"%N Died!"
+		"es"			"%N Murio!"
+	}
+	
+	"Death_10"
+	{
+		"en"			"%N Died!\n%d %s %s!"
+		"es"			"%N Murio!\n%d %s %s!"
+	}
+	
+	"Death_11"
+	{
+		"en"			"%N Defibbed %N!\n%d %s %s!"
+		"es"			"%N Desfibrilado %N!\n%d %s %s!"
+	}
+
+	"Death_12"
+	{
+		"en"			"%N Defibbed %N!"
+		"es"			"%N Desfibrilado %N!"
+	}
+}

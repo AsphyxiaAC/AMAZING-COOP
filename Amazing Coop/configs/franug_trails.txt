@@ -1,0 +1,165 @@
+"Trails"
+{
+                        "Fuego"
+                        {
+                        "particlename" "particles/fire_small_01.pcf"
+                        "effectname" "fire_small_01"
+                        "position" "0.0 0.0 0.0"
+
+                        }
+			"SSJ 2"
+			{
+				"particlename" "particles/supersayian2.pcf"
+				"effectname" "Sayianstart"
+				"position" "0.0 0.0 0.0"
+
+			}
+			"SSJ Blue"
+			{
+				"particlename" "particles/supersayian2.pcf"
+				"effectname" "Sayianstart2"
+				"position" "0.0 0.0 0.0"
+
+			}
+			"SSJ Rose"
+			{
+				"particlename" "particles/supersayian2.pcf"
+				"effectname" "Sayianstart3"
+				"position" "0.0 0.0 0.0"
+
+			}
+			"Tierra"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "2"
+				"position" "0 0 20"
+
+			}
+			"Dinamarca"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "denmark_fix"
+				"position" "0 0 20"
+
+			}
+			"Donas"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "donats"
+				"position" "0 0 20"
+
+			}
+			"Smoker Color"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "dynamic_smoke4"
+				"position" "0 0 20"
+
+			}
+			"Cartas"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "joker_not_dos"
+				"position" "0 0 20"
+
+			}
+			"Destello"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "molnii_full"
+				"position" "0 0 20"
+
+			}
+			"Doble Circulo"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "potok_final"
+				"position" "0 0 20"
+
+			}
+			"Burbujas"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "puziri2"
+				"position" "0 0 20"
+
+			}
+			"Smoke"
+			{
+				"particlename" "particles/2j.pcf"
+				"effectname" "static_smoke2"
+				"position" "0 0 20"
+
+			}
+			"Chispa"
+			{
+				"particlename" "particles/4color.pcf"
+				"effectname" "4color_amsk"
+				"position" "0 0 20"
+
+			}
+			"Corazones 2"
+			{
+				"particlename" "particles/hearth.pcf"
+				"effectname" "heart_2joints_sllxl"
+				"position" "0 0 20"
+
+			}
+			"Pomexa"
+			{
+				"particlename" "particles/pomexa.pcf"
+				"effectname" "pomexa_trail_wedsa"
+				"position" "0 0 20"
+
+			}
+			"Sakura"
+			{
+				"particlename" "particles/sakura.pcf"
+				"effectname" "sakura_sla"
+				"position" "0 0 20"
+
+			}
+			"Corazones"
+			{
+				"particlename" "particles/fuegoxd.pcf"
+				"effectname" "c21"
+				"position" "0 0 20"
+
+			}
+			"Ice"
+			{
+				"particlename" "particles/auras_001.pcf"
+				"effectname" "01_Ice"
+				"position" "0 0 20"
+
+			}
+
+			"Circulo Lima"
+			{
+				"particlename" "particles/auras_001.pcf"
+				"effectname" "01_Lime"
+				"position" "0 0 20"
+
+			}
+			"Particulas 3D"
+			{
+				"particlename" "particles/auras_002.pcf"
+				"effectname" "02_3D"
+				"position" "0 0 0"
+
+			}
+			"Particula Circular"
+			{
+				"particlename" "particles/auras_003.pcf"
+				"effectname" "03_3D"
+				"position" "0 0 0"
+
+			}
+			"Puntos"
+			{
+				"particlename" "particles/auras_005.pcf"
+				"effectname" "05_3D"
+				"position" "0 0 0"
+
+			}
+}

@@ -1,0 +1,70 @@
+"Phrases"
+{
+	"BugReport_TypeOwnReason"
+	{
+		"en"		"You now can describe the bug in the chat, please keep it short and informative.\nType '!noreason' or '!abort' to abort"
+		"es"		"Describe el bug en corto y directo\n Escribe '!noreason' o '!abort' para abortar"
+	}
+	"BugReport_CallAborted"
+	{
+		"en"		"Bug Report has been aborted. Type !bugreport to report again."
+		"es"		"El bug fue reportado. Escribe !bugreport para reportar nuevamente"
+	}
+	"BugReport_OwnReasonTooShort"
+	{
+		"en"		"Your bug report is too short, please try it again."
+		"es"		"Su informe de error es demasiado breve, inténtelo de nuevo."
+	}
+	"BugReport_ConfirmCall"
+	{
+		"en"		"Are you sure you want to report this bug to an admin? Abuse will be punished"
+		"es"		"¿Estás seguro de que deseas informar este error a un administrador? El abuso será sancionado"
+	}
+	"BugReport_Yes"
+	{
+		"en"		"Yes"
+		"es"		"Si"
+	}
+	"BugReport_No"
+	{
+		"en"		"No"
+		"es"		"No"
+	}
+	"BugReport_NotifyAdmins"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} reported a following bug in the server:\n {2}"
+		"es"		"{1} reportó el siguiente error en el servidor:\n {2}"
+	}
+	"BugReport_Successful"
+	{
+		"en"		"Thanks for your report! We'll try to fix this asap."
+		"es"		"¡Gracias por tu informe! Intentaremos solucionarlo lo antes posible."
+	}
+	"BugReport_NoAdmin"
+	{
+		"en"		"Only admins have access to this command."
+		"es"		"Sólo los administradores tienen acceso a este comando."
+	}
+	"BugReport_Reloaded"
+	{
+		"en"		"Reloaded BugReport."
+		"es"		"Informe de error recargado."
+	}
+	"BugReport_Cooldown"
+	{
+		"#format"	"{1:d}"
+		"en"		"You are not allowed to use this command for the next {1} seconds"
+		"es"		"No está permitido utilizar este comando durante los próximos {1} segundos"
+	}
+	"BugReport_SelectBug"
+	{
+		"en"		"Select the bug you're facing:"
+		"es"		"Seleccione el error al que se enfrenta:"
+	}
+	"BugReport_DescribeBug"
+	{
+		"en"		"Describe Bug"
+		"es"		"Describir el error"
+	}
+}

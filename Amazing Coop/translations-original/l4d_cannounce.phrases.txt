@@ -1,0 +1,72 @@
+"Phrases"
+{
+	"LAN Country"
+	{
+		"en"			"Local Area Network"	
+		"es"			"Red De Àrea Local"
+	}
+	"Unknown Country"
+	{
+		"en"			"Unknown Country"
+		"es"			"País Desconocido"
+	}
+	"LAN Region"
+	{
+		"en"			"Local Subnet"	
+		"es"			"Subred local"
+	}
+	"Unknown Region"
+	{
+		"en"			"Unknown Region"
+		"es"			"Región Desconocida"
+	}
+	"LAN City"
+	{
+		"en"			"IP Address"
+		"es"			"Dirección IP"
+	}
+	"Unknown City"
+	{
+		"en"			"Somewhere"
+		"es"			"Algun lado"
+	}
+	"Unknown Country"
+	{
+		"en"			"Unknown Country"
+		"es"			"País Desconocido"
+	}
+	"Unknown Region"
+	{
+		"en"			"Unknown Region"
+		"es"			"Región Desconocida"
+	}
+	"Unknown City"
+	{
+		"en"			"Somewhere"
+		"es"			"Algun lado"
+	}
+	"CounterFound"
+	{
+		"#format"		"{1:N},{2:i},{3:d}"
+		"en"			"{cyan}{1} {white}has {orange}connected{white} ({green}{2}{white}/{green}{3}{white})"
+		"es"			"{cyan}{1} {white}se ha {orange}conectadó{white} ({green}{2}{white}/{green}{3}{white})"
+	}
+	"CounterNotFount"
+	{
+		"#format"		"{1:N}"
+		"en"			"{cyan}{1} {white}has {orange}connected{white} to the server."
+		"es"			"{cyan}{1} {white}se ha {orange}conectadó{white} al server."
+	}
+	"ReasonDisconnection"
+	{
+		"#format"		"{1:N},{2:s},{3:s}"
+		"en"			"{olive}- Player {blue}{1} {olive}({2}) {green}[{blue}{3}{green}.]"
+		"es"			"{olive}- Player {blue}{1} {olive}({2}) {green}[{blue}{3}{green}.]"
+	}
+	"DisplayModeFirst"
+	{
+		"#format"		"{1:N},{2:s},{3:s},{4:s}"
+		"en"			"{olive}+ Player {blue}{1} {olive}({2}{default}|{olive}{3}{default}|{olive}{4}){green}[{blue}no-steam{green}]"
+		"es"			"{olive}+ Player {blue}{1} {olive}({2}{default}|{olive}{3}{default}|{olive}{4}){green}[{blue}no-steam{green}]"
+	}
+}

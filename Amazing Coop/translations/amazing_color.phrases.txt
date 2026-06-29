@@ -1,0 +1,93 @@
+"Phrases"
+{
+	"MENU_COLOR"
+	{
+		"en"			"☼ Color Menu ☼\n [AMAZING-COOP]\n "
+		"es"			"☼ Color Menu ☼\n [AMAZING-COOP]\n "
+	}
+	"DESACTIVAR"
+	{
+		"en"			"• Off\n "
+		"es"			"• Desactivar\n "
+	}
+	"RANDOM"
+	{
+		"en"			"+ Random\n "
+		"es"			"+ Random\n "
+	}
+	"DISCO"
+	{
+		"en"			"+ Disk"
+		"es"			"+ Disco"
+	}
+	"BLUE"
+	{
+		"en"			"+ Blue"
+		"es"			"+ Azul"
+	}
+	"VIOLET"
+	{
+		"en"			"+ Violet"
+		"es"			"+ Violeta"
+	}
+	"GOLDEN"
+	{
+		"en"			"+ Golden"
+		"es"			"+ Dorado"
+	}
+	"RED"
+	{
+		"en"			"+ Red"
+		"es"			"+ Rojo"
+	}
+	"BLACK"
+	{
+		"en"			"+ Black"
+		"es"			"+ Negro"
+	}
+	"YELLOW"
+	{
+		"en"			"+ Yellow"
+		"es"			"+ Amarillo"
+	}
+	"LIMA"
+	{
+		"en"			"+ Lima"
+		"es"			"+ Lima"
+	}
+	"BROWN"
+	{
+		"en"			"+ Brown"
+		"es"			"+ Marron"
+	}
+	"BLUISH_GREEN"
+	{
+		"en"			"+ Bluish Green"
+		"es"			"+ Verde Azulado"
+	}
+	"PINK"
+	{
+		"en"			"+ Pink"
+		"es"			"+ Rosa"
+	}
+	"PURPLE"
+	{
+		"en"			"+ Purple"
+		"es"			"+ Morado"
+	}
+	"WHITE"
+	{
+		"en"			"+ White"
+		"es"			"+ Blanco"
+	}
+	"ORANGE"
+	{
+		"en"			"+ Orange"
+		"es"			"+ Naranja"
+	}
+	"GREEN"
+	{
+		"en"			"+ Green"
+		"es"			"+ Verde"
+	}
+}

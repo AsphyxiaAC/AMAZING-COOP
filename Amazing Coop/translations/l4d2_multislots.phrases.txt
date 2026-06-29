@@ -1,0 +1,97 @@
+"Phrases"
+{
+	"You are allready joined the Survivor team"
+	{
+		"ru"		"Вы уже присоединились к команде выживших"
+		"en"		"You are allready joined the Survivor team"
+		"es"		"Ya te uniste al equipo de Survivor"
+	}
+	
+	"You are now idle. Press mouse to play as survivor"
+	{
+		"ru"		"Вы сейчас не активны, нажмите кнопку мыши, чтобы начать играть"
+		"en"		"You are now idle. Press mouse to play as survivor"
+		"es"		"Ahora estás inactivo. Presiona el mouse para jugar como sobreviviente"
+	}
+	
+	"Please wait to be revived or rescued"
+	{
+		"ru"		"Пожалуйста, ждите, когда Вас спасут или когда Вы возродитесь!"
+		"en"		"Please wait to be revived or rescued"
+		"es"		"Por favor espera para ser revivido o rescatado"
+	}
+	
+	"[MultiSlots] %s joined the Infected Team"
+	{
+		"ru"		"[MultiSlots] %s присоединился к команде заражённых"
+		"en"		"[MultiSlots] %s joined the Infected Team"
+		"es"		"[MultiSlots] %s se unió al equipo infectado"
+	}
+	
+	"joined the Survivor Team"
+	{
+		"ru"		"[Информация] %s присоединился к команде"
+		"en"		"[Information] %s joined the Survivor Team"
+		"es"		"[Informacion] %s se unió al equipo Survivor"
+	}
+	
+	"[MultiSlots] %s, type to !join the Survivor Team"
+	{
+		"ru"		"[MultiSlots] %s, напишите в чат !join чтобы присоединиться к команде выживших"
+		"en"		"[MultiSlots] %s, type !join to join the Survivor Team"
+		"es"		"[MultiSlots] %s, escriba !join para unirse al equipo de Survivor"
+	}
+	
+	"Rejoin message"
+	{
+		"ru"		"Вы не можете присоединиться к выжившим в этом раунде,\nтак как Вы перезашли на сервер!"
+		"en"		"You can't join the Survivor Team in this round,\nbecause you reconnect the server!"
+		"es"		"¡No puedes unirte al equipo de sobrevivientes en esta ronda,\nporque vuelves a conectar el servidor!"
+	}
+	
+	"You are not allowed to reconnect for %d seconds"
+	{
+		"ru"		"Вы не можете присоединиться к выжившим так как Вы перезашли,\nждите %d секунд!"
+		"en"		"You can't join the Survivor Team because you reconnect,\nwait %d seconds !"
+		"es"		"No puedes unirte al equipo de supervivientes porque te vuelves a conectar,\nespera %d segundos!"
+	}
+	
+	"%s, press USE (E) to join the Survivor Team"
+	{
+		"ru"		"%N, Жмите кнопку ИСПОЛЬЗОВАТЬ (E), чтобы начать играть"
+		"en"		"%N, press USE (E) to join the Survivor Team"
+		"es"		"%N, presiona TECLA (E) para unirte al equipo de sobrevivientes"
+	}
+	
+	"You are temporarily invulnerable!"
+	{
+		"ru"		"Вы бессмертны на некоторое время!"
+		"en"		"You are temporarily invulnerable!"
+		"es"		"Eres temporalmente invulnerable!"
+	}
+	
+	"You are no longer invulnerable!"
+	{
+		"ru"		"Вы больше не бессмертны!"
+		"en"		"You are no longer invulnerable!"
+		"es"		"Ya no eres invulnerable!"
+	}
+    	"Already Spectator"
+    	{
+        	"en"		"You are already in spectator."
+        	"es"		"Ya estas en espectador."
+    	}
+
+    	"AFK Countdown Active"
+    	{
+     	   	"en"		"You already have an AFK countdown running."
+        	"es"		"Ya tienes una cuenta regresiva AFK activa."
+    	}
+
+    	"AFK Countdown"
+    	{
+     	   	"#format"	"{1:d}"
+        	"en"		"You will move to spectator in\n{1}..."
+    	    	"es"		"Pasaras a espectador en\n{1}..."
+    	}
+}

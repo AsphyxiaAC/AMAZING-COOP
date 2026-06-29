@@ -1,0 +1,189 @@
+"Phrases"
+{
+	"KILLER_DIED1"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}Vergazo."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}Vergazo."
+	}
+	"KILLER_DIED2"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}Bang."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}Golpe."
+	}
+	"KILLER_DIED3"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}Claw."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}Garrazo."
+	}
+	"KILLER_DIED4"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}Zape."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}Zape."
+	}
+	"KILLER_DIED5"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}Bombing."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}Bombaso."
+	}
+	"KILLER_DIED6"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {orange}6-1-9."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {orange}6-1-9."
+	}
+	"KILLER_DIED7"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Brat."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Soplamoco."
+	}
+	"KILLER_DIED8"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Slapped."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Una {green}Cachetada."
+	}
+	"KILLER_DIED9"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Pinch."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Pellizco."
+	}
+	"KILLER_DIED10"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}For {green}Fucking."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Una {green}Coj1d4."
+	}
+	"KILLER_DIED11"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Coscorron."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Coscorron."
+	}
+	"KILLER_DIED12"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Slap."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Guantazo."
+	}
+	"KILLER_DIED13"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Trompada."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Una {green}Trompada."
+	}
+	"KILLER_DIED14"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Porrazo."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Porrazo."
+	}
+	"KILLER_DIED15"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Prick."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}P1ngazo."
+	}
+	"KILLER_DIED16"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Caress."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Una {green}Caricia."
+	}
+	"KILLER_DIED17"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Lapo."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Lapo."
+	}
+	"KILLER_DIED18"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Cocacho."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Cocacho."
+	}
+	"KILLER_DIED19"
+	{
+		"en"			"[{olive}✗{default}] {red}%N {default}Murdered {red}%N {default}With A {green}Madrazo."
+		"es"			"[{olive}✗{default}] {red}%N {default}Asesino A {red}%N {default}De Un {green}Madrazo."
+	}
+
+	"DEAD_SURV1"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Virolo."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}Virolo."
+	}
+	"DEAD_SURV2"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Mexicano."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}Mexicano."
+	}
+	"DEAD_SURV3"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Ass Licker."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}Tarao."
+	}
+	"DEAD_SURV4"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Gey."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}Gey."
+	}
+	"DEAD_SURV5"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Fool."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}imbeshil."
+	}
+	"DEAD_SURV6"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {orange}Transvestite."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {orange}Travesti."
+	}
+	"DEAD_SURV7"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}One Armed."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Manco."
+	}
+	"DEAD_SURV8"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Idiot."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Estupido."
+	}
+	"DEAD_SURV9"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Boliviano."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Boliviano."
+	}
+	"DEAD_SURV10"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}He Died For Being A Fan Of {green}Bts."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por Ser Fan De {green}Bts."
+	}
+	"DEAD_SURV11"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Gil."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Gil."
+	}
+	"DEAD_SURV12"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Short Penis."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Chipi."
+	}
+	"DEAD_SURV13"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Monkey."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Arequipeño."
+	}
+	"DEAD_SURV14"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Stupid."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Sonso."
+	}
+	"DEAD_SURV15"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Coronavirus."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Coronavirus."
+	}
+	"DEAD_SURV16"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Simp."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Simp."
+	}
+	"DEAD_SURV17"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Was {green}Raped {default}Brutally."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Fue {green}Violado {default}Brutalmente."
+	}
+	"DEAD_SURV18"
+	{
+		"en"			"[{olive}✗{default}] {blue}%N {default}Died For {green}Dyslexia."
+		"es"			"[{olive}✗{default}] {blue}%N {default}Murio Por {green}Pelotudo."
+	}
+}

@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"OPENED"
+	{
+		"en"			"{olive}+ {default}The Shelter Door Can Now Be {green}Opened"
+		"es"			"{olive}+ {default}La Puerta Del Refugio Ahora Se Puede {green}Abrir"
+	}
+	"READY1"
+	{
+		"en"			"{olive}[AMAZING-COOP]{green} Get Ready"
+		"es"			"{olive}[AMAZING-COOP]{green} Preparense"
+	}
+	"READY2"
+	{
+		"en"			"{olive}[AMAZING-COOP]{green} Are You Ready?"
+		"es"			"{olive}[AMAZING-COOP]{green} Preparense"
+	}
+	"TIME_OPENED1"
+	{
+		"en"			"{olive}+ {default}The Door Will Open In {green}20 {olive}Seconds!"
+		"es"			"{olive}+ {default}La Puerta Se Abrira En {green}20 {olive}Segundos!"
+	}
+	"TIME_OPENED2"
+	{
+		"en"			"{olive}+ {default}The Door Will Open In {green}20 {olive}Seconds!"
+		"es"			"{olive}+ {default}La Puerta Se Desbloqueara En {green}20 {olive}Segundos!"
+	}
+	"WAS_IMPOSTER1"
+	{
+		"en"			"\n{blue}ඞ {green}[{olive}AMONG-US{green}] {default}The {blue}Impostor {default}Is Among {green}Us!\n "
+		"es"			"\n{blue}ඞ {green}[{olive}AMONG-US{green}] {default}El {blue}Impostor {default}Esta Entre  {green}Nosotros!\n "
+	}
+	"WAS_IMPOSTER2"
+	{
+		"en"			"\n{blue}ඞ {green}[{olive}AMONG-US{green}] {default}The {blue}Impostor {default}Is Among {green}Us!\n "
+		"es"			"\n{blue}ඞ {green}[{olive}AMONG-US{green}] {default}El {blue}Asesino {default}Esta Entre {green}Nosotros!\n "
+	}
+	"LOCK_DOOR"
+	{
+		"en"			"{olive}+ {default}The Path Is {green}Unlocked"
+		"es"			"{olive}+ {default}El Camimo Esta {green}Desbloqueado"
+	}
+	"LEST_GO1"
+	{
+		"en"			"• Good Luck And Have Fun :) •"
+		"es"			"• Suerte Y Diviertete :) •"
+	}
+	"LEST_GO2"
+	{
+		"en"			"• Good Luck And Have Fun :) •"
+		"es"			"• Vamos Suerte Y Diviertete :) •"
+	}
+	"TIME_LEST_GO1"
+	{
+		"en"			"• Game Starts In • \n%i Seconds"
+		"es"			"• El Juego Comienza En • \n%i Segundos"
+	}
+	"TIME_LEST_GO2"
+	{
+		"en"			"• Game Starts In • \n%i Seconds"
+		"es"			"• La Partida Comienza En • \n%i Segundos"
+	}
+	"PARACHUTE-OFF"
+	{
+		"en"			"\n{blue}• {olive}The {orange}Parachute {default}Will Activate At The End Of The Count {olive}D:\n "
+		"es"			"\n{blue}• {olive}El {orange}Paracaídas {default}Se Activará Al Final Del Conteo {olive}D:\n "
+	}
+	"PARACHUTE-ONN"
+	{
+		"en"			"\n{blue}• {olive}Parachute {orange}Activated {olive}:D\n "
+		"es"			"\n{blue}• {olive}Paracaidas {orange}Activado {olive}:D\n "
+	}
+}

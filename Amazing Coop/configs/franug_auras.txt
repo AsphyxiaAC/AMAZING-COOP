@@ -1,0 +1,102 @@
+"Auras"
+{
+			"SSJ Rose"
+			{
+				"particlename" "particles/fuegoxd.pcf"
+				"effectname" "fire"
+				"position" "0 0 40"
+
+			}
+			"SSJ Blue"
+			{
+				"particlename" "particles/fuegoxd.pcf"
+				"effectname" "fire2"
+				"position" "0 0 40"
+
+			}
+			"SSJ 2"
+			{
+				"particlename" "particles/fuegoxd.pcf"
+				"effectname" "fire3"
+				"position" "0 0 40"
+
+			}
+			"Burbuja Neon"
+			{
+				"particlename" "particles/fx_fin.pcf"
+				"effectname" "Trail13"
+				"position" "0 0 70"
+
+			}
+			"Monster"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_tentmonster_purple"
+				"position" "0 0 60"
+
+			}
+			"Rayo Verde"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_zap_green"
+				"position" "0 0 60"
+
+			}
+			"Rayo Amarillo"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_zap_yellow"
+				"position" "0 0 60"
+
+			}
+			"Flama Purple"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_orbit_fire_dark"
+				"position" "0 0 60"
+
+			}
+			"Flama 1"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_orbit_fire"
+				"position" "0 0 60"
+
+			}
+			"Flama 2"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_bats_flaming_proxy_orange"
+				"position" "0 0 60"
+
+			}
+			"Flama Violeta"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_bats_flaming_proxy_purple"
+				"position" "0 0 60"
+
+			}
+			"Flama Verde"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "unusual_bats_flaming_proxy_green"
+				"position" "0 0 60"
+
+			}
+			"Molecula"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "superrare_sparkles3"
+				"position" "0 0 60"
+
+			}
+			"Burbujas Aureola"
+			{
+				"particlename" "particles/csgo.pcf"
+				"effectname" "superrare_orbit"
+				"position" "0 0 60"
+
+			}
+
+}

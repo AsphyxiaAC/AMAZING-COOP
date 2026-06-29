@@ -1,0 +1,209 @@
+"Phrases"
+{
+	/* ======================================================
+	   ⚙️ SISTEMA DE PUERTA
+	   ====================================================== */
+	"All tanks must be killed first"
+	{
+		"en"	"All tanks must be killed first"
+		"es"	"Debes matar a todos los Tanks primero"
+	}
+
+	"The keyman is"
+	{
+		"en"	"The keyman is: %N.\nOnly the keyman can open the door."
+		"es"	"El portador de la llave es: %N.\nSolo él puede abrir la puerta."
+	}
+
+	"Try to open the door again"
+	{
+		"en"	"The keyman is: %N.\nTry to open the door again."
+		"es"	"El portador de la llave es: %N.\nIntenta abrir la puerta nuevamente."
+	}
+
+	"The door is already unlocked"
+	{
+		"en"	"The door is already unlocked!\nPlease wait for %d seconds."
+		"es"	"La puerta ya está desbloqueada.\nEspera %d segundos."
+	}
+
+	"DOOR OPEN CENTER"
+	{
+		"en"	"[DOOR OPEN] %d sec"
+		"es"	"[PUERTA ABIERTA] %d seg"
+	}
+
+	"DOOR OPEN HINT"
+	{
+		"en"	"[DOOR OPEN] %d sec"
+		"es"	"[PUERTA ABIERTA] %d seg"
+	}
+
+	"DOOR OPENED"
+	{
+		"en"	"DOOR OPENED"
+		"es"	"PUERTA ABIERTA"
+	}
+
+	/* ======================================================
+	   🗝️ SISTEMA KEYMAN
+	   ====================================================== */
+	"Only keyman can open door"
+	{
+		"en"	"{green}[{olive}KEYMAN{green}] {default}Only {blue}%N {default}can open the safe room door!"
+		"es"	"{green}[{olive}KEYMAN{green}] {default}Solo {blue}%N {default}puede abrir la puerta del refugio!"
+	}
+
+	"Keyman unlock door"
+	{
+		"en"	"{olive}[{green}KEYMAN{olive}] {lightgreen}%N {default}unlocked the safe room door!"
+		"es"	"{olive}[{green}KEYMAN{olive}] {lightgreen}%N {default}desbloqueó la puerta del refugio!"
+	}
+
+	"New keyman assigned chat"
+	{
+		"en"	"{green}[{olive}KEYMAN{green}] {blue}%N {default}is our keyman {olive}! Only they can open the safe room door."
+		"es"	"{green}[{olive}KEYMAN{green}] {blue}%N {default}es el portador de la llave {olive}! Solo él puede abrir la puerta del refugio."
+	}
+
+	"New keyman assigned hint"
+	{
+		"en"	"A new keyman was chosen: %N\nOnly they can open the safe room door!"
+		"es"	"%N es el portador de la llave\n¡Solo él puede abrir la puerta del refugio!"
+	}
+
+	"Random keyman selected"
+	{
+		"en"	"{green}[{olive}KEYMAN{green}] {default}Random Keyman selected: {blue}%N"
+		"es"	"{green}[{olive}KEYMAN{green}] {default}Nuevo Keyman aleatorio seleccionado: {blue}%N"
+	}
+
+	/* ======================================================
+	   💀 ALERTAS DE TANK
+	   ====================================================== */
+	"Tank appeared start chat"
+	{
+		"en"	"{red}[ALERT]{default} A Tank has appeared at the start of door opening!"
+		"es"	"{red}[ALERTA]{default} ¡Un Tank ha aparecido al iniciar la apertura de la puerta!"
+	}
+
+	"Tank appeared start hint"
+	{
+		"en"	"A Tank has appeared at the start of the door opening!"
+		"es"	"¡Un Tank ha aparecido al iniciar la apertura de la puerta!"
+	}
+
+	"Tank appeared final chat"
+	{
+		"en"	"{red}[ALERT]{default} A Tank has appeared when the door opened!"
+		"es"	"{red}[ALERTA]{default} ¡Un Tank ha aparecido al abrir la puerta!"
+	}
+
+	"Tank appeared final hint"
+	{
+		"en"	"A Tank has appeared when the door opened!"
+		"es"	"¡Un Tank ha aparecido al abrir la puerta!"
+	}
+
+	/* ======================================================
+	   🧠 SISTEMA ANTIFARM
+	   ====================================================== */
+	"Antifarm start countdown"
+	{
+		"en"	"%d seconds to start antifarm"
+		"es"	"%d segundos para que empiece el antifarm"
+	}
+
+	"Antifarm enabled"
+	{
+		"en"	"{green}[{olive}ANTIFARM{green}] {default}Antifarm is enabled, {olive}please end the map."
+		"es"	"{green}[{olive}ANTIFARM{green}] {default}Antifarm activado, {olive}por favor termina el mapa."
+	}
+
+	/* ======================================================
+	   🔒 SISTEMA LOCKDOWN
+	   ====================================================== */
+	"Please go inside a safe room or you die"
+	{
+		"en"	"Please go inside a safe room or you die!\nTime: %d seconds."
+		"es"	"¡Entra al refugio o morirás!\nTiempo: %d segundos."
+	}
+
+	"Round ends after"
+	{
+		"en"	"Round ends after: %d seconds."
+		"es"	"La ronda terminará en: %d segundos."
+	}
+
+	"You have been executed for outside the saferoom!"
+	{
+		"en"	"You have been executed for being outside the saferoom!"
+		"es"	"Has sido ejecutado por permanecer fuera del refugio."
+	}
+
+	"You are not entered in to the save room"
+	{
+		"en"	"You did not enter the safe room in time!"
+		"es"	"¡No entraste al refugio a tiempo!"
+	}
+
+	/* ======================================================
+	   🗳️ SISTEMA DE VOTACIÓN
+	   ====================================================== */
+	"Vote farm question"
+	{
+		"en"	"Let's farm?"
+		"es"	"¿Desean farmear?"
+	}
+
+	"Vote farm yes"
+	{
+		"en"	"Yes, let's farm!"
+		"es"	"Sí, vamos a farmear"
+	}
+
+	"Vote farm no"
+	{
+		"en"	"No"
+		"es"	"No"
+	}
+
+	"Players decided not to farm"
+	{
+		"en"	"{olive}[VOTE]{default} Players decided not to farm. 60%% vote required (received {olive}%d%%%{default} of {olive}%d{default} votes)"
+		"es"	"{olive}[VOTO]{default} Los jugadores decidieron no farmear. Se requiere 60%% (obtenido {olive}%d%%%{default} de {olive}%d{default} votos)"
+	}
+
+	"Players decided to farm"
+	{
+		"en"	"{olive}[VOTE]{default} Players decided to farm. (received {olive}%d%%%{default} of {olive}%d{default} votes)"
+		"es"	"{olive}[VOTO]{default} Los jugadores decidieron farmear. (obtenido {olive}%d%%%{default} de {olive}%d{default} votos)"
+	}
+
+	/* ======================================================
+	   🛠️ COMANDOS ADMINISTRATIVOS — MENÚ MANUAL Y ALEATORIO
+	   ====================================================== */
+	"Menu title select keyman"
+	{
+		"en"	"Select a new Keyman"
+		"es"	"Seleccionar nuevo Keyman"
+	}
+
+	"No alive survivors available"
+	{
+		"en"	"No alive survivors available to assign as Keyman."
+		"es"	"No hay supervivientes vivos para asignar como Keyman."
+	}
+
+	"Manual keyman assigned confirm"
+	{
+		"en"	"You manually assigned %N as the new Keyman."
+		"es"	"Has asignado manualmente a %N como nuevo Keyman."
+	}
+
+	"Invalid player selected"
+	{
+		"en"	"Invalid player selected."
+		"es"	"Jugador seleccionado no válido."
+	}
+}

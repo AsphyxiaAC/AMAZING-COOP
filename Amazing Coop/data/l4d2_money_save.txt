@@ -1,0 +1,318 @@
+"MoneySave"
+{
+	"STEAM_1:1:444985424"
+	{
+		"name"		"Asphyxia"
+		"money"		"9986618"
+		"autobhop_owned"		"1"
+		"autobhop_enabled"		"1"
+	}
+	"STEAM_1:1:794609115"
+	{
+		"name"		"MICKEY MOUS CHORO XDD"
+		"money"		"369"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:921293426"
+	{
+		"name"		"Davertmin"
+		"money"		"47"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:591899451"
+	{
+		"name"		"what are you doing?"
+		"money"		"11"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:846583512"
+	{
+		"name"		"reiniernaranjo77"
+		"money"		"72"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:388893807"
+	{
+		"name"		"ysukchero"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:482230168"
+	{
+		"name"		"JACK HORNER"
+		"money"		"135"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:946113475"
+	{
+		"name"		"Tomi cham uwu"
+		"money"		"277"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:547810267"
+	{
+		"name"		"alemoxni"
+		"money"		"285"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:959836415"
+	{
+		"name"		"DXHNE"
+		"money"		"129"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:648929606"
+	{
+		"name"		"pingüino"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:633233929"
+	{
+		"name"		"rivailet.1142"
+		"money"		"185"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:733403486"
+	{
+		"name"		"Pollito con papa"
+		"money"		"25"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:403392612"
+	{
+		"name"		"JVME69"
+		"money"		"174"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:795948044"
+	{
+		"name"		"Avena 3 leches"
+		"money"		"75"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:373543100"
+	{
+		"name"		"Mr. Clovin"
+		"money"		"16"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:815885955"
+	{
+		"name"		"Chapulín Colorado"
+		"money"		"298"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:372900149"
+	{
+		"name"		"Mari"
+		"money"		"345"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:419538529"
+	{
+		"name"		"Pastor de cuyes"
+		"money"		"70"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:573238544"
+	{
+		"name"		"Darcckplayer"
+		"money"		"197"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:927201966"
+	{
+		"name"		"Kirby Peruano"
+		"money"		"26"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:875987128"
+	{
+		"name"		"MONDONGO"
+		"money"		"22"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:774131088"
+	{
+		"name"		"Mr ACUÑA"
+		"money"		"54"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:926692529"
+	{
+		"name"		"El Ovelisco"
+		"money"		"46"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:926791938"
+	{
+		"name"		"EL ESPANTABIEJAS3000"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:400109895"
+	{
+		"name"		"luisarcia772"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:837570350"
+	{
+		"name"		"fg7014363"
+		"money"		"40"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:566778875"
+	{
+		"name"		"Warlock"
+		"money"		"80"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:963979102"
+	{
+		"name"		"L"
+		"money"		"81"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:508588582"
+	{
+		"name"		"Susy y su tremendo 13"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:950067036"
+	{
+		"name"		"ELWERO"
+		"money"		"20"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:861757081"
+	{
+		"name"		"JUSTOS POR EL PERU"
+		"money"		"11"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:369903719"
+	{
+		"name"		"AdolfitoHitler"
+		"money"		"106"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:859264435"
+	{
+		"name"		"advíncula/Quiero queque"
+		"money"		"78"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:414685419"
+	{
+		"name"		"El Pelado de Brazzers"
+		"money"		"90"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:939749440"
+	{
+		"name"		"CHARLES DO BRONX🇧🇷"
+		"money"		"47"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:233086188"
+	{
+		"name"		"Kenyu Yukimiya"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:400573497"
+	{
+		"name"		"OKARUM"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:544399429"
+	{
+		"name"		"Chernobyl"
+		"money"		"67"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:663276923"
+	{
+		"name"		"JSS_ALXA"
+		"money"		"38"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:582395291"
+	{
+		"name"		"Xneon_leonX"
+		"money"		"10"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:68517656"
+	{
+		"name"		"TeTraX_"
+		"money"		"38"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:804978909"
+	{
+		"name"		"R3N3GADO"
+		"money"		"41"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:1:396639417"
+	{
+		"name"		"tumami"
+		"money"		"39"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+	"STEAM_1:0:360671940"
+	{
+		"name"		"heysin.marlon97"
+		"money"		"22"
+		"autobhop_owned"		"0"
+		"autobhop_enabled"		"0"
+	}
+}

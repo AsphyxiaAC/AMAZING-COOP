@@ -1,0 +1,20 @@
+"Phrases"
+{
+    "Map_Time"
+    {
+        "en" "Map time: {green}%s{default}."
+        "es" "Tiempo del mapa: {green}%s{default}."
+    }
+
+    "Round_Time"
+    {
+        "en" "Round time: {green}%s{default}."
+        "es" "Tiempo de ronda: {green}%s{default}."
+    }
+
+    "Round_End"
+    {
+        "en" "Round ended – Duration {olive}%s{default}."
+        "es" "Ronda terminada – Duró {olive}%s{default}."
+    }
+}

@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"High_Voltage"
+	{
+		"en"		"!!! Door is under voltage !!!"
+		"ru"		"!!! Двери под напряжением !!!"
+	}
+	"Voltage_Killed"
+	{
+		"en"		"!!! You were electrocuted !!!"
+		"ru"		"!!! Вас убило током !!!"
+	}
+	"Witch_Hunted_You"
+	{
+		"en"		"!!! Witch is punishing you !!!"
+		"ru"		"!!! Вичка наказывает вас !!!"
+	}
+	"Witch_Warning"
+	{
+		"en"		"Hide in saferoom!!!\nWitch is going to start hunting in %i sec."
+		"ru"		"Прячься в убеге!!!\nВичка собирается полакомиться через %i сек."
+	}
+	"Killed_Door"
+	{
+		"en"		"%N killed by the door :D"
+		"ru"		"%N пришибло дверью :D"
+	}
+	"Witch_Danger"
+	{
+		"en"		"!!! Danger !!! Run away to safe room!"
+		"ru"		"!!! Опасность !!! Зайдите в убегу!"
+	}
+}

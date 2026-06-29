@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"AUTO_AYUDA"
+	{
+		"en"		"• Press CTRL To Self-Help You •"
+		"es"		"• Presione CTRL Para Auto-Ayudarte •"
+	}
+	"AYUDA"
+	{
+		"en"		"• You Are Helping Yourself •"
+		"es"		"• Estas Auto-Ayudandote •"
+	}
+}

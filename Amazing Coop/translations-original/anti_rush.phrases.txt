@@ -1,0 +1,38 @@
+"Phrases"
+{
+	"Rush_Slowdown"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}Stop rushing, too far from Survivors, {orange}move back {white}toward them."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Deja De Correr, Estas Lejos Regresa {orange}Con Ellos."
+	}
+
+	"Rush_Ahead"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}You're too far ahead of Survivors, {orange}teleporting {green}back."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Estas Demasiado Lejos Seras, {orange}Teletrasportado {green}De Regreso."
+	}
+
+	"Rush_Behind"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}You're too far behind Survivors, {orange}teleporting {green}forward."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Estas Muy Detras Lejos Seras, {orange}Teletrasportado {green}Con Ellos."
+	}
+
+	"Warn_Slowdown"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}You're moving {orange}too far {green}ahead of Survivors, {orange}move back {green}or be slowed down."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Wow Wow Wow Mas Despacio {orange}Velocista."
+	}
+
+	"Warn_Ahead"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}You're moving {orange}too far ahead {green}of Survivors, {orange}move back {green}or be teleported."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Wow Wow Wow Mas Despacio {orange}Velocista."
+	}
+
+	"Warn_Behind"
+	{
+		"en"		"{green}✉{orange} [Anti-Rush] {white}You're falling {orange}too far behind {green}Survivors, {orange}move forward {green}or be teleported."
+		"es"		"{green}✉{orange} [Anti-Rush] {white}Estas Llendo Muy Lento, {green}Apresurate {white}O Seras {orange}Teletransportado."
+	}
+}

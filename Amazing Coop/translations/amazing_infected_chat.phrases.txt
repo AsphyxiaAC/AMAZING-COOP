@@ -1,0 +1,534 @@
+"Phrases"
+{
+    "infected_death1"
+    {
+        "es" "Por el amor de dios ese m2"
+        "en" "For the love of God, that shove!"
+    }
+    "infected_death2"
+    {
+        "es" "Seguro tiene un script para el m2 ese webon no para mrd"
+        "en" "That guy must have a script for shove, he never misses."
+    }
+    "infected_death3"
+    {
+        "es" "tmr me llegas al pene con tu m2 de mrd"
+        "en" "Damn, your shove is pissing me off."
+    }
+    "infected_death4"
+    {
+        "es" "Nerfeen el m2 ptmr"
+        "en" "Nerf the shove already!"
+    }
+    "infected_death5"
+    {
+        "es" "Los supervivientes estan demasiado rotos con ese m2"
+        "en" "Survivors are way too broken with that shove."
+    }
+    "infected_death6"
+    {
+        "es" "Es enserio!! PTMR"
+        "en" "Are you serious!! Damn it."
+    }
+    "infected_death7"
+    {
+        "es" "Esto es una mrd y lo sabes"
+        "en" "This is crap and you know it."
+    }
+    "infected_death8"
+    {
+        "es" "Seguro tiene el m2 bindeado con mas de una tecla crj"
+        "en" "He probably has shove bound to more than one key."
+    }
+    "infected_death9"
+    {
+        "es" "En serio?"
+        "en" "Seriously?"
+    }
+    "infected_death10"
+    {
+        "es" "Ese m2 me llega al pene"
+        "en" "That shove really pisses me off."
+    }
+    "infected_death11"
+    {
+        "es" "Cierra la puta boca marica"
+        "en" "Shut the hell up already."
+    }
+    "infected_death12"
+    {
+        "es" "No me importa ganar"
+        "en" "I don’t care about winning."
+    }
+    "infected_death13"
+    {
+        "es" "Callense y juegen mrd"
+        "en" "Shut up and just play."
+    }
+    "infected_death14"
+    {
+        "es" "Juega mas llora menos"
+        "en" "Play more, cry less."
+    }
+    "infected_death15"
+    {
+        "es" "¿Vas a jugar o simplemente vas a escribir webadas todo el dia?"
+        "en" "Are you going to play or just type nonsense all day?"
+    }
+    "infected_death16"
+    {
+        "es" "Dejen de escribir por el chat que me aburren"
+        "en" "Stop spamming the chat, you’re boring me."
+    }
+    "infected_death17"
+    {
+        "es" "Que facil fue matar a estos tarados jsjsjs"
+        "en" "That was too easy, what a bunch of idiots haha."
+    }
+    "infected_death18"
+    {
+        "es" "Que webones para morir ahi XD"
+        "en" "What dumbasses dying right there XD."
+    }
+    "infected_death19"
+    {
+        "es" "Se van a enojar, deja de mirarlos asi xd"
+        "en" "They’re gonna get mad, stop looking at them like that lol."
+    }
+    "infected_death20"
+    {
+        "es" "Estoy esperando que me hagan esforzarme de verdad"
+        "en" "I’m still waiting for a real challenge."
+    }
+    "infected_death21"
+    {
+        "es" "GGez"
+        "en" "GG ez"
+    }
+    "infected_death22"
+    {
+        "es" "Te violaremos en la proxima ronda XD"
+        "en" "We’ll wreck you next round XD"
+    }
+    "infected_death23"
+    {
+        "es" "No podria perder tan facilmente aunque lo intentara :v"
+        "en" "I couldn’t lose this easily even if I tried :v"
+    }
+    "infected_death24"
+    {
+        "es" "Ohh dia triste pi pi pi ;v"
+        "en" "Ohh sad day boo hoo ;v"
+    }
+    "infected_death25"
+    {
+        "es" "¿Cuando entraran jugadores reales? Esto me encabrona"
+        "en" "When will real players join? This pisses me off."
+    }
+    "infected_death26"
+    {
+        "es" "¿Por que Valve hizo que los supervivientes tengan tanta ventaja? ptmr"
+        "en" "Why did Valve make survivors so OP? Damn."
+    }
+    "infected_death27"
+    {
+        "es" "Imagina tener que necesitar de bots para que hagan el trabajo por ti XD"
+        "en" "Imagine needing bots to do the work for you XD"
+    }
+    "infected_death28"
+    {
+        "es" "¿Este servidor tiene algun mod de bots tryhard o algo asi?"
+        "en" "Does this server have some tryhard bot mod or something?"
+    }
+    "infected_death29"
+    {
+        "es" "Ese bot tiene aimbot integrado parece"
+        "en" "That bot looks like it has built-in aimbot."
+    }
+    "infected_death30"
+    {
+        "es" "¿Dejan que los robots hagan todo por ustedes?"
+        "en" "You just let the bots do everything for you?"
+    }
+    "infected_death31"
+    {
+        "es" "Por supuesto que dejas que los bots hagan todo por ti"
+        "en" "Of course you let the bots carry you."
+    }
+    "infected_death32"
+    {
+        "es" "Revivan el server!!!"
+        "en" "Revive the server!!!"
+    }
+    "infected_death33"
+    {
+        "es" "Ese bot parece jugador profesional xd"
+        "en" "That bot looks like a pro player lol."
+    }
+    "infected_death34"
+    {
+        "es" "EZ muy facil amigo"
+        "en" "EZ, too easy buddy."
+    }
+    "infected_death35"
+    {
+        "es" "Juega de verdad tarado"
+        "en" "Play for real, dumbass."
+    }
+    "infected_death36"
+    {
+        "es" "Estoy jugando sin manos Bv"
+        "en" "I’m playing without hands Bv"
+    }
+    "infected_death37"
+    {
+        "es" "Me da sueño que ezzzz"
+        "en" "This is so easy I’m falling asleep zzz."
+    }
+    "infected_death38"
+    {
+        "es" "La derrota ya viene"
+        "en" "Defeat is coming."
+    }
+    "infected_death39"
+    {
+        "es" "Al fin"
+        "en" "Finally."
+    }
+    "infected_death40"
+    {
+        "es" "XDDDD"
+        "en" "XDDDD"
+    }
+    "infected_death41"
+    {
+        "es" "ZzZzZzZzZzZz"
+        "en" "ZzZzZzZzZzZz"
+    }
+    "infected_death42"
+    {
+        "es" "Yo soy chad y tu virgen :v"
+        "en" "I’m chad and you’re a virgin :v"
+    }
+    "infected_death43"
+    {
+        "es" "Esto ya no es divertido es triste :("
+        "en" "This isn’t fun anymore, it’s just sad :("
+    }
+    "infected_death44"
+    {
+        "es" "Cuando juegan de verdad?"
+        "en" "When are you going to play for real?"
+    }
+    "infected_death45"
+    {
+        "es" "Te falla el coco verdad?"
+        "en" "Your brain’s not working, right?"
+    }
+    "infected_death46"
+    {
+        "es" "Pide tu reembolso de 2 dolares nomas imbecil"
+        "en" "Ask for your $2 refund, idiot."
+    }
+    "infected_death47"
+    {
+        "es" "Hasta el bot le echa mas ganas que tu XD"
+        "en" "Even the bot tries harder than you XD"
+    }
+    "infected_death48"
+    {
+        "es" "Nunca imagine personas con tan poca habilidad :v"
+        "en" "Never imagined people with such little skill :v"
+    }
+    "infected_death49"
+    {
+        "es" "Ni el m2 sabe usar ese webon xd"
+        "en" "He can’t even use shove properly lol."
+    }
+    "infected_death50"
+    {
+        "es" "Recien has comprado el juego?"
+        "en" "Did you just buy the game?"
+    }
+    "infected_death51"
+    {
+        "es" "Vende tu pc webon alguien mas si le dara utilidad"
+        "en" "Sell your PC, someone else will actually use it."
+    }
+    "infected_death52"
+    {
+        "es" "No sean malos recien esta empezando a jugar pobrecito xd"
+        "en" "Don’t be mean, he’s just starting to play lol."
+    }
+    "infected_death53"
+    {
+        "es" "Aprende a jugar retardado mental"
+        "en" "Learn how to play, dumbass."
+    }
+    "infected_death54"
+    {
+        "es" "Al menos echale ganas a la hora de jugar"
+        "en" "At least put some effort into playing."
+    }
+    "infected_death55"
+    {
+        "es" "Ya te viste los tutoriales de VAL al menos?"
+        "en" "Have you even watched VAL’s tutorials?"
+    }
+    "infected_death56"
+    {
+        "es" "Perro facha ya se canso de configurar este mod y puso esto :v"
+        "en" "Cool dog got tired of configuring this mod and added this :v"
+    }
+    "infected_death57"
+    {
+        "es" "Eres muy bueno pa :v"
+        "en" "You’re so good, bro :v"
+    }
+    "infected_death58"
+    {
+        "es" "Por favor, terminate una campaña antes de meterte a versus"
+        "en" "Please, finish one campaign before playing versus."
+    }
+    "infected_death59"
+    {
+        "es" "No puso pared glu :v"
+        "en" "Didn’t put a glue wall :v"
+    }
+    "infected_death60"
+    {
+        "es" "Vete a jugar frifayer hijito"
+        "en" "Go play Free Fire, kid."
+    }
+    "infected_death61"
+    {
+        "es" "Y yo que pense que ya vi al peor jugador de l4d2"
+        "en" "And I thought I had already seen the worst L4D2 player."
+    }
+    "infected_death62"
+    {
+        "es" "Esta afk parece xd"
+        "en" "Looks AFK lol."
+    }
+    "infected_death63"
+    {
+        "es" "Esta webeando nomas ;v"
+        "en" "He’s just fooling around ;v"
+    }
+    "infected_death64"
+    {
+        "es" "EZ"
+        "en" "EZ"
+    }
+    "infected_death65"
+    {
+        "es" "Sirve de algo y lactame el p3ne al menos"
+        "en" "Be useful and suck it at least."
+    }
+    "infected_death66"
+    {
+        "es" "Largate del server y del cyber ctmr"
+        "en" "Get out of the server and the cyber café, idiot."
+    }
+    "infected_death67"
+    {
+        "es" "Apaga el porn0 y juega de verdad"
+        "en" "Turn off the porn and play for real."
+    }
+    "infected_death68"
+    {
+        "es" "HIJOS DE PERRA"
+        "en" "SONS OF BITCHES"
+    }
+    "infected_death69"
+    {
+        "es" "Tengo el guion en mi contra ;v"
+        "en" "The script is against me ;v"
+    }
+    "infected_death70"
+    {
+        "es" "No es justo ptmr"
+        "en" "This isn’t fair, damn it."
+    }
+    "infected_death71"
+    {
+        "es" "Mi equipo es una mrd hijos de perr4"
+        "en" "My team is trash, sons of b*tches."
+    }
+    "infected_death72"
+    {
+        "es" "Igual no me gustaba este mapa"
+        "en" "I didn’t even like this map."
+    }
+    "infected_death73"
+    {
+        "es" "Los supervivientes estan muy rotos valve"
+        "en" "Survivors are too broken, Valve."
+    }
+    "infected_death74"
+    {
+        "es" "Ya se fue a la mrd esta partida XD"
+        "en" "This match is already screwed XD"
+    }
+    "infected_death75"
+    {
+        "es" "¿Que se supone que debo hacer si mi equipo esta lleno de idiotas que no ayudan?"
+        "en" "What am I supposed to do if my team is full of useless idiots?"
+    }
+    "infected_death76"
+    {
+        "es" "No hay buen respawn pe tmr"
+        "en" "There’s no good respawn, damn it."
+    }
+    "infected_death77"
+    {
+        "es" "Ya me canse de estos virgenes hijos de perRa"
+        "en" "I’m tired of these virgin sons of b*tches."
+    }
+    "infected_death78"
+    {
+        "es" "¿Podrias darme un buen spawn al menos una vez en Valve de mrd?"
+        "en" "Could you give me a good spawn at least once, Valve?"
+    }
+    "infected_death79"
+    {
+        "es" "XD"
+        "en" "XD"
+    }
+    "infected_death80"
+    {
+        "es" "Matate mrd"
+        "en" "Go kill yourself, idiot."
+    }
+    "infected_death81"
+    {
+        "es" "Si, eso es totalmente justo"
+        "en" "Yeah, that’s totally fair."
+    }
+    "infected_death82"
+    {
+        "es" "No seas abusivo maldito lacta pen3s"
+        "en" "Don’t be abusive, you damn d*ck sucker."
+    }
+    "infected_death83"
+    {
+        "es" "Seguro ni fuiste al funeral de tus viejos por jugar L4d2 imbecil"
+        "en" "Bet you didn’t even go to your parents’ funeral because of L4D2, idiot."
+    }
+    "infected_death84"
+    {
+        "es" "Buscate una vida weon mucho juego"
+        "en" "Get a life, dude, too much gaming."
+    }
+    "infected_death85"
+    {
+        "es" "Tu familia no te quiere pdnj"
+        "en" "Your family doesn’t even love you, loser."
+    }
+    "infected_death86"
+    {
+        "es" "Por que no te largas weon me aburres"
+        "en" "Why don’t you leave, man? You’re boring me."
+    }
+    "infected_death87"
+    {
+        "es" "Si, seguro eso no es hacer trampa tarado"
+        "en" "Yeah, sure, that’s not cheating, idiot."
+    }
+    "infected_death88"
+    {
+        "es" "Al menos yo si tengo vida no como tu webon de mrd adicto al l4d2"
+        "en" "At least I have a life, not like you, addicted to L4D2."
+    }
+    "infected_death89"
+    {
+        "es" "Tu ip es 192.168.0.1.155.0"
+        "en" "Your IP is 192.168.0.1.155.0"
+    }
+    "infected_death90"
+    {
+        "es" "Bañate mrd hueles a culo ctmr"
+        "en" "Take a shower, you smell like ass."
+    }
+    "infected_death91"
+    {
+        "es" "Ese idiota no tiene vida agg"
+        "en" "That idiot has no life, ugh."
+    }
+    "infected_death92"
+    {
+        "es" "Busca trabajo fracasado de mrd"
+        "en" "Go get a job, worthless loser."
+    }
+    "infected_death93"
+    {
+        "es" "Focus a ese maldito tryhard ptmr"
+        "en" "Focus that damn tryhard!"
+    }
+    "infected_death94"
+    {
+        "es" "Quitate los hacks pues maricon de mrd a ver si sabes jugar"
+        "en" "Turn off the hacks, coward, let’s see if you can play."
+    }
+    "infected_death95"
+    {
+        "es" "Te voy a doxear webon deja de fusilarme"
+        "en" "I’ll dox you, idiot, stop killing me."
+    }
+    "infected_death96"
+    {
+        "es" "¿Por que estas desperdiciando tu vida queriendo ser proplayer en l4d2?"
+        "en" "Why are you wasting your life trying to be a pro in L4D2?"
+    }
+    "infected_death97"
+    {
+        "es" "No te cansas de usar hacks todo el dia maldito lacta p3nes"
+        "en" "Don’t you get tired of using hacks all day, d*ck sucker?"
+    }
+    "infected_death98"
+    {
+        "es" "¿Alguna vez has pensado en dejar el sotano de tu vieja?, maldito parasito"
+        "en" "Have you ever thought of leaving your mom’s basement, you parasite?"
+    }
+    "infected_death99"
+    {
+        "es" "Personas como tu solo joden este hermoso juego"
+        "en" "People like you just ruin this beautiful game."
+    }
+    "smoker_spawn1"
+    {
+        "es" "El Smoker ha llegado."
+        "en" "The Smoker has arrived."
+    }
+    "boomer_spawn1"
+    {
+        "es" "El Boomer apareció."
+        "en" "The Boomer showed up."
+    }
+    "hunter_spawn1"
+    {
+        "es" "El Hunter acecha."
+        "en" "The Hunter is lurking."
+    }
+    "spitter_spawn1"
+    {
+        "es" "La Spitter está lista."
+        "en" "The Spitter is ready."
+    }
+    "jockey_spawn1"
+    {
+        "es" "El Jockey anda suelto."
+        "en" "The Jockey is loose."
+    }
+    "charger_spawn1"
+    {
+        "es" "El Charger va de frente."
+        "en" "The Charger is charging in."
+    }
+    "tank_spawn1"
+    {
+        "es" "El Tank apareció en escena."
+        "en" "The Tank has entered the stage."
+    }
+}
+

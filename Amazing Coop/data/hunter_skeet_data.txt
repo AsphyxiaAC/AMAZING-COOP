@@ -1,0 +1,11 @@
+"skeetdata"
+{
+	"data"
+	{
+		"STEAM_1:1:444985424"
+		{
+			"skeet"		"3"
+			"name"		"Asphyxia"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"REVIVED"
+	{
+		"en"			"• %N (%s) Is About To Die •"
+		"es"			"• %N (%s) Esta A Punto De Morir •"
+	}
+	"REVIVED1"
+	{
+		"en"			"• %N Is About To Die •"
+		"es"			"• %N Esta A Punto De Morir •"
+	}
+	"SURV_COUNT"
+	{
+		"en"			"{blue}%N {olive}Is Dead {orange}> {default}Survivors Left{olive}: {orange}%d %s %s"
+		"es"			"{blue}%N {olive}A Muerto {orange}> {default}Surpervivientes Vivos{olive}: {orange}%d %s %s"
+	}
+	"DEFIBBED"
+	{
+		"en"			"• %N I Use A Defibrillator To Revive A %N •\n%d Survivos Alive"
+		"es"			"• %N Desfibrilo A %N •\n%d Supervivientes Vivos"
+	}
+	"DEFIBBED1"
+	{
+		"en"			"• %N I Use A Defibrillator To Revive A %N •"
+		"es"			"• %N Desfibrilo A %N •"
+	}
+}

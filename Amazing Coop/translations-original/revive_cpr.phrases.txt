@@ -1,0 +1,51 @@
+"Phrases"
+{
+	"Reborn_Hands"
+	{
+		"#format"	"{1:s}"
+		"en"		"You can reborn {1}! Hold Ctrl + E near his Body"
+		"ru"		"Можно вернуть к жизни {1}! Удерживайте Ctrl + E рядом с телом"
+	}
+	"Reborn_Medkit"
+	{
+		"#format"	"{1:s}"
+		"en"		"You can reborn {1} using Medkit! Hold Ctrl + E near his Body"
+		"ru"		"Можно вернуть к жизни {1} аптечкой! Удерживайте Ctrl + E рядом с телом"
+	}
+	"Already_dead"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} already dead"
+		"ru"		"{1} уже мёртв"
+	}
+	"Too_late"
+	{
+		"#format"	"{1:s}"
+		"en"		"It is too late, CPR is useless for {1}"
+		"ru"		"Слишком поздно, оживление невозможно для {1}"
+	}
+	"Used_Medkit"
+	{
+		"#format"	"{1:s}{2:s}"
+		"en"		"{orange}{1} {cyan}used his Medkit to revive {orange}{2}{cyan}!"
+		"ru"		"{orange}{1} {cyan}использовал Аптеку и оживил {orange}{2}{cyan}!"
+	}
+	"Used_CPR"
+	{
+		"#format"	"{1:s}{2:s}"
+		"en"		"{orange}{1} {cyan}used CPR to revive {orange}{2}{cyan}!"
+		"ru"		"{orange}{1} {cyan}влепил пощёчину и оживил {orange}{2}{cyan}!"
+	}
+	"Using_Medkit"
+	{
+		"#format"	"{1:s}"
+		"en"		"Reviving {1} using Medkit"
+		"ru"		"Оживление {1} аптекой"
+	}
+	"Using_CPR"
+	{
+		"#format"	"{1:s}"
+		"en"		"Heart massage for {1}"
+		"ru"		"Массаж сердца для {1}"
+	}
+}

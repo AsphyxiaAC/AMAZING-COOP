@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"NEXT_CAMPAING1"
+	{
+		"en"			"{olive}Next Campaign Is: {green}%s"
+		"es"			"{olive}Proxima Campaña: {green}%s"
+	}
+	"NEXT_CAMPAING2"
+	{
+		"en"			"{olive}Next Campaign Will Be: {green}%s"
+		"es"			"{olive}Proxima Campaña: {green}%s"
+	}
+}

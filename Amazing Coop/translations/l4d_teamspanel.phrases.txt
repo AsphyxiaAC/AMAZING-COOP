@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"Gamedata_NotFound"
+	{
+		"en"		"Failed to load gamedata file: l4dteamspanel.txt"
+		"es"		"No se pudo cargar el archivo gamedata: l4dteamspanel.txt"
+	}
+
+	"SDKCall_Failed"
+	{
+		"en"		"Failed to prepare SDKCalls. Check gamedata signatures."
+		"es"		"No se pudieron preparar las SDKCalls. Revisa las firmas del gamedata."
+	}
+
+	"Already_In_Team"
+	{
+		"en"		"You are already in this team."
+		"es"		"Ya estás en este equipo."
+	}
+
+	"Survivor_Full"
+	{
+		"en"		"The Survivors team is full."
+		"es"		"El equipo de Supervivientes está lleno."
+	}
+
+	"Infected_Full"
+	{
+		"en"		"The Infected team is full."
+		"es"		"El equipo de Infectados está lleno."
+	}
+
+	"No_Bot_Survivor"
+	{
+		"en"		"No survivor bot available to take over."
+		"es"		"No hay bot Superviviente disponible para tomar el control."
+	}
+
+	"Admin_Only"
+	{
+		"en"		"Only Admins or VIPs can use this command."
+		"es"		"Solo los Administradores o VIPs pueden usar este comando."
+	}
+}

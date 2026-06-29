@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"Crawl"
+	{
+		"en"		"• Press FORWARD To Crawl While Incapped •"
+		"es"		"• Preionse W Para Arrastrarse •"
+	}
+}

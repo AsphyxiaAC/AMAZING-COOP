@@ -1,0 +1,267 @@
+"Phrases"
+{
+
+	"smg"
+	{
+		"en"		"IMI Uzi SMG"
+		"es"		"IMI Uzi SMG"
+	}
+	"smg_silenced"
+	{
+		"en"		"Silenced SMG"
+		"es"		"SMG Silenciada"
+	}
+	"smg_mp5"
+	{
+		"en"		"H&K MP5"
+		"es"		"H&K MP5"
+	}
+
+
+	"rifle"
+	{
+		"en"		"M16A2"
+		"es"		"M16A2"
+	}
+	"rifle_desert"
+	{
+		"en"		"FN SCAR-L"
+		"es"		"FN SCAR-L"
+	}
+	"rifle_ak47"
+	{
+		"en"		"AK-47"
+		"es"		"AK-47"
+	}
+	"rifle_sg552"
+	{
+		"en"		"SG552"
+		"es"		"SG552"
+	}
+	"rifle_m60"
+	{
+		"en"		"M60"
+		"es"		"M60"
+	}
+
+	"hunting_rifle"
+	{
+		"en"		"Hunting Rifle"
+		"es"		"Rifle de caza"
+	}
+	"sniper_military"
+	{
+		"en"		"Military Rifle"
+		"es"		"Rifle militar"
+	}
+	"sniper_awp"
+	{
+		"en"		"AWP"
+		"es"		"AWP"
+	}
+	"sniper_scout"
+	{
+		"en"		"Rifle Scout"
+		"es"		"Rifle Scout"
+	}
+	
+
+	"pumpshotgun"
+	{
+		"en"		"Pump Shotgun"
+		"es"		"Pump Shotgun"
+	}
+	"shotgun_chrome"
+	{
+		"en"		"Chrome Shotgun"
+		"es"		"Chrome Shotgun"
+	}
+	"autoshotgun"
+	{
+		"en"		"Auto Shotgun"
+		"es"		"Auto Shotgun"
+	}
+	"shotgun_spas"
+	{
+		"en"		"Spas Shotgun"
+		"es"		"Spas Shotgun"
+	}
+
+
+	"pistol"
+	{
+		"en"		"Gun"
+		"es"		"Pistola"
+	}
+	"pistol_magnum"
+	{
+		"en"		"Magnum"
+		"es"		"Magnum"
+	}
+	"grenade_launcher"
+	{
+		"en"		"M79 Grenade Launcher"
+		"es"		"M79 Lanza Granada"
+	}
+
+
+	"katana"
+	{
+		"en"		"katana"
+		"es"		"katana"
+	}
+	"fireaxe"
+	{
+		"en"		"Axe"
+		"es"		"Hacha"
+
+	}
+	"chainsaw"
+	{
+		"en"		"Chainsaw"
+		"es"		"Motosierra"
+	}
+	"baseball_bat"
+	{
+		"en"		"Baseball Bat"
+		"es"		"Bate de beisbol"
+	}
+	"electric_guitar"
+	{
+		"en"		"Guitar"
+		"es"		"Guitarra"
+	}
+	"tonfa"
+	{
+		"en"		"Nightstick"
+		"es"		"Porra De Policia"
+	}
+	"machete"
+	{
+		"en"		"Machete"
+		"es"		"Machete"
+	}
+	"cricket_bat"
+	{
+		"en"		"Cricket Bat"
+		"es"		"Bate De Cricket"
+	}
+	"frying_pan"
+	{
+		"en"		"Frying Pan"
+		"es"		"Sarten"
+	}
+	"crowbar"
+	{
+		"en"		"Crowbar"
+		"es"		"Palanca"
+	}
+	"knife"
+	{
+		"en"		"Knife"
+		"es"		"Cuchillo"
+	}
+	"flamethrower"
+	{
+		"en"		"Flamethrower"
+		"es"		"Flamethrower"
+	}
+	"pitchfork"
+	{
+		"en"		"Pitchfork"
+		"es"		"Horca"
+	}
+	"shovel"
+	{
+		"en"		"Shovel"
+		"es"		"Pala"
+	}
+	"golfclub"
+	{
+		"en"		"Golfclub"
+		"es"		"Palo De Glof"
+	}
+
+
+	"pipe_bomb"
+	{
+		"en"		"Pipe Bomb"
+		"es"		"Pipe Bomb"
+	}
+	"molotov"
+	{
+		"en"		"Molotov"
+		"es"		"Molotov"
+	}
+	"vomitjar"
+	{
+		"en"		"Vomitjar"
+		"es"		"Vomitona"
+	}
+	"gascan"
+	{
+		"en"		"Gascan"
+		"es"		"Gasolina"
+	}
+	"propanetank"
+	{
+		"en"		"Propanetank"
+		"es"		"Tanque De Propano"
+	}
+	"fireworkcrate"
+	{
+		"en"		"Fireworkcrate"
+		"es"		"Fuegos Artificiales"
+	}
+	"oxygentank"
+	{
+		"en"		"Oxygentank"
+		"es"		"Tanque De Oxigeno"
+	}
+
+	"laser_sight"
+	{
+		"en"		"Laser Sight"
+		"es"		"Mira Laser"
+	}
+	"explosive_ammo"
+	{
+		"en"		"Explosive Ammo"
+		"es"		"Munición explosiva"
+	}
+	"upgradepack_explosive"
+	{
+		"en"		"Upgradepack Explosive"
+		"es"		"Paquete de munición explosiva"
+	}
+	"incendiary_ammo"
+	{
+		"en"		"Incendiary Ammo"
+		"es"		"Munición incendiaria"
+	}
+	"upgradepack_incendiary"
+	{
+		"en"		"Upgradepack Incendiary"
+		"es"		"Paquete de munición incendiaria"
+	}
+	"first_aid_kit"
+	{
+		"en"		"First Aid Kit"
+		"es"		"Botiquin"
+	}
+	"adrenaline"
+	{
+		"en"		"Adrenaline"
+		"es"		"Adrenalina"
+	}
+	"pain_pills"
+	{
+		"en"		"Pain Pills"
+		"es"		"Pildoras"
+	}
+	"defibrillator"
+	{
+		"en"		"Defibrillator"
+		"es"		"Defibrilador"
+	}
+}

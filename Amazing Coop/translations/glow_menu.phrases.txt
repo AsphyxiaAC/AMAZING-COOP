@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"SURVIVOR"
+	{
+		"en" "Only survivors can use this menu."
+		"es" "Solo los supervivientes pueden usar este menú."
+	}
+
+	"GLOW_APPLIED"
+	{
+		"en" "Glow effect applied successfully!"
+		"es" "¡Efecto de glow aplicado correctamente!"
+	}
+
+	"GLOW_DISABLED"
+	{
+		"en" "Glow disabled."
+		"es" "Glow desactivado."
+	}
+}

@@ -1,0 +1,130 @@
+//Category Vehicles Botones
+models/props_unique/generator_switch_01.mdl TAG- Boton Blanco
+models/props_mill/freightelevatorbutton02.mdl TAG- Boton en forma de tubo
+models/props_buildables/arcade_button.mdl TAG- Boton tipo madera
+models/props_downtown/keycard_reader.mdl TAG- Boton tarjeta
+models/props_interiors/soapdispenser01.mdl TAG- Boton caja diminuta
+models/props_fairgrounds/pyrotechnics_switch.mdl TAG- Boton bomba
+models/props_vehicles/floodlight_generator_switch02.mdl TAG- Cuchilla PE
+models/props_vehicles/airport_baggage_cart2.mdl TAG- Casillero de equipaje del aeropuerto
+models/props_swamp/winch.mdl TAG- Boton giratorio
+
+//Category Foliage Plantas
+models/props/de_prodigy/wood_pallet_debris_12.mdl TAG- Madera Chica
+models/props_update/wood_128.mdl TAG- Tabla De Madera
+models/lighthouse/props/wall_144_324.mdl TAG- Pared Cemento
+models/c1_chargerexit/plywood_cent.mdl TAG- Triplay
+models/props_swamp/plank001b_192.mdl TAG- Tabla
+models/props_crates/static_crate_40.mdl TAG- Caja militar
+models/props_foliage/swamp_shrubwall_512.mdl TAG- Planta marchitada
+models/props_urban/fire_escape_upper.mdl TAG- Escalera Azul
+models/props_urban/fire_escape_platform.mdl TAG- Plataforma Escalera Azul
+models/props/cs_militia/ladderwood.mdl TAG- Escalera De Madera
+models/props/cs_office/ladder1.mdl TAG- Escalera Amarilla
+models/props_buildables/wall_barricade_helper.mdl TAG- Pared De Madera
+models/lostcoast/props_wasteland/rock_coast02b.mdl TAG- Roca
+models/props_vehicles/radio_generator_fillup.mdl TAG- Boca de generador
+models/props_vehicles/floodlight_generator_pose02_static.mdl TAG- Generador GRANDE
+models/props_vehicles/floodlight_generator_nolight_static.mdl TAG- Generador PEQUEÑO
+models/props_foliage/hedge_256_128high.mdl TAG- Cerca de cesped
+models/props_foliage/hedge_256.mdl TAG- Cerca de cesped pequeña
+models/props/de_inferno/wood_fence.mdl TAG- Baranda de palos
+models/props_foliage/swamp_cluster_water.mdl TAG- Arboles
+models/props/cs_militia/militiarock06.mdl TAG- Roca
+models/props/cs_militia/militiarock01.mdl TAG- Roca De Tank
+models/props/cs_militia/militiarock06.mdl TAG- Roca De Tank 2
+models/props_foliage/cedar01.mdl TAG- Arbol de cedro (penetración)
+
+//Category Interior Interior
+models/props_downtown/metal_door_112.mdl TAG- Puerta
+models/props_highway/plywood_02.mdl TAG- Tripley Chico
+models/props_exteriors/door_metal01.mdl TAG- Puerta Metal
+models/props_wasteland/exterior_fence001a.mdl TAG- Fence con ruedas 
+models/props_junk/cinderblock01a.mdl TAG- Ladrillo
+models/props/cs_militia/ladderrung.mdl TAG- Escalera Metal Partes
+models/props/cs_office/light_shop.mdl TAG- Foco Florecente
+models/props_highway/plywood_03.mdl TAG- Madera Plana
+models/props_highway/billboard_ladder.mdl TAG- Escalera grande
+models/props_junk/metal_paintcan001b.mdl TAG- Valnde de grasa
+models/props/de_train/ladderaluminium.mdl TAG- Escalera
+models/props_doors/doormainmetal01_dm01.mdl TAG- Puerta
+models/props_mill/brickwall_broken04.mdl TAG- Ladrillos
+models/props_unique/hospital05_rooftop_stair02.mdl TAG- Escalera de metal
+models/props_lighting/light_battery_rigged_01.mdl TAG- Motos de vehiculo
+models/props_highway/plywood_03.mdl TAG- Marco de madera
+models/props_industrial/wire_spool_01.mdl TAG- Tambor de cable
+models/props_destruction/dest_fire_wallcollapse.mdl TAG- Pared quemada
+models/props_collectables/money_wad.mdl TAG- Dinerico
+models/props_interiors/table_picnic_break11.mdl TAG- Mesa de picnic-Broken 11
+
+//Category Exterior
+models/amazing_coop/cartel/amazing_cartel.mdl TAG- Cartel
+models/player/slow/hannibal/fell_beast/slow.mdl TAG- Dragon
+models/props_docks/marina_dock.mdl TAG- Puente De Madera
+models/props_fortifications/barricade_gate001_64_reference.mdl TAG- Fence Plano
+models/vj_darkmessiah/spider_queen.mdl TAG- Araña
+models/props_urban/gate_wall003_32.mdl TAG- Puerta de metal
+models/props_street/barricade_unique.mdl TAG- Barricada policial
+models/props_street/police_barricade2.mdl TAG- Barricada policial 3 capas
+models/props_street/police_barricade3.mdl TAG- Barricada policial 6 capas
+models/props_junk/propanecanister001a.mdl TAG- Balon de gas
+models/props_street/barricade_door_01.mdl TAG- Barricada Policia
+models/props_exteriors/wood_stairs_wide_48.mdl TAG- Escalera madera
+models/props_urban/fence_gate001_256.mdl TAG- Puerta de valla urbana (fácil de usar)
+models/props_urban/fence001_256.mdl TAG- Puerta de valla
+models/props_wasteland/exterior_fence002d.mdl TAG- Puerta de valla 2 capas 
+models/props_urban/fence002_64.mdl TAG- Puerta de valla Mitad
+models/props_wasteland/exterior_fence001a.mdl TAG- Fence con ruedas
+models/props_cemetery/cemetery_gate_128.mdl TAG- Cerca de alambre de púas-con púas
+models/props_unique/wooden_barricade.mdl TAG- Wooden Barricade-Perfect
+models/props_exteriors/roadsidefence_64.mdl TAG- valla de carretera-capa única
+models/props_exteriors/roadsidefence_512.mdl TAG- valla de carretera-ocho capas
+
+//Category Decorative Decorativa
+models/props_vehicles/racecar_damaged_outro.mdl TAG- Carro Jimmy
+models/props_vehicles/racecar_damaged.mdl TAG- Carro Jimmy 2
+models/infected/hulk.mdl TAG- Tank
+models/w_models/weapons/w_eq_medkit.mdl TAG- Botiquin
+models/survivors/survivor_manager.mdl TAG- Louis
+models/hybridphysx/news_helicoptor_map1_intro_v1.mdl TAG- Noticias Idle
+models/hybridphysx/news_helicoptor_hoveranim.mdl TAG- Helicoptero Noticias 
+models/props_interiors/constructionwalls04_frame.mdl TAG- Marco De Metal
+models/props_windows/window_industrial_frame.mdl TAG- Marco de ventana
+models/props_vehicles/suv_2001.mdl TAG- Carro 
+models/deadbodies/ceda/ceda_truck_b.mdl TAG- Ceda
+models/deadbodies/deepswamp/fence_a.mdl TAG- Infectado muerto
+models/w_models/weapons/w_eq_pipebomb.mdl TAG- Pipe Bomb
+models/props_junk/gnome.mdl TAG- Gnomo
+
+//Category Misc Variedad
+models/props/cs_office/computer_caseb_gib2.mdl TAG- Punto pequeño 1
+models/props/cs_office/computer_caseb_gib1.mdl TAG- Punto pequeño 2
+models/props_buildings/barn_steps.mdl TAG- Escalera con vallas
+models/props/de_nuke/crate_small.mdl TAG- Caja grande
+models/props_buildings/watertower_001a.mdl TAG- Torre de agua
+models/gwpumpkins/pumpkin3.mdl TAG- Calabaza 4
+models/gwpumpkins/pumpkin4.mdl TAG- Calabaza 5
+models/gwpumpkins/pumpkin7.mdl TAG- Calabaza 8
+models/props_vehicles/boat_fishing02.mdl TAG- Barco Virgil
+models/infected/jockey.mdl TAG- Jockey
+models/props_junk/trashcluster01a.mdl TAG- Basura 1
+models/props_junk/trashcluster01b.mdl TAG- Basura 2
+models/w_models/weapons/w_minigun.mdl TAG- Minigun
+models/props_fortifications/concrete_block001_128_reference.mdl TAG- Bloque de concreto
+models/props_unique/wooden_barricade_gascans.mdl TAG- Six Pac Gasolina
+models/props_equipment/cargo_container01_fixed.mdl TAG- Conteiner cerrado
+models/props_vehicles/train_enginecar.mdl TAG- Tren
+models/props_urban/gate_wall001_256.mdl TAG- Muro
+models/props/cs_militia/circularsaw01.mdl TAG- Sierra circular
+models/props_urban/wood_fence001_128.mdl TAG- Cerca de madera
+models/props_urban/wood_fence001_64.mdl TAG- Cerca de madera pequeña
+models/props/de_train/pallet_barrels.mdl TAG- Barriles para explotar
+models/props_debris/barricade_tall03a.mdl TAG- Escombros
+models/props_junk/gascan001a.mdl TAG- Gasolina
+models/props_doors/roll-up_door_full.mdl TAG- Porton
+models/props_fortifications/sandbags_line2.mdl TAG- Barricada de sacos de arena
+models/props_street/electrical_box01.mdl TAG- Electrial Tubos
+models/lighthouse/b_waterwheel01.mdl TAG- Molino
+models/props_urban/fence_post002.mdl TAG- Varanda
+models/props_interiors/constructionwalls04_frame.mdl  TAG- Cuadro para teleport
+models/props_vehicles/cara_82hatchback_wrecked.mdl TAG- Carro Abollado 

@@ -1,0 +1,111 @@
+"Phrases"
+{
+	"Tank is still alive"
+	{
+		"en"			"• Tank Is Still Slive, Kill Tank First •"
+		"zho"			"Tank還活著，請先殺了Tank!"
+		"chi"			"坦克还活着，请先杀了坦克!"
+		"es"			"• Mata Al Tank Primero •"
+	}	
+	"Tank is still alive, or wait"
+	{
+		"#format"		"{1:d}"
+		"en"			"• Tank Is Still Alive, Kill Tank First! Or Wait {1} Seconds •"
+		"zho"			"Tank還活著，請先殺了Tank!\n否則等待 {1} 秒!"
+		"chi"			"坦克还活着，请先杀了坦克!\n否则等待 {1} 秒!"
+		"es"			"• Matar Al Tank O Esperar •\n{1} Segundos"
+	}	
+	"Door is opened! GET IN!!"
+	{
+		"en"			"• Door is opened! GET IN!! •"
+		"zho"			"安全門已開啟!! 大家趕快進去!!"
+		"chi"			"安全门已开启!! 大家赶快进去!!"
+		"es"			"• Puerta Abierta Entra •"
+	}	
+	"open the door already"
+	{
+		"en"			"Opened The {blue}Door"
+		"zho"			"打開了 安全室大門!"
+		"chi"			"打开了 安全室大门!"
+		"es"			"Abrio La {blue}Puerta"
+	}
+	"Lockdown in seconds"
+	{
+		"#format"		"{1:d}"
+		"en"			"• Door open in •\n{1} seconds"
+		"zho"			"開門倒數 {1} 秒!"
+		"chi"			"开门倒数 {1} 秒!"
+		"es"			"• La Puerta Se Abre En  •\n{1} Segundos"
+	}
+	"Tanks are coming"
+	{
+		"en"			"TANKS ARE COMING!!"
+		"zho"			"{green}Tank {default}大軍壓境!!"
+		"chi"			"{green}坦克 {default}大军压境!!"
+		"es"			"EL TANK ¡ESTA CERCA!"
+	}
+	"Slay in seconds"
+	{
+		"#format"		"{1:d}"
+		"en"			"• Saferoom Outside Dead In •\n{1} Seconds"
+		"zho"			"安全室門外死亡倒數 {1} 秒!"
+		"chi"			"安全室门外死亡倒数 {1} 秒!"
+		"es"			"• Los Jugadores Fuera Del Refugio Moriran En •\n{1} Segundos"
+	}
+	"Outside Slay"
+	{
+		"en"			"{olive}Players outside the saferoom will be{green} executed{default}!"
+		"zho"			"{olive}室外區域的玩家將{green}處以死刑{default}!"
+		"chi"			"{olive}室外区域的玩家将{green}处以死刑{default}!"
+		"es"			"{olive}¡JUGADORES FUERA DEL REFUGIO SERAN {green}ASESINADOS{default}!"
+	}
+	"You have been executed for outside the saferoom!"
+	{
+		"en"			"• You Have Been Executed For Outside The Saferoom •"
+		"zho"			"你位於安全門外，處以死刑!!"
+		"chi"			"你位于安全门外，处以死刑!!"
+		"es"			"• Has Sido Asesinado Por Estar Fuera Del Refugio •"
+	}
+	"someone opens the door"
+	{
+		"en"			"Opens The {blue}Door"
+		"zho"			"打開 安全門!"
+		"chi"			"打开 安全门!"
+		"es"			"Abrio La {blue}Puerta"
+	}
+	"someone closes the door"
+	{
+		"en"			"Closes The {blue}Door"
+		"zho"			"關閉 安全門!"
+		"chi"			"关闭 安全门!"
+		"es"			"Cerro La {blue}Puerta"
+	}
+	"Chance"
+	{
+		"#format"		"{1:d}"
+		"en"			"The survivors have only {green}{1}{default} chance(s) to open the safe room door"
+		"zho"			"倖存者只有 {green}{1}{default} 次機會打開安全室大門!"
+		"chi"			"生还者只有 {green}{1}{default} 次机会打开安全室大门!"
+	}
+	"Chance Left"
+	{
+		"#format"		"{1:d}"
+		"en"			"The survivors have {green}{1}{default} chance(s) left to open the door"
+		"zho"			"倖存者剩餘 {green}{1}{default} 次機會打開大門!"
+		"chi"			"生还者剩余 {green}{1}{default} 次机会打开大门!"
+	}
+	"No Chance"
+	{
+		"en"			"Chance to open the door have run out!!"
+		"zho"			"打開大門的機會已用完!!"
+		"chi"			"打开大门的机会已用完!!"
+	}
+	"SurvivorReached"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"{1} Survivors Have Reached Near The End Saferoom Door ({2} Required)"
+		"zho"			"{1} 名倖存者已到達安全門附近 (需要{2}名)"
+		"chi"			"{1} 名生还者已到达安全门附近 (需要{2}名)"
+		"es"			"{1} Supervivientes Llegador Al Refugio Se Necesita ({2} Para Abrirlo)"
+	}
+}

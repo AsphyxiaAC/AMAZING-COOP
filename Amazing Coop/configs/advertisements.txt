@@ -1,0 +1,42 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+//
+//
+"Advertisements"
+{
+    "1"
+    {
+        "hint"			"{hostname}"
+    }
+    "2"
+    {
+        "chat"			" \n{green}+ {teamcolor}VES ERROR? HAS ESTO: \n{teamcolor}• {yellow}OPCIONES {green}/{yellow} MULTIJUGADOR {green}/{yellow} CONTENIDO DE SERVIDOR PERSONALIZADO \n{green}\n{teamcolor}• {green}PERMITIR TODO\n "
+    }  
+    "3"
+    {
+        "chat"			" \n{yellow}❤ {lightgreen} Para Ver Los Comandos Y Reglas Del Servidor {yellow}!achelp\n "
+    } 
+    "4"
+    {
+        "chat"			" \n{yellow}• {green}Map {yellow}• {teamcolor}{currentmap}\n " // MAPA ACTUAL 
+    }
+    "5"
+    {
+        "chat"			" \n{green}+ {teamcolor}Join Discord: \n{teamcolor}• {yellow}https://discord.gg/Ata64YztSr\n "
+    }
+}
+

@@ -1,0 +1,100 @@
+"Phrases"
+{
+	"Respawn Limit"
+	{
+		"en"			"You have reached your respawn limit and will be unable to revive on your own"	
+		"es"			"Has alcanzado tu límite de Auto-Respawns y no podrás Auto-Revivir!"
+	}
+	"Seconds To Respawn"
+	{
+		"#format"		"{1:i}"
+		"en"			"You will Auto-Respawn in {1} seconds!"
+		"es"			"Vas a revivir en {1} segundos!"
+	}
+	"Seconds To Respawn limit"
+	{
+		"#format"        	"{1:i},{2:i}"
+		"en"            	"You will respawn in {1} seconds! ({2} lives left) " 
+		"es"			"Vas a revivir en {1} segundos!"
+	}
+	"Seconds To Respawn limit (1)"
+	{
+		"#format"        	"{1:i}"
+		"en"            	"You will respawn in {1} seconds! (1 live left) "
+		"es"			"Vas a revivir en {1} segundos!"
+	}
+	"Respawned"
+	{
+		"#format"		"{1:s}"
+		"en"			"{orange}[{olive}ShenLong{orange}] {blue}{1} {default}He Reappeared Thanks To ShenLong"
+		"es"			"{orange}[{olive}ShenLong{orange}] {blue}{1} {default}Reaparecio Gracias A ShenLong"
+	}
+	"CMD Respawn"
+	{
+		"en"			"[SM] Usage: sm_respawn <#UserID|Name>"
+		"es"			"[SM] Usa: sm_respawn <#UserID|Name>"
+	}
+	"No Need To Respawn"
+	{
+		"#format"		"{1:N}"
+		"en"			"{lightgreen}{1} {default}Doesn't Need To Respawn!"
+		"es"			"{lightgreen}{1} {default}No Necesita Reaparecer!"
+	}
+	"No Need To Respawn Menu"
+	{
+		"#format"		"{1:s}"
+		"en"			"{lightgreen}{1} {default}Doesn't Need To Respawn!"
+		"es"			"{lightgreen}{1} {default}No Necesita Reaparecer!"
+	}
+	"Not Needed To Respawn"
+	{
+		"#format"		"{1:N}"
+		"en"			"{lightgreen}{1} {default}Didn't Need To Respawn!"
+		"es"			"{lightgreen}{1} {default}No Necesitó Reaparecer!"
+	}
+	"Select Options"
+	{
+		"en"			"Select An Option"
+		"es"			"Seleccione Una Opción"
+	}
+	"Main Menu Name"
+	{
+		"en"			"Player Re-Spawn"
+		"es"			"Reaparecer Jugadores"
+	}
+	"Players List"
+	{
+		"en"			"Players List"
+		"es"			"Lista De Jugadores"
+	}
+	"Respawn Menu"
+	{
+		"en"			"Respawn Menu"
+		"es"			"Menú De Reaparición"
+	}
+	"Couldn't Teleport"
+	{
+		"en"			"Couldn't teleport player after respawn"
+		"es"			"No se pudo teletransportar al jugad@r después de reaparecer"
+	}
+	"Couldn't spawn at this moment."
+	{
+		"en" 			"Couldn't respawn at the moment."
+	}
+	"Couldn't respawn after the saferoom door is open."
+	{
+		"en" 			"Couldn't respawn after the saferoom door is open."
+	}
+	"Couldn't respawn when final vehicle is coming."
+	{
+		"en" 			"Couldn't respawn when final vehicle rescue is coming."
+	}
+	"You will be respawned again."
+	{
+		"en" 			"You will be respawned again."
+	}
+	"No Any Dead Survivor"
+	{
+		"en"			"[SM] There Are No Any {green}Dead Survivor"
+	}
+}

@@ -1,0 +1,197 @@
+"Phrases"
+{
+	"MENU_TRAILS"
+	{
+		"en"		"☼ Trails Menu ☼\n |AMAZING-COOP|\n "
+	}
+	"DESACTIVAR"
+	{
+		"en"		"• Off\n "
+		"es"		"• Desactivar\n "
+	}
+	"ARCOIRIS"
+	{
+		"en"		"Rainbow"
+		"es"		"Arco Iris"
+	}
+	"RAYO"
+	{
+		"en"		"Ray"
+		"es"		"Rayo"
+	}
+	"DOBLE_ARCOIRIS"
+	{
+		"en"		"Rainbow 2"
+		"es"		"Arco Iris 2"
+	}
+	"LIGHT_BLUE"
+	{
+		"en"		"Light Blue"
+		"es"		"Luz Azul"
+	}
+	"CIRCLE"
+	{
+		"en"		"Circle"
+		"es"		"Circulo"
+	}
+	"LASER"
+	{
+		"en"		"Laser"
+		"es"		"Laser"
+	}
+	"MOLECULA"
+	{
+		"en"		"Molecula"
+		"es"		"Molecula"
+	}
+	"NIEBLA"
+	{
+		"en"		"Fog"
+		"es"		"Niebla"
+	}
+	"HUMO"
+	{
+		"en"		"Smoke"
+		"es"		"Humo"
+	}
+	"FIRE"
+	{
+		"en"		"Fire"
+		"es"		"Fuego"
+	}
+	"BUBBLE"
+	{
+		"en"		"Bubble"
+		"es"		"Burbuja"
+	}
+	"RAYO_AZUL"
+	{
+		"en"		"Ray Blue"
+		"es"		"Rayo Azul"
+	}
+	"RAY_GREEN"
+	{
+		"en"		"Ray Green"
+		"es"		"Rayo Verde"
+	}
+	"MUSHROOM"
+	{
+		"en"		"Mario Bros Mushroom"
+		"es"		"Hongo Mario Bros"
+	}
+	"BALLX"
+	{
+		"en"		"Ball-X"
+		"es"		"Ball-X"
+	}
+	"POW"
+	{
+		"en"		"Pow"
+		"es"		"Pow"
+	}
+	"ENERGIA"
+	{
+		"en"		"Energy"
+		"es"		"Energia"
+	}
+	"KIRBY"
+	{
+		"en"		"Kirby"
+		"es"		"Kirby"
+	}
+	"NYAN_CAT"
+	{
+		"en"		"Nyan Cat"
+		"es"		"Nyan Cat"
+	}
+	"PIKACHU"
+	{
+		"en"		"Pikachu"
+		"es"		"Pikachu"
+	}
+	"POKEBOLA"
+	{
+		"en"		"Pokebola"
+		"es"		"Pokebola"
+	}
+	"SKULL"
+	{
+		"en"		"Skull"
+		"es"		"Craneo"
+	}
+	"SPONGEBOB"
+	{
+		"en"		"Sponje Bob"
+		"es"		"Bob Esponja"
+	}
+	"TRIPPY"
+	{
+		"en"		"Trippy"
+		"es"		"Trippy"
+	}
+	"TROLLFACE"
+	{
+		"en"		"Troll Face"
+		"es"		"Troll Face"
+	}
+	"UMBRELLA"
+	{
+		"en"		"Parasol"
+		"es"		"Sombrilla"
+	}
+	"AMONGUS"
+	{
+		"en"		"Among Us"
+		"es"		"Among Us"
+	}
+	"BNETCO"
+	{
+		"en"		"Cat"
+		"es"		"Gato"
+	}
+	"CLOWN"
+	{
+		"en"		"Clown"
+		"es"		"Payaso"
+	}
+	"HEART"
+	{
+		"en"		"Heart"
+		"es"		"Corazon"
+	}
+	"POINTS"
+	{
+		"en"		"Points"
+		"es"		"Puntos"
+	}
+	"POO"
+	{
+		"en"		"Popoo"
+		"es"		"Popoo"
+	}
+	"POTATO"
+	{
+		"en"		"Potato"
+		"es"		"Papa"
+	}
+	"HEARTS"
+	{
+		"en"		"Hearts"
+		"es"		"Corazones"
+	}
+	"SPARK"
+	{
+		"en"		"Spark"
+		"es"		"Chispa"
+	}
+	"JOKER"
+	{
+		"en"		"Joker"
+		"es"		"Joker"
+	}
+	"PUZIR"
+	{
+		"en"		"Puzir"
+		"es"		"Puzir"
+	}
+}

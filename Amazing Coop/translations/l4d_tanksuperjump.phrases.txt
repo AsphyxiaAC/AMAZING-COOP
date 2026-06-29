@@ -1,0 +1,32 @@
+"Phrases"
+{
+    "Hint_Use"
+    {
+        "en" "Press {green}E (USE){default} to perform a Super Jump."
+        "es" "Pulsa {green}E (USE){default} para realizar un Super Salto."
+    }
+
+    "Wait_Cooldown"
+    {
+        "en" "Wait {olive}%d{default} second(s) before jumping again."
+        "es" "Quedan {olive}%d{default} segundo(s) para el siguiente salto."
+    }
+
+    "Start_Cooldown"
+    {
+        "en" "Cooldown: {olive}%d{default} second(s) until the next jump."
+        "es" "Cooldown: {olive}%d{default} segundo(s) para el próximo salto."
+    }
+
+    "Cooldown_Seconds"
+    {
+        "en" "%d"
+        "es" "%d"
+    }
+
+    "Ready"
+    {
+        "en" "Tank Jump\nREADY!"
+        "es" "Tank Jump\n¡LISTO!"
+    }
+}

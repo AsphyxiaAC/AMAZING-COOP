@@ -1,0 +1,66 @@
+"Phrases"
+{
+	"Advert_AfkCommand"
+	{
+		"en"	"Use !afk to switch to Spectator mode."
+		"es"	"Usa !afk para pasar a modo Espectador."
+	}
+
+	"JoinReminder"
+	{
+		"en"	"Type !join to return to the game."
+		"es"	"Escribe !join para regresar al juego."
+	}
+
+	"KickedForSpec"
+	{
+		"en"	"%N was kicked for being too long in Spectator."
+		"es"	"%N fue kickeado por permanecer demasiado en Espectador."
+	}
+	"KickReasonSpec"
+	{
+		"en"	"Too long in spectator (AFK)."
+		"es"	"Demasiado tiempo en Espectador (AFK)."
+	}
+
+	"KickedForAfk"
+	{
+		"en"	"%N was kicked for being AFK."
+		"es"	"%N fue kickeado por estar AFK."
+	}
+	"KickReasonAfk"
+	{
+		"en"	"AFK for too long."
+		"es"	"Inactividad prolongada (AFK)."
+	}
+
+	"MovedToSpec"
+	{
+		"en"	"%N was moved to Spectator for inactivity."
+		"es"	"%N fue movido a Espectador por inactividad."
+	}
+
+	"MovedByCommand"
+	{
+		"en"	"%N used !afk and was moved to Spectator."
+		"es"	"%N usó !afk y fue movido a Espectador."
+	}
+
+	"CountdownHint"
+	{
+		"en"	"[AFK Manager]\nYou will be moved to Spectator in %d s.\nUse !afk again to cancel."
+		"es"	"[AFK Manager]\nSerás movido a Espectador en %d s.\n¡Usa !afk de nuevo para cancelar!"
+	}
+
+	"AlreadySpectator"
+	{
+		"en"	"You are already a spectator."
+		"es"	"Ya estás en modo Espectador."
+	}
+
+	"CountdownCanceled"
+	{
+		"en"	"AFK countdown canceled."
+		"es"	"Cuenta regresiva cancelada."
+	}
+}

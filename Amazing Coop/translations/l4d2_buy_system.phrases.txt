@@ -1,0 +1,928 @@
+"Phrases"
+{
+
+    // =============================
+    // GENERAL
+    // =============================
+    "Tag_Store"
+    {
+        "es"        "Tienda"
+        "en"        "Store"
+    }
+
+    "Currency"
+    {
+        "es"        "PEN"
+        "en"        "Coins"
+    }
+
+    "State_On"
+    {
+        "es"        "ACTIVADO"
+        "en"        "ENABLED"
+    }
+
+    "State_Off"
+    {
+        "es"        "DESACTIVADO"
+        "en"        "DISABLED"
+    }
+
+    "Exit"
+    {
+        "es"        "Salir"
+        "en"        "Exit"
+    }
+
+    "Yes"
+    {
+        "es"        "Si"
+        "en"        "Yes"
+    }
+
+    "No"
+    {
+        "es"        "No"
+        "en"        "No"
+    }
+
+    "Back"
+    {
+        "es"        "Regresar"
+        "en"        "Back"
+    }
+
+    "ConfirmBuy"
+    {
+        "es"        "Confirmar Compra"
+        "en"        "Confirm Purchase"
+    }
+
+    // =============================
+    // MENU PRINCIPAL
+    // =============================
+    "Main_Header"
+    {
+        "#format"   "{1:s},{2:i},{3:s},{4:s},{5:s}"
+        "es"        "• ● [ Tienda ] ● •\n________________________\n \n [♛] Nombre: {1}\n [ $ ] Dinero: {2} {3}\n [✦] Fecha: {4}\n [✦] Hora: {5}\n________________________\n "
+        "en"        "• ● [ Store ] ● •\n________________________\n \n [♛] Name: {1}\n [ $ ] Money: {2} {3}\n [✦] Date: {4}\n [✦] Time: {5}\n________________________\n "
+    }
+
+    "Main_Armory"
+    {
+        "es"        "» Tienda de Armería"
+        "en"        "» Armory Store"
+    }
+
+    "Main_Melee"
+    {
+        "es"        "» Tienda de Melee"
+        "en"        "» Melee Store"
+    }
+
+    "Main_Heals"
+    {
+        "es"        "» Tienda de Curas"
+        "en"        "» Healing Store"
+    }
+
+    "Main_Throwables"
+    {
+        "es"        "» Tienda de Lanzables"
+        "en"        "» Throwables Store"
+    }
+
+    "Main_SecondLife"
+    {
+        "#format"   "{1:s}"
+        "es"        "» Segunda Vida [{1}]"
+        "en"        "» Second Life [{1}]"
+    }
+
+    "Main_Revive"
+    {
+        "es"        "» Revivir Compañero"
+        "en"        "» Revive Teammate"
+    }
+
+    "Main_Special"
+    {
+        "es"        "» Tienda Especial"
+        "en"        "» Special Store"
+    }
+
+    // =============================
+    // TITULOS Y CATEGORIAS
+    // =============================
+    "Title_Special"
+    {
+        "es"        "【 TIENDA ESPECIAL 】"
+        "en"        "【 SPECIAL STORE 】"
+    }
+
+    "Title_Armory"
+    {
+        "es"        "● ARMERÍA ●"
+        "en"        "● ARMORY ●"
+    }
+
+    "Title_SMG"
+    {
+        "es"        "【 SUBFUSILES / PISTOLAS 】"
+        "en"        "【 SMGS / PISTOLS 】"
+    }
+
+    "Title_Rifles"
+    {
+        "es"        "【 RIFLES 】"
+        "en"        "【 RIFLES 】"
+    }
+
+    "Title_Snipers"
+    {
+        "es"        "【 SNIPERS 】"
+        "en"        "【 SNIPERS 】"
+    }
+
+    "Title_Shotguns"
+    {
+        "es"        "【 ESCOPETAS 】"
+        "en"        "【 SHOTGUNS 】"
+    }
+
+    "Title_Heavy"
+    {
+        "es"        "【 PESADAS 】"
+        "en"        "【 HEAVY WEAPONS 】"
+    }
+
+    "Title_Melee"
+    {
+        "es"        "【 TIENDA DE MELEE 】"
+        "en"        "【 MELEE STORE 】"
+    }
+
+    "Title_Heals"
+    {
+        "es"        "【 TIENDA DE CURAS 】"
+        "en"        "【 HEALING STORE 】"
+    }
+
+    "Title_Throwables"
+    {
+        "es"        "【 TIENDA DE LANZABLES 】"
+        "en"        "【 THROWABLES STORE 】"
+    }
+
+    "Cat_SMG"
+    {
+        "es"        "Subfusiles"
+        "en"        "SMGs"
+    }
+
+    "Cat_Rifles"
+    {
+        "es"        "Rifles"
+        "en"        "Rifles"
+    }
+
+    "Cat_Snipers"
+    {
+        "es"        "Snipers"
+        "en"        "Snipers"
+    }
+
+    "Cat_Shotguns"
+    {
+        "es"        "Escopetas"
+        "en"        "Shotguns"
+    }
+
+    "Cat_Heavy"
+    {
+        "es"        "Especiales"
+        "en"        "Specials"
+    }
+
+    // =============================
+    // ITEMS ESPECIALES
+    // =============================
+    "Item_AutoBhop"
+    {
+        "es"        "Auto Bunny Hop Permanente"
+        "en"        "Permanent Auto Bunny Hop"
+    }
+
+    "Item_SpeedBoost"
+    {
+        "es"        "Sprint Mejorado"
+        "en"        "Improved Sprint"
+    }
+
+    "Item_InfiniteAmmo"
+    {
+        "es"        "Munición Infinita"
+        "en"        "Infinite Ammo"
+    }
+
+    "Item_Regen"
+    {
+        "es"        "Regeneración"
+        "en"        "Regeneration"
+    }
+
+    "Item_DetectGlobal"
+    {
+        "es"        "Detector Global"
+        "en"        "Global Detector"
+    }
+
+    "Item_HealBarrel"
+    {
+        "es"        "Barril de Curación"
+        "en"        "Healing Barrel"
+    }
+
+    "Item_BrutalSpeed"
+    {
+        "es"        "Brutal Speed"
+        "en"        "Brutal Speed"
+    }
+
+    "Item_PetFly"
+    {
+        "es"        "Mascota Voladora"
+        "en"        "Flying Pet"
+    }
+
+    "Item_SuperSlow"
+    {
+        "es"        "Super Lentitud Global"
+        "en"        "Global Super Slow"
+    }
+
+    "Item_PartyMode"
+    {
+        "es"        "Modo Luffy"
+        "en"        "Luffy Mode"
+    }
+
+    "Item_ThunderShotgun"
+    {
+        "es"        "Autoshotgun de Rayos"
+        "en"        "Thunder Autoshotgun"
+    }
+
+    // =============================
+    // ARMAS
+    // =============================
+    "Item_Pistol"
+    {
+        "es"        "Pistola"
+        "en"        "Pistol"
+    }
+
+    "Item_Magnum"
+    {
+        "es"        "Magnum"
+        "en"        "Magnum"
+    }
+
+    "Item_UZI"
+    {
+        "es"        "UZI"
+        "en"        "UZI"
+    }
+
+    "Item_SMG_Silenced"
+    {
+        "es"        "SMG Silenciada"
+        "en"        "Silenced SMG"
+    }
+
+    "Item_MP5"
+    {
+        "es"        "MP5"
+        "en"        "MP5"
+    }
+
+    "Item_AK47"
+    {
+        "es"        "AK-47"
+        "en"        "AK-47"
+    }
+
+    "Item_M16"
+    {
+        "es"        "M16"
+        "en"        "M16"
+    }
+
+    "Item_SCAR"
+    {
+        "es"        "SCAR"
+        "en"        "SCAR"
+    }
+
+    "Item_SG552"
+    {
+        "es"        "SG-552"
+        "en"        "SG-552"
+    }
+
+    "Item_AWP"
+    {
+        "es"        "AWP"
+        "en"        "AWP"
+    }
+
+    "Item_Scout"
+    {
+        "es"        "Scout"
+        "en"        "Scout"
+    }
+
+    "Item_Military"
+    {
+        "es"        "Militar"
+        "en"        "Military"
+    }
+
+    "Item_Hunting"
+    {
+        "es"        "Rifle de Caza"
+        "en"        "Hunting Rifle"
+    }
+
+    "Item_PumpShotgun"
+    {
+        "es"        "Pump Shotgun"
+        "en"        "Pump Shotgun"
+    }
+
+    "Item_ChromeShotgun"
+    {
+        "es"        "Chrome Shotgun"
+        "en"        "Chrome Shotgun"
+    }
+
+    "Item_AutoShotgun"
+    {
+        "es"        "Auto Shotgun"
+        "en"        "Auto Shotgun"
+    }
+
+    "Item_SPAS12"
+    {
+        "es"        "SPAS-12"
+        "en"        "SPAS-12"
+    }
+
+    "Item_GrenadeLauncher"
+    {
+        "es"        "Lanzagranadas"
+        "en"        "Grenade Launcher"
+    }
+
+    "Item_M60"
+    {
+        "es"        "M60"
+        "en"        "M60"
+    }
+
+    // =============================
+    // MELEE
+    // =============================
+    "Item_Katana"
+    {
+        "es"        "Katana"
+        "en"        "Katana"
+    }
+
+    "Item_Machete"
+    {
+        "es"        "Machete"
+        "en"        "Machete"
+    }
+
+    "Item_Axe"
+    {
+        "es"        "Hacha de Bombero"
+        "en"        "Fire Axe"
+    }
+
+    "Item_Bat"
+    {
+        "es"        "Bate"
+        "en"        "Baseball Bat"
+    }
+
+    "Item_Cricket"
+    {
+        "es"        "Cricket Bat"
+        "en"        "Cricket Bat"
+    }
+
+    "Item_Crowbar"
+    {
+        "es"        "Palanca"
+        "en"        "Crowbar"
+    }
+
+    "Item_Guitar"
+    {
+        "es"        "Guitarra"
+        "en"        "Guitar"
+    }
+
+    "Item_FryingPan"
+    {
+        "es"        "Sartén"
+        "en"        "Frying Pan"
+    }
+
+    "Item_GolfClub"
+    {
+        "es"        "Palo de Golf"
+        "en"        "Golf Club"
+    }
+
+    "Item_Tonfa"
+    {
+        "es"        "Tonfa"
+        "en"        "Tonfa"
+    }
+
+    "Item_Knife"
+    {
+        "es"        "Cuchillo"
+        "en"        "Knife"
+    }
+
+    "Item_Pitchfork"
+    {
+        "es"        "Horqueta"
+        "en"        "Pitchfork"
+    }
+
+    "Item_Shovel"
+    {
+        "es"        "Pala"
+        "en"        "Shovel"
+    }
+
+    "Item_Chainsaw"
+    {
+        "es"        "Motosierra"
+        "en"        "Chainsaw"
+    }
+
+    // =============================
+    // CURAS Y LANZABLES
+    // =============================
+    "Item_Medkit"
+    {
+        "es"        "Botiquín"
+        "en"        "First Aid Kit"
+    }
+
+    "Item_Pills"
+    {
+        "es"        "Pastillas"
+        "en"        "Pain Pills"
+    }
+
+    "Item_Adrenaline"
+    {
+        "es"        "Adrenalina"
+        "en"        "Adrenaline"
+    }
+
+    "Item_Defib"
+    {
+        "es"        "Desfibrilador"
+        "en"        "Defibrillator"
+    }
+
+    "Item_FullHP"
+    {
+        "es"        "Curación Completa"
+        "en"        "Full Heal"
+    }
+
+    "Item_PipeBomb"
+    {
+        "es"        "Pipe Bomb"
+        "en"        "Pipe Bomb"
+    }
+
+    "Item_Molotov"
+    {
+        "es"        "Molotov"
+        "en"        "Molotov"
+    }
+
+    "Item_Vomitjar"
+    {
+        "es"        "Bilis Boomer"
+        "en"        "Bile Jar"
+    }
+
+    "Item_Gascan"
+    {
+        "es"        "Lata de Gasolina"
+        "en"        "Gas Can"
+    }
+
+    "Item_Propane"
+    {
+        "es"        "Tanque de Propano"
+        "en"        "Propane Tank"
+    }
+
+    "Item_Oxygen"
+    {
+        "es"        "Tanque de Oxígeno"
+        "en"        "Oxygen Tank"
+    }
+
+    "Item_Fireworks"
+    {
+        "es"        "Fuegos Artificiales"
+        "en"        "Fireworks Crate"
+    }
+
+    "Item_Gnome"
+    {
+        "es"        "Gnomo"
+        "en"        "Gnome"
+    }
+
+    "Item_Cola"
+    {
+        "es"        "Botellas de Cola"
+        "en"        "Cola Bottles"
+    }
+
+    // =============================
+    // COMPRAS
+    // =============================
+    "Confirm_Title"
+    {
+        "#format"   "{1:s},{2:i},{3:s}"
+        "es"        "● CONFIRMAR COMPRA ●\n\nItem: {1}\nPrecio: {2} {3}\n\n¿Deseas comprarlo?"
+        "en"        "● CONFIRM PURCHASE ●\n\nItem: {1}\nPrice: {2} {3}\n\nDo you want to buy it?"
+    }
+
+    "BuyCancelled"
+    {
+        "es"        "Compra cancelada"
+        "en"        "Purchase cancelled"
+    }
+
+    "NoMoneyHint"
+    {
+        "es"        "[X] No tienes suficiente dinero"
+        "en"        "[X] You don't have enough money"
+    }
+
+    "NoMoneyNeed"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "Saldo insuficiente. Necesitas {green}{1} {2}{default}."
+        "en"        "Insufficient balance. You need {green}{1} {2}{default}."
+    }
+
+    "BoughtItem"
+    {
+        "#format"   "{1:s},{2:i},{3:s}"
+        "es"        "Compraste: {olive}{1} {default}por {green}{2} {3}{default}."
+        "en"        "You bought: {olive}{1} {default}for {green}{2} {3}{default}."
+    }
+
+    "BoughtHint"
+    {
+        "#format"   "{1:s}"
+        "es"        "[✔] Compraste: {1}"
+        "en"        "[✔] Bought: {1}"
+    }
+
+    "ExternalPluginFail"
+    {
+        "#format"   "{1:s}"
+        "es"        "No se pudo activar {olive}{1}{default}. Revisa que su plugin este cargado."
+        "en"        "Could not activate {olive}{1}{default}. Check that its plugin is loaded."
+    }
+
+    "AutoBhopBoughtHint"
+    {
+        "es"        "[✔] Auto Bunny Hop Permanente comprado"
+        "en"        "[✔] Permanent Auto Bunny Hop bought"
+    }
+
+    "AutoBhopToggle"
+    {
+        "#format"   "{1:s}"
+        "es"        "Auto Bunny Hop: {1}"
+        "en"        "Auto Bunny Hop: {1}"
+    }
+
+    "SpeedBoostInfo"
+    {
+        "#format"   "{1:.2f},{2:.1f}"
+        "es"        "Velocidad: {green}x{1} {default}Tiempo: {olive}{2} segundos"
+        "en"        "Speed: {green}x{1} {default}Time: {olive}{2} seconds"
+    }
+
+    "InfiniteAmmoInfo"
+    {
+        "#format"   "{1:.1f}"
+        "es"        "Cargador infinito durante {olive}{1} segundos"
+        "en"        "Infinite magazine for {olive}{1} seconds"
+    }
+
+    "RegenInfo"
+    {
+        "#format"   "{1:i},{2:.1f},{3:.1f}"
+        "es"        "Cura {green}{1} HP {default}cada {green}{2} seg {default}durante {olive}{3} segundos"
+        "en"        "Heals {green}{1} HP {default}every {green}{2} sec {default}for {olive}{3} seconds"
+    }
+
+    "DetectorStartedText"
+    {
+        "#format"   "{1:.1f}"
+        "es"        "{default}activó glow global de infectados por {olive}{1} segundos"
+        "en"        "{default}activated global infected glow for {olive}{1} seconds"
+    }
+
+    // =============================
+    // SEGUNDA VIDA
+    // =============================
+    "SecondLifeRespawnSoon"
+    {
+        "es"        "Tu {green}Segunda Vida {default}se activara en {lightgreen}4 segundos{default}..."
+        "en"        "Your {green}Second Life {default}will activate in {lightgreen}4 seconds{default}..."
+    }
+
+    "SecondLifeActiveTitle"
+    {
+        "es"        "● SEGUNDA VIDA ACTIVA ●"
+        "en"        "● SECOND LIFE ACTIVE ●"
+    }
+
+    "SecondLifeBuyTitle"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "● COMPRAR SEGUNDA VIDA ●\nCosto: {1} {2}"
+        "en"        "● BUY SECOND LIFE ●\nCost: {1} {2}"
+    }
+
+    "BoughtSecondLife"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "Compraste: {olive}Segunda Vida{default} por {green}{1} {2}{default}."
+        "en"        "You bought: {olive}Second Life{default} for {green}{1} {2}{default}."
+    }
+
+    "SecondLifeBoughtHint"
+    {
+        "es"        "✦ SEGUNDA VIDA ADQUIRIDA ✦"
+        "en"        "✦ SECOND LIFE ACQUIRED ✦"
+    }
+
+    "NoMoneySecondLife"
+    {
+        "es"        "[X] No te alcanza para la Segunda Vida"
+        "en"        "[X] You can't afford Second Life"
+    }
+
+    "SecondLifeAlreadyActive"
+    {
+        "es"        "✦ Ya tienes una vida extra activa ✦"
+        "en"        "✦ You already have an extra life active ✦"
+    }
+
+    "SecondLifeActivated"
+    {
+        "es"        "Tu {green}Segunda Vida {default}fue activada."
+        "en"        "Your {green}Second Life {default}has been activated."
+    }
+
+    // =============================
+    // REVIVIR
+    // =============================
+    "ReviveTitle"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "● REVIVIR COMPAÑERO ●\nCosto: {1} {2}"
+        "en"        "● REVIVE TEAMMATE ●\nCost: {1} {2}"
+    }
+
+    "NoDeadSurvivors"
+    {
+        "es"        "No hay sobrevivientes muertos"
+        "en"        "There are no dead survivors"
+    }
+
+    "InvalidPlayer"
+    {
+        "es"        "[X] Jugador no valido"
+        "en"        "[X] Invalid player"
+    }
+
+    "AlreadyAlive"
+    {
+        "es"        "[X] Ese jugador ya esta vivo"
+        "en"        "[X] That player is already alive"
+    }
+
+    "NoMoneyRevive"
+    {
+        "#format"   "{1:N}"
+        "es"        "No tienes suficiente dinero para revivir a {lightgreen}{1}."
+        "en"        "You don't have enough money to revive {lightgreen}{1}."
+    }
+
+    "NoMoneyReviveHint"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "[X] Saldo insuficiente ({1} {2})"
+        "en"        "[X] Insufficient balance ({1} {2})"
+    }
+
+    "ReviveStartingText"
+    {
+        "#format"   "{1:N}"
+        "es"        "esta reviviendo a {olive}{1} {default}(2s)..."
+        "en"        "is reviving {olive}{1} {default}(2s)..."
+    }
+
+    "RevivingHint"
+    {
+        "#format"   "{1:N}"
+        "es"        "[✔] Reviviendo a: {1}"
+        "en"        "[✔] Reviving: {1}"
+    }
+
+    "RevivedDoneText"
+    {
+        "es"        "fue revivido."
+        "en"        "was revived."
+    }
+
+    // =============================
+    // ADMIN Y DINERO
+    // =============================
+    "GivePointsUsage"
+    {
+        "es"        "Uso: sm_darpuntos <jugador> <cantidad>"
+        "en"        "Usage: sm_darpuntos <player> <amount>"
+    }
+
+    "AdminGavePoints"
+    {
+        "#format"   "{1:N},{2:i},{3:N}"
+        "es"        "{1} otorgó {2} puntos a {3}."
+        "en"        "{1} gave {2} points to {3}."
+    }
+
+    "GivePointsTitle"
+    {
+        "es"        "Dar puntos"
+        "en"        "Give points"
+    }
+
+    "NoRealSurvivors"
+    {
+        "es"        "No hay jugadores reales supervivientes."
+        "en"        "There are no real survivor players."
+    }
+
+    "AmountTitle"
+    {
+        "es"        "Cantidad"
+        "en"        "Amount"
+    }
+
+    "MoneyPickupHint"
+    {
+        "#format"   "{1:i},{2:s}"
+        "es"        "• ●【 +{1} {2} 】● •"
+        "en"        "• ●【 +{1} {2} 】● •"
+    }
+
+    // =============================
+    // CONFIG TIENDAS
+    // =============================
+    "ShopLimitReached"
+    {
+        "#format"   "{1:i}"
+        "es"        "Limite de tiendas alcanzado: {olive}{1}{default}."
+        "en"        "Shop limit reached: {olive}{1}{default}."
+    }
+
+    "ShopConfigTitle"
+    {
+        "#format"   "{1:i},{2:i}"
+        "es"        "CONFIGURACION DE TIENDAS\nMaquinas: {1} / {2}"
+        "en"        "SHOP CONFIGURATION\nMachines: {1} / {2}"
+    }
+
+    "CreateNewHere"
+    {
+        "es"        "Crear Nueva Aqui"
+        "en"        "Create New Here"
+    }
+
+    "MoveSelected"
+    {
+        "es"        "Mover Seleccionada"
+        "en"        "Move Selected"
+    }
+
+    "MoveAimMachine"
+    {
+        "es"        "Mover (Mira a una maquina)"
+        "en"        "Move (Aim at a machine)"
+    }
+
+    "RotateSelected"
+    {
+        "es"        "Rotar Seleccionada"
+        "en"        "Rotate Selected"
+    }
+
+    "RotateAimMachine"
+    {
+        "es"        "Rotar (Mira a una maquina)"
+        "en"        "Rotate (Aim at a machine)"
+    }
+
+    "DeleteSelected"
+    {
+        "es"        "Eliminar Seleccionada"
+        "en"        "Delete Selected"
+    }
+
+    "DeleteAimMachine"
+    {
+        "es"        "Eliminar (Mira a una maquina)"
+        "en"        "Delete (Aim at a machine)"
+    }
+
+    "SaveAllMap"
+    {
+        "es"        "GUARDAR TODO EL MAPA"
+        "en"        "SAVE WHOLE MAP"
+    }
+
+    "MoveMachineTitle"
+    {
+        "es"        "MOVER MAQUINA"
+        "en"        "MOVE MACHINE"
+    }
+
+    "RotateMachineTitle"
+    {
+        "es"        "ROTAR MAQUINA"
+        "en"        "ROTATE MACHINE"
+    }
+
+    "MoveUpZ"
+    {
+        "es"        "Subir (Z)"
+        "en"        "Move Up (Z)"
+    }
+
+    "MoveDownZ"
+    {
+        "es"        "Bajar (Z)"
+        "en"        "Move Down (Z)"
+    }
+
+    "TurnRight"
+    {
+        "es"        "Girar Der."
+        "en"        "Turn Right"
+    }
+
+    "TurnLeft"
+    {
+        "es"        "Girar Izq."
+        "en"        "Turn Left"
+    }
+
+    "ShopsSaved"
+    {
+        "#format"   "{1:i}"
+        "es"        "Guardadas {olive}{1}{default} maquinas."
+        "en"        "Saved {olive}{1}{default} machines."
+    }
+
+    "ShopClosedTooFar"
+    {
+        "es"        "[Tienda cerrada] > Te has alejado demasiado."
+        "en"        "[Shop closed] > You moved too far away."
+    }
+
+}

@@ -1,0 +1,54 @@
+"Games"
+{
+	"left4dead"
+	{
+		"Signatures"
+		{
+			/*
+			*  CTerrorPlayer::OnRevived(void)
+			*
+			*  ->Search for string "revive_success", then open vtables window. Should be the 5th member.
+			*/
+			"CTerrorPlayer_OnRevived"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer9OnRevivedEv"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x57\x8B\x2A\x8B\x2A\x8B\x90\x2A\x2A\x2A\x2A\xFF\x2A\x84\x2A\x0F\x84\x2A\x2A\x2A\x2A\x8B\x2A\xE8"
+						/* ? ? ? ? ? ? 57 8B ? 8B ? 8B 90 ? ? ? ? FF ? 84 ? 0F 84 ? ? ? ? 8B ? E8 */
+			}
+		}
+	}
+	"left4dead2"
+	{
+		"Signatures"
+		{
+			/*
+			*	 CTerrorPlayer::OnAdrenalineUsed(float)
+			*	
+			*	 Float: Adrenaline Effect Duration
+			*
+			*  ->Search for string "%s used adrenaline\n", then 3 calls above. Thats the function. Param must be float.
+			*/
+			"CTerrorPlayer_OnAdrenalineUsed"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer16OnAdrenalineUsedEf"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x8B\x2A\x8D\x9E\x2A\x2A\x2A\x2A\x57\x8B\x2A\xE8"
+						/* ? ? ? ? ? ? 8B ? 8D 9E ? ? ? ? 57 8B ? E8 */
+			}
+
+			/*
+			*  CTerrorPlayer::OnRevived(void)
+			*
+			*  ->Search for string "revive_success", then open vtables window. Should be the 5th member.
+			*/
+			"CTerrorPlayer_OnRevived"
+			{
+				"library"	"server"
+				"linux"		"@_ZN13CTerrorPlayer9OnRevivedEv"
+				"windows"	"\x2A\x2A\x2A\x2A\x2A\x2A\x53\x56\x8B\x2A\x8B\x2A\x8B\x90\x2A\x2A\x2A\x2A\x57\xFF\x2A\x84\x2A\x0F\x84\x2A\x2A\x2A\x2A\x8B\x2A\xE8"
+						/* ? ? ? ? ? ? 53 56 8B ? 8B ? 8B 90 ? ? ? ? 57 FF ? 84 ? 0F 84 ? ? ? ? 8B ? E8 */
+			}
+		}
+	}
+}

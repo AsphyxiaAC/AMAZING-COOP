@@ -1,0 +1,68 @@
+"Phrases"
+{
+    "fail_distance"
+    {
+        "en"    "Failed: %.0f / required %.0f units."
+        "es"    "Falló: distancia %.0f / requerida %.0f unidades."
+    }
+
+    "max_attempts"
+    {
+        "en"    "You have reached the maximum of %d brutal pounces."
+        "es"    "Has alcanzado el máximo de %d brutal pounces."
+    }
+
+    "cooldown_active"
+    {
+        "en"    "Still cooling down: %d s."
+        "es"    "Aún en cooldown: %d s."
+    }
+
+    "brutal_hit"
+    {
+        "en"    "%N was brutally pounced by %N from %.0f units!"
+        "es"    "%N fue BRUTALMENTE impactado por %N desde %.0f u."
+    }
+
+    "progress"
+    {
+        "en"    "Progress: %d / %d brutal pounces."
+        "es"    "Progreso: %d / %d pounces brutales."
+    }
+
+    "points_gained"
+    {
+        "en"    "+%d points gained."
+        "es"    "+%d puntos obtenidos."
+    }
+
+    "next_pounce"
+    {
+        "en"    "Next brutal pounce in %d s\nUse !hunthud to hide"
+        "es"    "Siguiente brutal pounce en %d s\nUsa !hunthud para ocultar"
+    }
+
+    "cooldown_ready"
+    {
+        "en"    "READY!"
+        "es"    "¡Listo para otro salto fatal!"
+    }
+
+    "reset_all"
+    {
+        "en"    "All players' cooldowns and counters reset."
+        "es"    "Todos los cooldowns y contadores fueron reiniciados."
+    }
+
+    "reset_one"
+    {
+        "en"    "%N's cooldown and counter reset."
+        "es"    "Cooldown y contador de %N reiniciados."
+    }
+
+    "invalid_target"
+    {
+        "en"    "Invalid target."
+        "es"    "Objetivo inválido."
+    }
+}

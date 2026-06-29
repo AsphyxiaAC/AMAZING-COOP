@@ -1,0 +1,143 @@
+"Phrases"
+{
+	"HOMING_MISILE"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Acquired {green}Homing Missile."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Adquirio {green}Homing Missile."
+	}
+	"AIR_STRIKE"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Acquired {green}Air Strike."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Adquirio {green}Air Strike."
+	}
+	"TELEPORT"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired{blue} %s Teleport."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Adquiriste{blue} %s Teleport."
+	}
+	"HEALT"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired {blue}Health."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Adquiriste {blue}Health."
+	}
+	"CLOCK"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired {blue}Clock."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Adquiriste {blue}Clock."
+	}
+	"SPEED"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired {blue}Speed."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Aquiriste {blue}Speed."
+	}
+	"STRENGTH"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired {blue}Strength."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Aquiriste {blue}Strength."
+	}
+	"SHIELD"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {default}You Acquired {blue}Shield."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {default}Aquiriste {blue}Shield."
+	}
+	"WITCH_BOX"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Opened {green}Witch Box."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Abrio Una {green}Witch Box."
+	}
+	"TANK_BOX"
+	{
+		"en"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Opened {green}Tank Box."
+		"es"			"{green}|{olive}GIFT{green}|{olive}: {blue}%N {default}Abrio Un {green}Tank Box."
+	}
+	"AIR_HINT"
+	{
+		"en"			"• Press RELOAD + FIRE •\Stop The Air Strike"
+		"es"			"• Presiona RELOAD + FIRE •\nPara El Air Strike"
+	}
+	"AIR_LAUNCH"
+	{
+		"en"			"• %N Cast •\nAir Strike"
+		"es"			"• %N Lanzo •\nAir Strike"
+	}
+	"HEAL_RECOVER"
+	{
+		"en"			"✚ You Are Healthy To Receive Health ✚"
+		"es"			"✚ Estas Sano Para Recibir Salud ✚"
+	}
+	"DRUGS"
+	{
+		"en"			"⚠ You Are Still On The Drug ⚠"
+		"es"			"⚠ Aun Estas Con La Droga ⚠"
+	}
+	"HOMING_MISILE_AMMO"
+	{
+		"en"			"• Use Ammo Boxes To Activate •"
+		"es"			"• Usa Cajas De Municion Para Activar •"
+	}
+	"AIR_LAUNCH_BUTTON"
+	{
+		"en"			"• Press RELOAD + FIRE To Launch •\nAir Strike"
+		"es"			"• Presiona RELOAD + FIRE Para Lanzar •\nAir Strike"
+	}
+	"CLOCK_TIME"
+	{
+		"en"			"• Clock Ends In •\n%d Seconds"
+		"es"			"• Clock Termina En •\n%d Segundos"
+	}
+	"CLOCK_FINISH"
+	{
+		"en"			"• Clock Just Finished •"
+		"es"			"• Clock Acaba De Terminar •"
+	}
+	"SPEED_TIME"
+	{
+		"en"			"• Speed Ends In •\n%d Seconds"
+		"es"			"• Speed Termina En •\n%d Segundos"
+	}
+	"SPEED_FINISH"
+	{
+		"en"			"• Speed Just Finished •"
+		"es"			"• Speed Acaba De Terminar •"
+	}
+	"STRENGTH_BUTTON_LAUNCH"
+	{
+		"en"			"• Strength Press MOVE + SPACE To Boost •"
+		"es"			"• Strength Presione MOVE + SPACE Para Impulsarse •"
+	}
+	"STRENGTH_TIME"
+	{
+		"en"			"• Strength Ends In •\n%d Seconds"
+		"es"			"• Strength Termina En •\n%d Segundos"
+	}
+	"STRENGTH_FINISH"
+	{
+		"en"			"• Strength Just Finished •"
+		"es"			"• Strength Acaba De Terminar •"
+	}
+	"SHIELD_TIME"
+	{
+		"en"			"• Shield Ends In •\n%d Seconds"
+		"es"			"• Shield Termina En •\n%d Segundos"
+	}
+	"SHIELD_FINISH"
+	{
+		"en"			"• Shield Just Finished •"
+		"es"			"• Shield Acaba De Terminar •"
+	}
+	"UNFREEZED_TIME"
+	{
+		"en"			"• You Will Defrost In •\n%d Seconds"
+		"es"			"• Te Descongelaras En •\n%d Segundos"
+	}
+	"UNFREEZED_TIME2"
+	{
+		"en"			"• You Will Defrost In •\n%d Seconds"
+		"es"			"• Te Descongelaras En •\n%d Segundos"
+	}
+	"UNFREEZED_FINISH"
+	{
+		"en"			"• You Are Thawed •"
+		"es"			"• Estas Descongelado •"
+	}
+}

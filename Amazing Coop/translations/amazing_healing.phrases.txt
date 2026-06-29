@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"HEALING"
+	{
+		"en"			"{olive}|{green}HEALING{olive}| {default}Approach The {red}Gnome And Recover Your {olive}Health {green}:D"
+		"es"			"{olive}|{green}HEALING{olive}| {default}Acercate Al {red}Gnome Y Regenera Tu {olive}Salud {green}:D"
+	}
+}

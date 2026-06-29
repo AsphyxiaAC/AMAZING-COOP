@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"AK_CountdownStart"
+	{
+		"en"	"{olive}[AutoKill]{default} You have {green}%d{default} seconds to act before being auto-killed."
+		"es"	"{olive}[AutoKill]{default} Tienes {green}%d{default} segundos para actuar antes de ser eliminado automáticamente."
+	}
+
+	"AK_CountdownTick"
+	{
+		"en"	"{olive}[AutoKill]{default} AutoKill in {lightgreen}%d{default}..."
+		"es"	"{olive}[AutoKill]{default} AutoKill en {lightgreen}%d{default}..."
+	}
+
+	"AK_ExecutedAll"
+	{
+		"en"	"{red}[AutoKill]{default} {olive}%s{default} was auto-killed for inactivity as infected."
+		"es"	"{red}[AutoKill]{default} {olive}%s{default} fue eliminado por inactividad como infectado."
+	}
+}

@@ -1,0 +1,64 @@
+"Phrases"
+{
+	"FREE_TITLE"
+	{
+		"en"			"|AMAZING-COOP|\nHello %N These Are The Complete Commands"
+		"es"			"|AMAZING-COOP|\nHola %N Estos Son Los Comandos Totalmente"
+	}
+	"FREE"
+	{
+		"en"			"Free :D"
+		"es"			"Gratis :D"
+	}
+	"FREE_1"
+	{
+		"en"			"!csm -> Change Character Menu"
+		"es"			"!csm -> Menu Para Cambiar De Personaje"
+	}
+	"FREE_2"
+	{
+		"en"			"!skin -> Rag Model Change"
+		"es"			"!skin -> Cambio De Modelo De Trapo"
+	}
+	"FREE_3"
+	{
+		"en"			"!glow -> Show Glow and Aura On Your Survivor"
+		"es"			"!glow -> Muestra Brillo y Aura En Tu Superviviente"
+	}
+
+	"FREE_4"
+	{
+		"en"			"!dance -> Dance With Your Friends"
+		"es"			"!dance -> Ponte A Bailar Con Tus Amigos"
+	}
+	"FREE_5"
+	{
+		"en"			"!hat -> Menu For Hats"
+		"es"			"!hat -> Menu Para Sombreros"
+	}
+	"FREE_6"
+	{
+		"en"			"!trails -> Shows A Line At The Survivors Feet"
+		"es"			"!trails -> Muestra Una Linea En Los Pies Del Superviviente"
+	}
+	"FREE_7"
+	{
+		"en"			"!buy -> Shop Menu"
+		"es"			"!buy -> Menu De Tienda"
+	}
+	"FREE_RULES"
+	{
+		"en"			"These Are The Rules %N"
+		"es"			"Estas Son Las Reglas %N"
+	}
+	"RULES_1"
+	{
+		"en"			"All Toxic Behavior Will Be Sanctioned"
+		"es"			"Todo Comportamiento Toxico Sera Sancionado"
+	}
+	"CLOSE"
+	{
+		"en"			"Close"
+		"es"			"Cerrar"
+	}
+}

@@ -1,0 +1,721 @@
+"Phrases"
+{
+
+	"SYSTEM"
+	{
+		"en"		"{ORANGE}[AMAZING-COOP] "
+	}
+
+	"ADVERTISEMENT"
+	{
+		"en"		""
+	}
+
+
+	"NOT_ENOUGH_POINTS"
+	{
+		"#format"  "{1:d},{2:d}"
+		"en"		"You don't have enough points. ({GREEN}Cost: {ORANGE}{1}{DEFAULT}, {GREEN}Yours: {ORANGE}{2}{DEFAULT})"
+		"es"		"No tienes suficientes puntos. ({GREEN}Costo: {ORANGE}{1}{DEFAULT}, {GREEN}Tuyo: {ORANGE}{2}{DEFAULT})"
+	}
+
+	"FAILED_TO_BUY"
+	{
+		"#format"  "{1:s}"
+		"en"		"{GREEN}Could not be purchased {ORANGE}{1}!{DEFAULT}"
+		"es"		"{GREEN}No se pudo comprar {ORANGE}{1}!{DEFAULT}"
+	}
+
+	"REWARD_POINTS"
+	{
+		"#format"  "{1:d}"
+		"en"		"{GREEN}+{1}{BLUE} points. "
+		"es"		"{GREEN}+{1}{BLUE} puntos. "
+	}
+
+	"KILLED_INFECTED"
+	{
+		"#format"  "{1:d}"
+		"en"		"Dead {ORANGE}{1}{DEFAULT} infected! "
+		"es"		"Muerto {ORANGE}{1}{DEFAULT} infectado! "
+	}
+
+	"KILLED_SPECIAL_INFECTED"
+	{
+		"en"		"{DEFAULT}Dead special infected "
+		"es"		"{DEFAULT}Infectado especial muerto "
+	}
+
+	"REVIVED_TEAMMATE"
+	{
+		"en"		"{DEFAULT} You revived a teammate. "
+		"es"		"{DEFAULT} Reviviviste un compañero de equipo. "
+	}
+
+	"REVIVED_TEAMMATE_LEDGE"
+	{
+		"en"		"{DEFAULT} Revive a hung teammate. "
+		"es"		"{DEFAULT} Reviviste un compañero de equipo colgado. "
+	}
+
+	"PROTECTED_TEAMMATE"
+	{
+		"en"		"{DEFAULT} Protected a teammate. "
+		"es"		"{DEFAULT} Protegiste a un compañero de equipo. "
+	}
+
+	"HEALED_TEAMMATE"
+	{
+		"en"		"{DEFAULT} Healed a teammate. "
+		"es"		"{DEFAULT} Curó a un compañero de equipo. "
+	}
+
+	"BURNED_TANK"
+	{
+		"en"		" {DEFAULT}Burnt tank! "
+		"es"		" {DEFAULT}Tank quemado! "
+	}
+
+	"KILLED_WITCH"
+	{
+		"en"		"{DEFAULT}You have killed {ORANGE}Witch!{DEFAULT} "
+		"es"		"{DEFAULT}Has matado a {ORANGE}Witch!{DEFAULT} "
+	}
+
+	"KILLED_WITCH_ONE_SHOT"
+	{
+		"en"		"You have killed {ORANGE}Witch{DEFAULT} one shot.! "
+		"es"		"Has matado a {ORANGE}Witch{DEFAULT} de un solo disparo.! "
+	}
+
+	"KILLED_TANK"
+	{
+		"en"		"{DEFAULT}Tank Was {ORANGE}Killed!{DEFAULT} "
+		"es"		"{DEFAULT}Tank Fue {ORANGE}Asesinado!{DEFAULT} "
+	}
+
+	"MENU_POINTS"
+	{
+		"#format"  "{1:d}"
+		"en"		"Points balance: {1}"
+		"es"		"Saldo de puntos: {1}"
+	}
+
+	"SHOP_INFECTED"
+	{
+		"en"		"Infected shop"
+		"es"		"Tienda de infectados"
+	}
+
+	"SHOP_SMGS"
+	{
+		"en"		"Shop SMG"
+		"es"		"Tienda SMG"
+	}
+
+	"SHOP_RIFLES"
+	{
+		"en"		"Rifle Shop"
+		"es"		"Tienda de rifles"
+	}
+
+	"SHOP_SNIPERS"
+	{
+		"en"		"Sniper Shop"
+		"es"		"Tienda de francotiradores"
+	}
+
+	"SHOP_SHOTGUNS"
+	{
+		"en"		"Shotgun Shop"
+		"es"		"Tienda de escopetas"
+	}
+
+	"SHOP_OTHERS"
+	{
+		"en"		"Other weapons shop"
+		"es"		"Tienda de otras armas"
+	}
+
+	"SHOP_SF_TRIAL"
+	{
+		"en"		"Test Store"
+		"es"		"Tienda de prueba"
+	}
+
+	"SHOP_SF_PERMANENT"
+	{
+		"en"		"Permanent Shop"
+		"es"		"Tienda permanente"
+	}
+
+	"AUTO_BHOP"
+	{
+		"en"		"Auto Jump"
+		"es"		"Salto automático"
+	}
+
+	"GRAY_AMMO"
+	{
+		"en"		"Gray Ammo"
+		"es"		"Munición gris"
+	}
+
+	"GREEN_AMMO"
+	{
+		"en"		"Green Ammo"
+		"es"		"Munición verde"
+	}
+
+	"BLUE_AMMO"
+	{
+		"en"		"Blue Ammo"
+		"es"		"Munición azul"
+	}
+
+	"GOLD_AMMO"
+	{
+		"en"		"Gold Ammo"
+		"es"		"Munición de oro"
+	}
+
+	"RED_AMMO"
+	{
+		"en"		"Red Ammo"
+		"es"		"Munición roja"
+	}
+
+	"PERMANENT"
+	{
+		"en"		"(Permanent)"
+		"es"		"(Permanente)"
+	}
+
+	"ONE_ROUND"
+	{
+		"en"		"(One round)"
+		"es"		"(Una Ronda)"
+	}
+
+	"REFUNDED"
+	{
+		"#format"  "{1:d}"
+		"en"		"Points {GREEN}{1}{DEFAULT} recovered."
+		"es"		"Puntos {GREEN}{1}{DEFAULT} recuperados."
+	}
+
+	"IS_IN_YOUR_BAG"
+	{
+		"#format"  "{1:s}"
+		"en"		"You already have it {ORANGE}{1}{DEFAULT}."
+		"es"		"Tu ya lo tienes {ORANGE}{1}{DEFAULT}."
+	}
+
+	"MENU_BUY_CONFIRM"
+	{
+		"#format"  "{1:s},{2:d},{3:d},{4:d}"
+		"en"		"Product: {1}\nCosto: {2}\n(Your points: {3})\n"
+		"es"		"Producto: {1}\nCosto: {2}\n(Tus puntos: {3})\n"
+	}
+
+	"SUCCEED_TO_BUY"
+	{
+		"#format"  "{1:s},{2:d},{3:d}"
+		"en"		"Purchase{ORANGE}{1}{GREEN}correctly. Cos{ORANGE}{1}{DEFAULT}points, balance:{GREEN}}{2}{DEFAULT}."
+		"es"		"Compra{ORANGE}{1}{GREEN}correctamente. Costo{ORANGE}{1}{DEFAULT}puntos, saldo:{GREEN}}{2}{DEFAULT}."
+	}
+
+	"SUCCEED_TO_LOAD"
+	{
+		"#format"  "{1:s},{2:d}"
+		"en"		"{GREEN} ID: {DEFAULT}{1}%, Points: {GREEN}{2}{DEFAULT}."
+		"es"		"{GREEN} ID: {DEFAULT}{1}%, Puntos: {GREEN}{2}{DEFAULT}."
+	}
+
+	"ENABLED"
+	{
+		"en"	   "Enabled"
+		"es"	   "Activado"
+	}
+
+	"DISABLED"
+	{
+		"en"	   "Disabled"
+		"es"	   "Desactivado"
+	}
+
+	"ADMIN_ADD_POINT"
+	{
+		"#format"  "{1:d}"
+		"en" 		"{ORANGE}Admin{DEFAULT} tedium: {GREEN}{1}{DEFAULT} points."
+		"es" 		"{ORANGE}Admin{DEFAULT} te dio: {GREEN}{1}{DEFAULT} puntos."
+	}
+
+	"ADMIN_CONFISCATE_POINT"
+	{
+		"#format"  "{1:d}"
+		"en" 		"You {ORANGE}{1}{DEFAULT} points were confiscated by {ORANGE}Admin{DEFAULT}."
+		"es" 		"Tu {ORANGE}{1}{DEFAULT} puntos fueron confiscados por {ORANGE}Admin{DEFAULT}."
+	}
+	"ADMIN_SET_POINT"
+	{
+		"#format"  "{1:d}"
+		"en" 		"{ORANGE}Admin{DEFAULT} set your points for {ORANGE}{1}{DEFAULT}"
+		"es" 		"{ORANGE}Admin{DEFAULT} establezca sus puntos para {ORANGE}{1}{DEFAULT}"
+	}
+
+	"MENU_TITLE_ADD_LIST"
+	{
+		"#format"  "{1:d}"
+		"en" 		"+{1} {BLUE}points"
+		"es" 		"+{1} {BLUE}puntos"
+	}
+
+	"MENU_TITLE_CONFISCATE_LIST"
+	{
+		"#format"  "{1:d}"
+		"en" 		"Confiscate: {1} Puntos"
+		"es" 		"Confiscar: {1} Puntos"
+	}
+
+	"MENU_TITLE_SET_LIST"
+	{
+		"#format"  "{1:d}"
+		"en" 		"Place: {1} Points"
+		"es" 		"Colocar: {1} Puntos"
+	}
+
+	"MENU_TITLE_POINTS_LIST"
+	{
+		"en" 		"Pick Points: "
+		"es" 		"Elija puntos: "
+	}
+
+	"MENU_ADD_POINTS"
+	{
+		"en" 		"Reward points"
+		"es" 		"Puntos de recompensa"
+	}
+
+	"MENU_REDUCE_POINTS"
+	{
+		"en" 		"Confiscate Points"
+		"es" 		"Confiscar puntos"
+	}
+
+	"MENU_SET_POINTS"
+	{
+		"en" 		"Set points"
+		"es" 		"Puntos de ajuste"
+	}
+
+	"MENU_ADMIN_OPTION"
+	{
+		"en" 		"Store commands"
+		"es" 		"Comandos de tienda"
+	}
+
+	"INVOICE"
+	{
+		"en"		"{GREEN}INVOICE "
+		"es"		"{GREEN}FACTURA "
+	}
+
+	"INVOICE_BUY_ITEM"
+	{
+		"en"		"{GREEN}+ {BLUE}Product: "
+		"es"		"{GREEN}+ {BLUE}Producto: "
+	}
+
+	"INVOICE_PRICE"
+	{
+		"#format"  "{1:d}"
+		"en"		"{BLUE}Cost: {GREEN}{1}{DEFAULT}"
+		"es"		"{BLUE}Costo: {GREEN}{1}{DEFAULT}"
+	}
+	"INVOICE_BUYER_INFO"
+	{
+		"#format"  "{1:N},{2:d}"
+		"en"		"Client: {BLUE}{1}{DEFAULT}, you have left: {GREEN}{2} points{DEFAULT}"
+		"es"		"Cliente: {BLUE}{1}{DEFAULT}, Te quedan: {GREEN}{2} puntos{DEFAULT}"
+	}
+	"INVOICE_THANKS"
+	{
+		"en"		"{GREEN}Many thanks! Good luck!"
+		"es"		"{GREEN}Muchísimas gracias! Buena suerte!"
+	}
+	"INVOICE_END"
+	{
+		"en"		"{GREEN}========================================="
+		"es"		"{GREEN}========================================="
+	}
+	"ammo"
+	{
+		"en"		"Ammo reload"
+		"es"		"Recarga de munición"
+	}
+	"health"
+	{
+		"en"		"Complete health"
+		"es"		"Salud completa"
+	}
+	
+
+	"kill"
+	{
+		"en"		"Suicide"
+		"es"		"Suicidio"
+	}
+	"boomer"
+	{
+		"en"		"Boomer"
+		"es"		"Boomer"
+	}
+	"hunter"
+	{
+		"en"		"Hunter"
+		"es"		"Hunter"
+	}
+	"smoker"
+	{
+		"en"		"Smoker"
+		"es"		"Smoker"
+	}
+	"spitter"
+	{
+		"en"		"Spitter"
+		"es"		"Spitter"
+	}
+	"charger"
+	{
+		"en"		"Charger"
+		"es"		"Charger"
+	}
+	"jockey"
+	{
+		"en"		"Jockey"
+		"es"		"Jockey"
+	}
+	"tank"
+	{
+		"en"		"Tank"
+		"es"		"Tank"
+	}
+	"witch"
+	{
+		"en"		"Witch"
+		"es"		"Witch"
+	}
+	"mob"
+	{
+		"en"		"MOB"
+		"es"		"MOB"
+	}
+	"director_force_panic_event"
+	{
+		"en"		"Panic Event"
+		"es"		"Evento de pánico"
+	}
+
+
+	"SHOP_GUNS"
+	{
+		"en"		"Gun Shop"
+		"es"		"Tienda de armas"
+	}
+
+	"SHOP_MELEES"
+	{
+		"en"		"Melee Weapons Shop"
+		"es"		"Tienda armas cuerpo a cuerpo"
+	}
+
+	"SHOP_THROWABLES"
+	{
+		"en"		"Pomegranate Shop"
+		"es"		"Tienda de granadas"
+	}
+
+	"SHOP_AMMOS"
+	{
+		"en"		"Ammo Store"
+		"es"		"Tienda de munición"
+	}
+
+	"SHOP_MEDICINES"
+	{
+		"en"		"Drug Store"
+		"es"		"Tienda de medicamentos"
+	}
+
+	"SHOP_SF"
+	{
+		"en"		"Special Shop"
+		"es"		"Tienda especial"
+	}
+
+	"SHOP_SF_BAG"
+	{
+		"en"		"Special Bag"
+		"es"		"Bolsa especial"
+	}
+
+	"BUY_YES"
+	{
+		"en"		"Yes!"
+		"es"		"Si!"
+	}
+
+	"BUY_NO"
+	{
+		"en"		"No..."
+		"es"		"No..."
+	}
+
+
+	"DEFIBRILLATE_TEAMMATE"
+	{
+		"en"		"Defibrillator used. "
+		"es"		"Desfibrilador utilizado. "
+	}
+
+	"RESCUED"
+	{
+		"en"		"Rescued someone. "
+		"es"		"Rescatado a alguien. "
+	}
+
+	"CURRENT_POINTS"
+	{
+		"en"		"Current points: "
+		"es"		"Puntos actuales: "
+	}
+
+	"WELCOME"
+	{
+		"en"		"★Welcome to the store ★\n [AMAZING-COOP]"
+		"es"		"★Bienvenido a la tienda ★\n [AMAZING-COOP]"
+	}
+
+	"ONLY_USED_BY"
+	{
+		"en"		"Only the{ORANGE}survivor team{DEFAULT}or the{ORANGE}infected computer{DEFAULT}are welcome."
+		"es"		"Solo el{ORANGE}equipo de supervivientes{DEFAULT}o el{ORANGE}equipo infectado{DEFAULT}son bienvenidos."
+	}
+
+	"ALL_AMMO_COLORS"
+	{
+		"en"		"All ammo colors"
+		"es"		"Todos los colores de munición"
+	}
+
+	"MENU_SUICIDE"
+	{
+		"en"		"Want to die?"
+		"es"		"Quieres morir?"
+	}
+
+	"SUICIDE"
+	{
+		"#format"	"{1:N}"
+		"en"		"{GREEN}☠ {BLUE}{1}{ORANGE} Commited {GREEN}Suicide."
+		"es"		"{GREEN}☠ {BLUE}{1}{DEFAULT} No Soporto Estar Sin {ORANGE}Ella Y Se {GREEN}Suicido."
+	}
+
+	"SUICIDE_YES"
+	{
+		"en"		"Yes!"
+		"es"		"Si!"
+	}
+	"SUICIDE_NO"
+	{
+		"en"		"No..."
+		"es"		"No..."
+	}
+
+	"NOT_ALLOW_SUICIDE"
+	{
+		"en"		"{ORANGE}Suicide{DEFAULT} is disabled."
+		"es"		"{ORANGE}Suicidio{DEFAULT} Está deshabilitado."
+	}
+
+	"NO_PRIMARY_WEAPON"
+	{
+		"en"		"You don't have a primary weapon... "
+		"es"		"No tienes un arma principal... "
+	}
+	"YOU_ARE_DEAD"
+	{
+		"en"		"Your state seems too bad..."
+		"es"		"Tu estado parece demasiado malo..."
+	}
+	"NO_PERMANENT_ITEM"
+	{
+		"en"		"To use {ORANGE}Special bag{DEFAULT}, you have to buy at least one {ORANGE}permanent item{GREEN} of {ORANGE}special shop{DEFAULT}."
+		"es"		"Para usar {ORANGE}Bolsa especial{DEFAULT}, tienes que comprar al menos uno {ORANGE}artículo permanente{GREEN} de {ORANGE}Tienda especial{DEFAULT}."
+	}
+
+	"NOTIFY_ALL"
+	{
+		"#format"	"{1:N},{2:s},{3:d}"
+		"en"		"{GREEN}+ {BLUE}{1}{DEFAULT} Bought {ORANGE}{2}{GREEN} (Cost: {ORANGE}{3}{GREEN})."
+		"es"		"{GREEN}+ {BLUE}{1}{DEFAULT} Compro {ORANGE}{2}{GREEN} (Costo: {ORANGE}{3}{GREEN})."
+	}
+
+	"SHOP_TRANSFER"
+	{
+		"en"		"Point transfer"
+		"es"		"Transferencia de puntos"
+	}
+
+	"FAILED_TO_TRANSFER"
+	{
+		"#format"	"{1:N},{2:d},{3:d},{4:d}"
+		"en"		"Failed! The points balance is not enough to transfer. (To transfer: {ORANGE}{2}{DEFAULT}+{ORANGE}{3}{DEFAULT}, Balance: {GREEN}{4}{DEFAULT})."
+		"es"		"¡Fallido! El saldo de puntos no es suficiente para transferir. (Transferir: {ORANGE}{2}{DEFAULT}+{ORANGE}{3}{DEFAULT}, Equilibrio: {GREEN}{4}{DEFAULT})."
+	}
+
+	"TRANSFERRED_ALL"
+	{
+		"#format"	"{1:N},{2:d},{3:N},{4:d}"
+		"en"		"{BLUE}{1}{DEFAULT} transferred {GREEN}{2}{DEFAULT} points to {BLUE}{3}{DEFAULT}. (Processing fee: {ORANGE}{4}{DEFAULT})"
+		"es"		"{BLUE}{1}{DEFAULT} transferido {GREEN}{2}{DEFAULT} puntos a {BLUE}{3}{DEFAULT}. (Tasa de tramitación: {ORANGE}{4}{DEFAULT})"
+	}
+
+	"TRANSFERRED_TO"
+	{
+		"#format"	"{1:N},{2:d},{3:d}"
+		"en"		"{BLUE}You{DEFAULT} to transferred {GREEN}{2}{DEFAULT} points to {BLUE}{1}{DEFAULT}. (Handling fee charged: {ORANGE}{3}{DEFAULT})"
+		"es"		"{BLUE}Usted{DEFAULT} a transferido {GREEN}{2}{DEFAULT} puntos a {BLUE}{1}{DEFAULT}. (Tarifa de manipulación cobrada: {ORANGE}{3}{DEFAULT})"
+	}
+
+	"TRANSFERRED"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{BLUE}{1}{DEFAULT} transferred {GREEN}{2}{DEFAULT} points to {BLUE}you{DEFAULT}."
+		"es"		"{BLUE}{1}{DEFAULT} transferido {GREEN}{2}{DEFAULT} puntos a {BLUE}usted{DEFAULT}."
+	}
+
+	"USER_MISMATCH"
+	{
+		"en"		"User discrepancy ... Try again."
+		"es"		"Discrepancia de usuario ... Vuelva a intentarlo."
+	}
+
+	"YES"
+	{
+		"en"		"Si"
+		"es"		"Yes"
+	}
+
+	"NO"
+	{
+		"en"		"No"
+		"es"		"No"
+	}
+
+	"MENU_TITLE_TRANSFER_POINT"
+	{
+		"#format"	"{1:d}"
+		"en"		"To transfer {1} points to:"
+		"es"		"Transferir {1} puntos a:"
+	}
+
+	"HANDLING_FEE"
+	{
+		"en"		"Processing fee: "
+		"es"		"Tasa de tramitación: "
+	}
+
+	"AFTER_TRANSFERRED_BALANCE"
+	{
+		"en"		"Balance after transfer: "
+		"es"		"Saldo después de transferir: "
+	}
+
+	"KILLED_SURVIVOR"
+	{
+		 "en"		"Killer {ORANGE}a survivor{DEFAULT}! "
+		 "es"		"Asesino {ORANGE}Un Superviviente{DEFAULT}! "
+	}
+
+	"INCAPACITATE_SURVIVOR"
+	{
+		 "en"		"I incapacitate a survivor."
+		 "es"		"Incapacito a un sobreviviente."
+	}
+
+	"PULLED_SURVIVOR"
+	{
+		 "en"		"Shot of a survivor."
+		 "es"		"Tiró de un sobreviviente."
+	}
+
+	"POUNCED_SURVIVOR"
+	{
+		 "en"		"Attacked a survivor."
+		 "es"		"Atacó a un sobreviviente."
+	}
+
+	"TAGGED_SURVIVOR"
+	{
+		 "en"		"Tagged a survivor."
+		 "es"		"Etiquetado un sobreviviente."
+	}
+
+	"CHARGED_SURVIVOR"
+	{
+		 "en"		"He carried a survivor."
+		 "es"		"Cargó a un sobreviviente."
+	}
+
+	"COLLATERAL_DAMAGE"
+	{
+		 "en"		"Collateral damage!!!"
+		 "es"		"Daños colaterales!!!"
+	}
+
+	"RODE_SURVIVOR"
+	{
+		 "en"		"Rode a survivor!!!"
+		 "es"		"Montó un superviviente!!!"
+	}
+
+	"BATH_DAMAGE"
+	{
+		 "en"		"Bathroom damage!"
+		 "es"		"Daño del baño!"
+	}
+
+	"MULTIPLE_DAMAGE"
+	{
+		 "en"		"Multiple damage!"
+		 "es"		"Daño múltiple!"
+	}
+
+	"INVALID_ITEM"
+	{
+		"#format"	"{1:s}"
+		"en"		"{ORANGE}{1}{DEFAULT} is an invalid article."
+		"es"		"{ORANGE}{1}{DEFAULT} es un artículo inválido."
+	}
+
+	"YOU_ARE_ALIVE"
+	{
+		"en"		"To respawn, you must first die."
+		"es"		"Para reaparecer, primero debes morir."
+	}
+
+	"HELP"
+	{
+		"en"		"Points can be earned by performing teamwork. Type !buy to spend them and !points to find out how many you have."
+		"es"		"Los puntos se pueden ganar realizando trabajo en equipo. Escribe !buy para gastarlos y !points para saber cuántos tienes."
+	}
+
+	"UP_TO_LIMIT"
+	{
+		"#format"	"{1:s}"
+		"en"		"Failed. The amount of {ORANGE}{1}{DEFAULT} reached the upper limit."
+		"es"		"Fallido. La cantidad de {ORANGE}{1}{DEFAULT} alcanzó el límite superior."
+	}
+}

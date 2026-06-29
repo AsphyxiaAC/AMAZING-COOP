@@ -1,0 +1,15 @@
+"pouncedata"
+{
+	"data"
+	{
+		"bot"
+		{
+			"pounces"		"25"
+			"name"		"(2)Hunter"
+		}
+	}
+	"info"
+	{
+		"count"		"1"
+	}
+}

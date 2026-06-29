@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"CONNECTION_REJECTED"
+	{
+		"en"			"Connection Refused"
+		"es"			"Conexion Rechazada"
+	}
+	"TIME_OUT"
+	{
+		"en"			"Lost Connection"
+		"es"			"Lost Connection"
+	}
+	"BY_CONSOLE"
+	{
+		"en"			"By Console"
+		"es"			"Por Consola"
+	}
+	"BY_USER"
+	{
+		"en"			"Disconnect User"
+		"es"			"Usuario Desconectado"
+	}
+	"PING"
+	{
+		"en"			"Ping Is Too High"
+		"es"			"Ping Es Demasiado Alto"
+	}
+	"NO_STEAM_LOGON"
+	{
+		"en"			"Crash"
+		"es"			"Crash"
+	}
+	"VALIDATION"
+	{
+		"en"			"Validation Rejected"
+		"es"			"Validacion Rechazada"
+	}
+	"DISCONECT_STATUS"
+	{
+		"en"			"{default}✫ {red}%N {olive}I Leave The Game {green}|{olive}%s{green}|"
+		"es"			"{default}✫ {red}%N {olive}Dejo La Partida {green}|{olive}%s{green}|"
+	}
+}

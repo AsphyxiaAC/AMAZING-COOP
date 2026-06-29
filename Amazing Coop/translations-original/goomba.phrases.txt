@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"stompToSurv"
+	{
+		"#format"		"{1:N}{2:N}"
+		"en"			"{default}[{green}★★★{default}] {olive}{1} {default}goomba stomped {red}{2} {default}[{green}★★★{default}]"
+	}
+	
+	"stompToInf"
+	{
+		"#format"		"{1:N}{2:N}"
+		"en"			"{default}[{green}★★★{default}] {olive}{1} {default}goomba stomped {blue}{2} {default}[{green}★★★{default}]"
+	}
+}

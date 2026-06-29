@@ -1,0 +1,169 @@
+"Phrases"
+{
+	// ===================== CHAT =====================
+	"Self-Helping"
+	{
+		"en"		"Self-Helping"
+		"es"		"Auto-Ayudándote"
+	}
+	"you are helping %N"
+	{
+		"en"		"You Are Helping %N"
+		"es"		"Estás ayudando a %N"
+	}
+	"%N are helping you"
+	{
+		"en"		"%N Is Helping You"
+		"es"		"%N está ayudándote"
+	}
+
+	"you find pills"
+	{
+		"en"		"Grabbed Pills"
+		"es"		"Obtuviste Píldoras"
+	}
+	"you find adrenaline"
+	{
+		"en"		"Grabbed Adrenaline"
+		"es"		"Obtuviste Adrenalina"
+	}
+	"you find medkit"
+	{
+		"en"		"Grabbed Medkit"
+		"es"		"Obtuviste un Botiquín"
+	}
+	"you find pistol"
+	{
+		"en"		"Grabbed Pistol"
+		"es"		"Obtuviste una Pistola"
+	}
+	"help self failed"
+	{
+		"en"		"Self-Help Failed"
+		"es"		"Autoayuda Fallida"
+	}
+	"you are helping youself"
+	{
+		"en"		"You Are Helping Yourself"
+		"es"		"Te estás ayudando a ti mismo"
+	}
+	"%N help himself with medkit!"
+	{
+		"en"		"{blue}%N {default}helped himself with {green}medkit!"
+		"es"		"{blue}%N {default}se autoayudó con {green}botiquín!"
+	}
+	"%N help himself with adrenaline!"
+	{
+		"en"		"{blue}%N {default}helped himself with {green}adrenaline!"
+		"es"		"{blue}%N {default}se autoayudó con {green}adrenalina!"
+	}
+	"%N help himself with pills!"
+	{
+		"en"		"{blue}%N {default}helped himself with {green}pills!"
+		"es"		"{blue}%N {default}se autoayudó con {green}píldoras!"
+	}
+	"You incapacitated [%d of %d]"
+	{
+		"en"		"{olive}You incapacitated {green}[{olive}%d {default}of {olive}%d{green}]"
+		"es"		"{default}Estás incapacitado {green}[{olive}%d {default}de {olive}%d{green}]"
+	}
+	"You incapacitated [SelfHelp %d]"
+	{
+		"en"		"{olive}You incapacitated {blue}[SelfHelp {green}%d{blue}]"
+		"es"		"{olive}Estás incapacitado {blue}[Autoayuda {green}%d{blue}]"
+	}
+	"%N helped %N when incapacitated!"
+	{
+		"en"		"{blue}%N {default}helped {blue}%N {default}when incapacitated!"
+		"es"		"{blue}%N {default}ayudó a {blue}%N {default}estando incapacitado!"
+	}
+	"You are was revived [%d of %d]"
+	{
+		"en"		"{blue}You were revived {green}[{olive}%d {green}of {olive}%d{green}]"
+		"es"		"{blue}Te revivieron {green}[{olive}%d {green}de {olive}%d{green}]"
+	}
+	"You revived %N [%d of %d]"
+	{
+		"en"		"{blue}You revived {olive}%N {green}[{olive}%d {default}of {olive}%d{green}]"
+		"es"		"{blue}Has revivido a {olive}%N {green}[{olive}%d {default}de {olive}%d{green}]"
+	}
+	"The player %N revived you [%d of %d]"
+	{
+		"en"		"The player {blue}%N revived you {green}[{olive}%d {default}of {olive}%d{green}]"
+		"es"		"El jugador {blue}%N te revivió {green}[{olive}%d {default}de {olive}%d{green}]"
+	}
+	"You were lifted from ledge"
+	{
+		"en"		"You were lifted from the ledge."
+		"es"		"Te levantaron desde el borde."
+	}
+	"self help used progress"
+	{
+		"en"		"{green}[{olive}SelfHelp{green}] {default}Used: {olive}%d {blue}."
+		"es"		"{green}[{olive}SelfHelp{green}] {default}Usada: {olive}%d {blue}."
+	}
+	"self help used unlimited"
+	{
+		"en"		"{green}[{olive}SelfHelp{green}] {default}Used: {olive}%d {blue}(unlimited)."
+		"es"		"{green}[{olive}SelfHelp{green}] {default}Usada: {olive}%d {blue}(ilimitadas)."
+	}
+	"self help max reached 2"
+	{
+		"en"		"{green}⚠ {blue}You have exceeded the maximum self-helps {olive}(%d)."
+		"es"		"{green}⚠ {blue}Has superado el máximo de autoayudas {olive}(%d)."
+	}
+	// ===================== HINTS =====================
+	"press DUCK to self help"
+	{
+		"en"		"Press CTRL [DUCK] to self-help!"
+		"es"		"Presiona CTRL [Agacharse] para auto-ayudarte!"
+	}
+	"press CTRL or E to self help"
+	{
+		"en"		"Hold CTRL or E to self-help!"
+		"es"		"Mantén CTRL o E para autoayudarte!"
+	}
+	"hold key to self help"
+	{
+		"en"		"Hold the key to self-help."
+		"es"		"Mantén la tecla para autoayudarte."
+	}
+	"you can self help now"
+	{
+		"en"		"You can self-help now (hold CTRL or E)."
+		"es"		"Puedes autoayudarte ahora (mantén CTRL o E)."
+	}
+	"You may revive incapped survivors!"
+	{
+		"en"		"Help other incapacitated survivors by pressing RELOAD"
+		"es"		"Ayuda a otro sobreviviente incapacitado presionando R"
+	}
+	"self help not possible"
+	{
+		"en"		"Cannot self-help right now."
+		"es"		"No puedes autoayudarte ahora."
+	}
+	"self help max reached 1"
+	{
+		"en"		"⚠ You have exceeded the maximum self-helps (%d)."
+		"es"		"⚠ Has superado el máximo de autoayudas (%d)."
+	}
+	"need item to help"
+	{
+		"en"		"You need a healing item to help."
+		"es"		"Necesitas un objeto curativo para ayudar."
+	}
+	"hold CTRL or E to self help"
+	{
+    		"en"        	"Hold CTRL or E to self-help…"
+    		"es"        	"Mantén CTRL o E para autoayuda…"
+	}
+
+	"SelfHelp Biggest Noob"
+	{
+    		"#format" 	"{1:s},{2:d}"
+    		"es" 		"{olive}[AutoAyuda]{blue} {1} {default}es el más noob. Se ha auto-ayudado {orange}{2} {default}veces."
+    		"en" 		"{olive}[AutoHelp]{blue} {1} {default}is the biggest noob. Self-helped {orange}{2} {default}times."
+	}
+
+}

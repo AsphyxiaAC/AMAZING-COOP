@@ -1,0 +1,64 @@
+"Phrases"
+{
+
+	"sm_respawnex @s"
+	{
+		"en"			"Revivir A Todos Los Muertos"		
+		"zho"			"投票選單"
+		"chi"			"投票菜单"
+	}
+    
+	"sm_camino"
+	{
+		"en"			"Trails"		
+		"zho"			"我的SRS"
+		"chi"			"我的SRS"
+	}
+
+	"sm_guns"
+	{
+		"en"			"Torreta Inteligente - VIP"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+	"sm_gunsmenu"
+	{
+		"en"			"Torreta Inteligente - MOD"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+	"sm_parachute"
+	{
+		"en"			"Paracaidas"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+
+	"sm_melee"
+	{
+		"en"			"Menu De Melees"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+ 
+ 	"sm_weapon"
+	{
+		"en"			"Menu De Armas"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+
+ 	"sm_misc"
+	{
+		"en"			"Menu De Medicamentos"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+    
+	"MENU"
+	{
+		"en"			"✰ | MENU VIP | ✰"		
+		"zho"			"選單"
+		"chi"			"菜单"
+	}
+}

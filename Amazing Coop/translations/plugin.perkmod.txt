@@ -1,0 +1,626 @@
+﻿"Phrases"
+{
+	"WelcomeMessageHint"
+	{
+		"en"	"Bienvenidos a MUTANT TANKS ARCADE MOD!"
+		"es"	"Bienvenidos a MUTANT TANKS ARCADE MOD!"
+	}
+
+	"WelcomeMessageChat"
+	{
+		"en"	"Escriba !skills para abrir el menu de habilidades"
+		"es"	"Escriba !skills para abrir el menu de habilidades"
+	}
+
+	"BonusDamageText"
+	{
+		"en"	"daño extra"
+		"es"	"daño extra"
+	}
+
+	"SpritSuccessMessage"
+	{
+		"en"	"Te auto-ayudaste"
+		"es"	"Te auto-ayudaste"
+	}
+
+	"SpiritTimerFinishedMessage"
+	{
+		"en"	"Te sientes fuerte para auto-levantarte de nuevo!"
+		"es"	"Te sientes fuerte para auto-levantarte de nuevo!"
+	}
+
+	"UnbreakableHint"
+	{
+		"en"	"Bonus de salud"
+		"es"	"Bonus de salud"
+	}
+
+	"GrenadierCarryHint"
+	{
+		"en"	"Ya tienes"
+		"es"	"Ya tienes"
+	}
+
+	"GrenadierCantTake2Grenades_A"
+	{
+		"en"	"Solo puedes llevar una"
+		"es"	"Solo puedes llevar una"
+	}
+
+	"GrenadierCantTake2Grenades_B"
+	{
+		"en"	"Lanza tu segunda granada antes de levantar otra"
+		"es"	"Lanza tu segunda granada antes de levantar otra"
+	}
+
+	"GrenadierCounter_A"
+	{
+		"en"	"Aun tienes"
+		"es"	"Aun tienes"
+	}
+
+	"GrenadierCounter_B"
+	{
+		"en"	"restante(s)"
+		"es"	"restante(s)"
+	}
+
+	"HelpingHandDonorHint"
+	{
+		"en"	"dio salud extra temporal a"
+		"es"	"dio salud extra temporal a"
+	}
+
+	"HelpingHandReceiverHint"
+	{
+		"en"	"te dio salud extra temporal!"
+		"es"	"te dio salud extra temporal!"
+	}
+
+	"BarfBaggedMobHint"
+	{
+		"en"	"Se ha llamado una gran horda!"
+		"es"	"Se ha llamado una gran horda!"
+	}
+
+	"JuggernautHint"
+	{
+		"en"	"Tu salud ha aumentado!"
+		"es"	"Tu salud ha aumentado!"
+	}
+
+	"MetabolicHint"
+	{
+		"en"	"Tu velocidad ha aumentado!"
+		"es"	"Tu velocidad ha aumentado!"
+	}
+
+	"StormCallerHint"
+	{
+		"en"	"Se ha invocado una oleada zombie!"
+		"es"	"Se ha invocado una oleada zombie!"
+	}
+
+	"MapPerksPanel"
+	{
+		"en"	"Tus skills para esta ronda"
+		"es"	"Tus skills para esta ronda"
+	}
+
+	"PyroDescriptionPanel"
+	{
+		"en"	"llevas 2 granadas en vez de 1"
+		"es"	"llevas 2 granadas en vez de 1"
+	}
+
+	"SpiritDescriptionPanel"
+	{
+		"en"	"te auto-levantas con compañeros incapacitados"
+		"es"	"te auto-levantas con compañeros incapacitados"
+	}
+
+	"DoubleTapDescriptionPanel"
+	{
+		"en"	"disparas mas rapido"
+		"es"	"disparas mas rapido"
+	}
+
+	"SleighOfHandDescriptionPanel"
+	{
+		"en"	"recargas mas rapido"
+		"es"	"recargas mas rapido"
+	}
+
+	"NotSet"
+	{
+		"en"	"No establecido"
+		"es"	"No establecido"
+	}
+	"ChemReliantDescriptionPanel"
+	{
+		"en"	"salud temporal extra usando pildoras/adrenalina"
+		"es"	"salud temporal extra usando pildoras/adrenalina"
+	}
+
+	"HelpingHandDescriptionPanel"
+	{
+		"en"	"da salud extra temporal"
+		"es"	"da salud extra temporal"
+	}
+
+	"PackRatDescriptionPanel"
+	{
+		"en"	"llevas mas municion"
+		"es"	"llevas mas municion"
+	}
+
+	"MartialArtistDescriptionPanelCoop"
+	{
+		"en"	"corres mas rapido"
+		"es"	"corres mas rapido"
+	}
+
+	"HardToKillDescriptionPanel"
+	{
+		"en"	"mas salud cuando te incapacitan"
+		"es"	"mas salud cuando te incapacitan"
+	}
+
+	"BarfBaggedDescriptionPanel"
+	{
+		"en"	"el vomito atrae mas zombies"
+		"es"	"el vomito atrae mas zombies"
+	}
+
+	"DeadWreckeningDescriptionPanel"
+	{
+		"en"	"los zombies atraidos por el vomito producen mas daño"
+		"es"	"los zombies atraidos por el vomito producen mas daño"
+	}
+
+	"MotionSicknessDescriptionPanel"
+	{
+		"en"	"mayor velocidad, vomitas mientras corres"
+		"es"	"mayor velocidad, vomitas mientras corres"
+	}
+
+	"BodySlamDescriptionPanel"
+	{
+		"en"	"un minimo de daño con pounce"
+		"es"	"un minimo de daño con pounce"
+	}
+
+	"EfficientKillerDescriptionPanel"
+	{
+		"en"	"daño extra al rasgar"
+		"es"	"daño extra al rasgar"
+	}
+
+	"GrasshopperDescriptionPanel"
+	{
+		"en"	"salta mas lejos"
+		"es"	"salta mas lejos"
+	}
+
+	"OldSchoolDescriptionPanel"
+	{
+		"en"	"daño extra de garras"
+		"es"	"daño extra de garras"
+	}
+
+	"StormCallerDescriptionPanel"
+	{
+		"en"	"oleada zombie con tu aparicion"
+		"es"	"oleada zombie con tu aparicion"
+	}
+
+	"InitialMenuPanel1"
+	{
+		"en"	"________________________________________________"
+		"es"	"________________________________________________"
+	}
+
+	"InitialMenuPanel2"
+	{
+		"en"	"  - Detallar tus preferencias"
+		"es"	"  - Detallar tus preferencias"
+	}
+
+	"InitialMenuPanel3"
+	{
+		"en"	"Skills Personalizados:"
+		"es"	"Skills Personalizados:"
+	}
+
+	"InitialMenuPanel4"
+	{
+		"en"	"  - Puedes elejir las skills al azar"
+		"es"	"  - Puedes elejir las skills al azar"
+	}
+
+	"InitialMenuPanel5"
+	{
+		"en"	"    pero no puedes cambiarlos despues"
+		"es"	"    pero no puedes cambiarlos despues"
+	}
+
+	"InitialMenuPanel6"
+	{
+		"en"	"Skills Aleatorio:"
+		"es"	"Skills Aleatorio:"
+	}
+
+	"InitialMenuPanel7"
+	{
+		"en"	"  - Sino, puedes usar cualquier"
+		"es"	"  - Sino, puedes usar cualquier"
+	}
+
+	"InitialMenuPanel8"
+	{
+		"en"	"    skill que ya allas seleccionado"
+		"es"	"    skill que ya allas seleccionado"
+	}
+
+	"InitialMenuPanel9"
+	{
+		"en"	"    eligiendo la opcion 3"
+		"es"	"    eligiendo la opcion 3"
+	}
+
+	"InitialMenuPanel10"
+	{
+		"en"	"JUGAR AHORA"
+		"es"	"JUGAR AHORA"
+	}
+
+	"ThanksForChoosingMessage"
+	{
+		"en"	"HABILIDADES ACTIVADAS!!!"
+		"es"	"HABILIDADES ACTIVADAS!!!"
+	}
+
+	"ChooseSubMenuPanel"
+	{
+		"en"	"Selecciona un submenu para elegir skills"
+		"es"	"Selecciona un submenu para elegir skills"
+	}
+
+	"DoneNagPanel1"
+	{
+		"en"	"Para que tus skills funcionen"
+		"es"	"Para que tus skills funcionen"
+	}
+
+	"DoneNagPanel2"
+	{
+		"en"	"elije la opcion 8 'COMPLETO'"
+		"es"	"elije la opcion 8 'COMPLETO'" 
+	}
+
+	"DoneNagPanel3"
+	{
+		"en"	"COMPLETO"
+		"es"	"COMPLETO"
+	}
+
+	"ConfirmNagPanel1"
+	{
+		"en"	"Estas seguro?"
+		"es"	"Estas seguro?"
+	}
+
+	"ConfirmNagPanel2"
+	{
+		"en"	"Una vez que confirmes ya no puedes cambiar"
+		"es"	"Una vez que confirmes ya no puedes cambiar"
+	}
+
+	"ConfirmNagPanel3"
+	{
+		"en"	"tus skills hasta la siguiente ronda"
+		"es"	"tus skills hasta la siguiente ronda"
+	}
+
+	"ConfirmNagPanel4"
+	{
+		"en"	"CONFIRMAR"
+		"es"	"CONFIRMAR"
+	}
+
+	"ConfirmNagPanel5"
+	{
+		"en"	"Si cancelas recuerda que tus skills"
+		"es"	"Si cancelas recuerda que tus skills"
+	}
+
+	"ConfirmNagPanel6"
+	{
+		"en"	"no tendran efecto hasta"
+		"es"	"no tendran efecto hasta"
+	}
+
+	"ConfirmNagPanel7"
+	{
+		"en"	"que des confirmar"
+		"es"	"que des confirmar"
+	}
+
+	"ConfirmNagPanel8"
+	{
+		"en"	"CANCELAR"
+		"es"	"CANCELAR"
+	}
+
+	"ConfirmedMessage"
+	{
+		"en"	"Habilidades activadas. No podras cambiarlos hasta la siguiente ronda. \n\n Para revisar tus skills, escribe !skills"
+		"es"	"Habilidades activadas. No podras cambiarlos hasta la siguiente ronda. \n\n Para revisar tus skills, escribe !skills"
+	}
+
+	"YourPerksPanel"
+	{
+		"en"	"Menu de Habilidades: Tus skills para esta ronda"
+		"es"	"Menu de Habilidades: Tus skills para esta ronda"
+	}
+
+	"DoubleTapDescriptionText"
+	{
+		"en"	"Mayor velocidad de disparo (no aplica en miniguns)"
+		"es"	"Mayor velocidad de disparo (no aplica en miniguns)"
+	}
+
+	"DisplayDisabledText"
+	{
+		"en"	"desactivado"
+		"es"	"desactivado"
+	}
+
+	"PyroDescriptionText1"
+	{
+		"en"	"Levantando una granada te da 2"
+		"es"	"Levantando una granada te da 2"
+	}
+
+	"PyroDescriptionText2"
+	{
+		"en"	"y arrancar la ronda con 2 granadas"
+		"es"	"y arrancar la ronda con 2 granadas"
+	}
+
+	"SpiritDescriptionText"
+	{
+		"en"	"Cuando un compañero cae te puedes auto-leventar con el"
+		"es"	"Cuando un compañero cae te puedes auto-leventar con el"
+	}
+
+	"SpritDescriptionText2"
+	{
+		"en"	"salud extra temporal"
+		"es"	"salud extra temporal"
+	}
+
+	"ChemReliantDescriptionText"
+	{
+		"en"	"Ganas salud extra temporal cuando usas pildoras/adrenalina"
+		"es"	"Ganas salud extra temporal cuando usas pildoras/adrenalina"
+	}
+
+	"ChemReliantDescriptionText2"
+	{
+		"en"	"y arrancas la ronda con pildoras o adrenalina"
+		"es"	"y arrancas la ronda con pildoras o adrenalina"
+	}
+
+	"HardToKillDescriptionText"
+	{
+		"en"	"Cuando quedas incapacitado tienes"
+		"es"	"Cuando quedas incapacitado tienes"
+	}
+
+	"HardToKillDescriptionText2"
+	{
+		"en"	"mas salud"
+		"es"	"mas salud"
+	}
+
+	"SqueezerDescriptionText"
+	{
+		"en"	"Tu lengua produce mas daño al estrangular"
+		"es"	"Tu lengua produce mas daño al estrangular"
+	}
+
+
+	"AdrenalGlandsHint"
+	{
+		"en"	"tus golpes son mas rapidos!"
+		"es"	"tus golpes son mas rapidos!"
+	}
+
+	"DoubleTroubleHint1"
+	{
+		"en"	"Tienes menos salud, y otro tank aparecera contigo!"
+		"es"	"Tienes menos salud, y otro tank aparecera contigo!"
+	}
+
+	"DoubleTroubleHint2"
+	{
+		"en"	"Tienes menos saludo, y tus perks de tank no funcionaran!"
+		"es"	"Tienes menos saludo, y tus perks de tank no funcionaran!"
+	}
+
+	"MartialArtistDescriptionPanel"
+	{
+		"en"	"Golpe triple, tu fatiga con arma de mano se reduce a la mitad"
+		"es"	"Golpe triple, tu fatiga con arma de mano se reduce a la mitad"
+	}
+
+	"MartialArtistDescriptionPanel1"
+	{
+		"en"	"Puedes golpear 3 veces rapidamente con armas de mano"
+		"es"	"Puedes golpear 3 veces rapidamente con armas de mano"
+	}
+
+	"MartialArtistDescriptionPanel2"
+	{
+		"en"	"y tu puedes dar mas empujones antes del cansancio"
+		"es"	"y tu puedes dar mas empujones antes del cansancio"
+	}
+
+	"HelpingHandDescriptionPanel2"
+	{
+		"en"	"levantas a otros mas rapido, y da recarga de salud extra"
+		"es"	"levantas a otros mas rapido, y da recarga de salud extra"
+	}
+
+	"AcidVomitDescriptionPanel"
+	{
+		"en"	"superviviente no ven su panel cuando los vomitan, recarga vomito mas rapido"
+		"es"	"superviviente no ven su panel cuando los vomitan, recarga vomito mas rapido"
+	}
+
+	"TongueTwisterDescriptionPanel"
+	{
+		"en"	"legua mas larga y rapida"
+		"es"	"legua mas larga y rapida"
+	}
+
+	"TongueTwisterDescriptionPanel1"
+	{
+		"en"	"la lengua se dispara mas rapido"
+		"es"	"la lengua se dispara mas rapido"
+	}
+
+	"TongueTwisterDescriptionPanel2"
+	{
+		"en"	"alcance de legua extendido"
+		"es"	"alcance de legua extendido"
+	}
+
+	"TongueTwisterDescriptionPanel3"
+	{
+		"en"	"lengua arrastra mas rapido"
+		"es"	"lengua arrastra mas rapido"
+	}
+
+	"DragAndDropDescriptionPanel"
+	{
+		"en"	"disparas mas seguido tu lengua y la liberas con click derecho"
+		"es"	"disparas mas seguido tu lengua y la liberas con click derecho"
+	}
+
+	"SpeedDemonDescriptionPanel"
+	{
+		"en"	"velocidad extra"
+		"es"	"velocidad extra"
+	}
+
+	"AdrenalGlandsDescriptionPanelShort"
+	{
+		"en"	"Atacas mas rapido"
+		"es"	"Atacas mas rapido"
+	}
+
+	"AdrenalGlandsDescriptionPanel1"
+	{
+		"en"	"golpeas mas rapido"
+		"es"	"golpeas mas rapido"
+	}
+
+	"AdrenalGlandsDescriptionPanel2"
+	{
+		"en"	"arrojas rocas mas rapido"
+		"es"	"arrojas rocas mas rapido"
+	}
+
+	"AdrenalGlandsDescriptionPanel3"
+	{
+		"en"	"tu tank no se pone frustrado"
+		"es"	"tu tank no se pone frustrado"
+	}
+
+	"DoubleTroubleDescriptionPanel"
+	{
+		"en"	"segundo tank en aparcicion"
+		"es"	"segundo tank en aparcicion"
+	}
+
+	"DoubleTroubleDescriptionPanel2"
+	{
+		"en"	"salud reducida para los dos"
+		"es"	"salud reducida para los dos"
+	}
+
+	"RideLikeTheWindDescriptionPanel"
+	{
+		"en"	"Jinete mas rapido"
+		"es"	"Jinete mas rapido"
+	}
+
+	"FroggerDescriptionPanel"
+	{
+		"en"	"salto a distancia e"
+		"es"	"salto a distancia e"
+	}
+
+	"GhostRiderDescriptionPanel"
+	{
+		"en"	"invisibilidad"
+		"es"	"invisibilidad"
+	}
+
+	"TwinSpitfireDescriptionPanel"
+	{
+		"en"	"escupe dos veces seguidas"
+		"es"	"Spit Two In A Row"
+	}
+
+	"ScatteringRamDescriptionPanel"
+	{
+		"en"	"salud extra y empujas a los supervivientes mas lejos"
+		"es"	"Extra Health And Stuns Survivors Even More"
+	}
+
+	"SpeedingBulletDescriptionPanel"
+	{
+		"en"	"embistes mas rapido"
+		"es"	"You Charger Faster"
+	}
+	
+	"LittleLeaguerDescriptionPanel"
+	{
+		"en"	"Apareces Con Un Bat De Baseball"
+		"es"	"You Appear With A Baseball Bat"
+	}
+	
+	"MegaAdhesiveDescriptionPanel"
+	{
+		"en"	"Relentiza A Los Supervivientes"
+		"es"	"Slow Down The Survivors"
+	}
+	
+	"SmokeItDescriptionPanel"
+	{
+		"en"	"Puedes Caminar Mientras Arrastras A Los Supervivientes"
+		"es"	"You Can Walk While Dragging The Survivors"
+	}
+
+	"DoubleTapRestrictionWarning"
+	{
+		"en"	"SOLO SEMI AUTO"
+		"es"	"ONLY SEMI CAR"
+	}
+	
+	"MartialArtistDescriptionPanel_noreduc"
+	{
+		"en"	"Golpe triple"
+		"es"	"Triple Hit"
+	}
+	
+	"SpiritBWWarning"
+	{
+		"en"	"Be Careful: These Are In BLACK AND WHITE!!!"
+		"es"	"Cuidado: Ahora Estas En BLANCO Y NEGRO!!!"
+	}
+}

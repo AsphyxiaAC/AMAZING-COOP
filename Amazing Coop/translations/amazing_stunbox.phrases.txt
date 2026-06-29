@@ -1,0 +1,33 @@
+"Phrases"
+{
+	"STUN1"
+	{
+		"en"			"{olive}• {blue}Go To Super Stunt Box SAfe Zone In {olive}20 {orange}Seconds."
+		"es"			"{olive}• {blue}Ve A Zona Segura Super Stun Box En {olive}20 {orange}Seg."
+	}
+	"STUN2"
+	{
+		"en"			"{olive}• {blue}Go To Super Stunt Box SAfe Zone In {olive}15 {orange}Seconds."
+		"es"			"{olive}• {blue}Ve A Zona Segura Super Stun Box En {olive}15 {orange}Seg."
+	}
+	"STUN3"
+	{
+		"en"			"{olive}• {blue}Go To Super Stunt Box SAfe Zone In {olive}10 {orange}Seconds."
+		"es"			"{olive}• {blue}Ve A Zona Segura Super Stun Box En {olive}10 {orange}Seg."
+	}
+	"STUN4"
+	{
+		"en"			"{olive}• {blue}Go To Super Stunt Box SAfe Zone In {olive}5 {orange}Seconds."
+		"es"			"{olive}• {blue}Ve A Zona Segura Super Stun Box En {olive}5 {orange}Seg."
+	}
+	"STUN5"
+	{
+		"en"			"{olive}• {blue}Go To Super Stunt Box SAfe Zone In {olive}1 {orange}Seconds."
+		"es"			"{olive}• {blue}Ve A Zona Segura Super Stun Box En {olive}1 {orange}Seg."
+	}
+	"STUN6"
+	{
+		"en"			"{red}☠ {olive}It's Your End."
+		"es"			"{red}☠ {olive}Es Tu Fin."
+	}
+}

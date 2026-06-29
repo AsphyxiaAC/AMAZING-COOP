@@ -1,0 +1,71 @@
+"Phrases"
+{
+    "Main_Yape"
+    {
+        "es"        "» Yapear"
+        "en"        "» Yapear"
+    }
+
+    "YapePlayersTitle"
+    {
+        "es"        "Selecciona jugador para Yapear"
+        "en"        "Select player to Yapear"
+    }
+
+    "YapeAmountsTitle"
+    {
+        "#format"   "{1:N},{2:s}"
+        "es"        "Yapear a {1}\nMoneda: {2}"
+        "en"        "Yapear to {1}\nCurrency: {2}"
+    }
+
+    "YapeConfirmTitle"
+    {
+        "#format"   "{1:N},{2:d},{3:s}"
+        "es"        "Confirmar Yapeo\nDestino: {1}\nMonto: {2} {3}"
+        "en"        "Confirm Yapeo\nTarget: {1}\nAmount: {2} {3}"
+    }
+
+    "YapeNoPlayers"
+    {
+        "es"        "No hay jugadores reales para yapear."
+        "en"        "There are no real players to yape."
+    }
+
+    "YapeInvalidPlayer"
+    {
+        "es"        "Jugador invalido para yapear."
+        "en"        "Invalid player for yape."
+    }
+
+    "YapeInvalidAmount"
+    {
+        "es"        "Monto invalido. Usa: 1, 2, 5, 10, 15, 20, 50, 100 o 200."
+        "en"        "Invalid amount. Use: 1, 2, 5, 10, 15, 20, 50, 100 or 200."
+    }
+
+    "YapeUsage"
+    {
+        "es"        "Uso: !yape o !yape <monto> <jugador>"
+        "en"        "Usage: !yape or !yape <amount> <player>"
+    }
+
+    "YapeNoMoneyHint"
+    {
+        "#format"   "{1:d},{2:s}"
+        "es"        "No tienes {1} {2} para yapear."
+        "en"        "You do not have {1} {2} to yape."
+    }
+
+    "YapeChatVerb"
+    {
+        "es"        "Yapeo"
+        "en"        "yaped"
+    }
+
+    "YapeChatTo"
+    {
+        "es"        "a"
+        "en"        "to"
+    }
+}

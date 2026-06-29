@@ -1,0 +1,233 @@
+"Phrases"
+{
+	"FIRE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Apened A {green}Fire Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Fire Box"
+	}
+	"BOOM_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Boom Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Boom Box"
+	}
+	"FREEZE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Freeze Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Freeze Box"
+	}
+	"LASER_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Laser Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Laser Box"
+	}
+	"MEED_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Med Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Med Box"
+	}
+	"WITCH_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Witch Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Witch Box"
+	}
+	"PANIC_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Panic Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Panic Box"
+	}
+	"TANK_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Tank Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Tank Box"
+	}
+	"BONUS_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Bonus Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Bonus Box"
+	}
+	"HARD_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Hard Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Hard Box"
+	}
+	"HEAL_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Heal Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Heal Box"
+	}
+	"VOMIT_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Vomit Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Vomit Box"
+	}
+	"EXPLOSION_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened {green}Explosion Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Explosion Box"
+	}
+	"REALISM_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Realism Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Realism Box"
+	}
+	"BLOOD_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Blood Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Blood Box"
+	}
+	"MATRIX_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Matrix Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Matrix Box"
+	}
+	"GRENADE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Grenade Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Grenade Box"
+	}
+	"BARREL_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Barrel Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Barrel Box"
+	}
+	"STRIKE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Air-Strike Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Air-Strike Box"
+	}
+	"METEOR_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Meteor Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Meteor Box"
+	}
+	"HEAL_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Heal Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Heal Box"
+	}
+	"RESPAWN_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Respawn Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Respawn Box"
+	}
+	"LIGHTNING_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Lightning Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Lightning Box"
+	}
+	"CLOUD_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Cloud Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Cloud Box"
+	}
+	"BRIDE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Bride Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Bride Box"
+	}
+	"FAIL_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Fail Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Fail Box"
+	}
+	"POINTS_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Points Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Points Box"
+	}
+	"BINGO_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Bingo Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Bingo Box"
+	}
+	"ACID_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Acid Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Acid Box"
+	}
+	"FLAME_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Flame Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Flame Box"
+	}
+	"B_W_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Black & White Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Black & White Box"
+	}
+	"WHITE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}White Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}White Box"
+	}
+	"MULTIPLE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Multiple Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Multiple Box"
+	}
+	"BOSS_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Boss Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Boss Box"
+	}
+	"STUN_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Stun Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Stun Box"
+	}
+	"HUNTING_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Hunting Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Hunting Box"
+	}
+	"CHAGER_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Charger Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Charger Box"
+	}
+	"BOOMER_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Boomer Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Boomer Box"
+	}
+	"BLAZE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Blaze Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Blaze Box"
+	}
+	"PET_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Pet Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Pet Box"
+	}
+	"F_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}F-18 Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}F-18 Box"
+	}
+	"BERSERKER_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Berserker Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Berserker Box"
+	}
+	"SPITTER_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Spitter Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Spitter Box"
+	}
+	"TINY_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Tiny Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Tiny Box"
+	}
+	"DISGUISE_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Disguise Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Disguise Box"
+	}
+	"NEXT_BOX"
+	{
+		"en"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Opened A {green}Next Box"
+		"es"			"{green}|{olive}BOX{green}|{green}: {olive}+ {blue}%N {default}Abrio Una {green}Next Box"
+	}
+}

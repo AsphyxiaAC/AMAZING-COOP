@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"CSM_NICK"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Nick."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Nick."
+	}
+	"CSM_ELLIS"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Ellis."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Ellis."
+	}
+	"CSM_COACH"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Coach."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Coach."
+	}
+	"CSM_ROCHELLE"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {red}♂ {olive}Rochelle."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu personaje es {red}♂ {olive}Rochelle."
+	}
+	"CSM_BILL"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Bill."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Bill."
+	}
+	"CSM_ZOEY"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {red}♂ {olive}Zoey."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {red}♂ {olive}Zoey."
+	}
+	"CSM_FRANCIS"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Francis."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Francis."
+	}
+	"CSM_LOUIS"
+	{
+		"en"			"{orange}[AMAZING-COOP] {default}Your Character Is {blue}♂ {olive}Louis."
+		"es"			"{orange}[AMAZING-COOP] {default}Tu Personaje Es {blue}♂ {olive}Louis."
+	}
+}

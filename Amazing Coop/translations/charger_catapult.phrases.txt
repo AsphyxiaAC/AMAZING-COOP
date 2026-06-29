@@ -1,0 +1,44 @@
+"Phrases"
+{
+    "charger_beep_self"
+    {
+        "en" "Catapult in %d..."
+        "es" "Catapulta en %d..."
+    }
+
+    "charger_beep_victim"
+    {
+        "en" "Incoming launch in %d..."
+        "es" "¡Cuidado! %d..."
+    }
+
+    "victim_launched"
+    {
+        "en" "The Charger launched you into the air!"
+        "es" "¡El Charger te lanzó por los aires!"
+    }
+
+    "charger_launched"
+    {
+        "en" "Catapult activated!"
+        "es" "¡Catapulta activada!"
+    }
+
+    "charger_ready"
+    {
+        "en" "Catapult ready in %.1f seconds..."
+        "es" "Catapulta lista en %.1f segundos..."
+    }
+
+    "charger_ready_hint"
+    {
+        "en" "Catapult ready in %.1f seconds..."
+        "es" "Catapulta lista en %.1f segundos..."
+    }
+
+    "carry_end"
+    {
+        "en" "Carry canceled."
+        "es" "Transporte cancelado."
+    }
+}

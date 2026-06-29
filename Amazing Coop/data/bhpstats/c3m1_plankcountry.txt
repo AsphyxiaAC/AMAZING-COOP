@@ -1,0 +1,18 @@
+"bhpstats"
+{
+	"Version"		"3.12"
+	"records"
+	{
+		"bot"
+		{
+			"Name"		"(1)Hunter"
+			"kills"		"1"
+			"dmg"		"390"
+			"dist"		"142"
+		}
+	}
+	"pouncers"
+	{
+		"total"		"1"
+	}
+}

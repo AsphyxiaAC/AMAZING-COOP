@@ -1,0 +1,20 @@
+"Phrases"
+{
+    "Frag_Hint"
+    {
+        "en" "Frags: %d"
+        "es" "Frags: %d"
+    }
+
+    "Deadstop_Announce"
+    {
+        "en" "[✘] %N Deadstopped %N"
+        "es" "[✘] %N Deadstopeó a %N"
+    }
+
+    "Leveled_Announce"
+    {
+        "en" "[✘] %N leveled %N !!"
+        "es" "[✘] %N tumbó a %N !!"
+    }
+}
